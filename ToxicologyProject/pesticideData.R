@@ -1,5 +1,4 @@
 library(tidyverse)
-library(repr)
 # Loaded libraries
 
 annualData <- read.csv("./data/Top_Pesticide_Use_Annual.csv")
@@ -15,7 +14,7 @@ WHO_classification <- c("III", "III", "III", NA, "III", "II", "III", NA, "II", N
 ## TODO: ASK IF I SHOULD TRY AND LOOK AT ONLINE DATABASES LIKE ECOTOX TO TRY
 ## AND CLASSIFY USING WHO GUIDELINES USING ORAL LD50 DATA
 
-## TODO2: PETROLEUM IS A PESTICIDE?
+## TODO2: PETROLEUM IS A PESTICIDE? YES 
 
 ## TODO3: HOW TO AGGREGATE DATA IF MODEL ORGANISMS NOT-STANDARDIZED?
 ## Citation manager to keep track of all the sources if need to aggregate multiple sources?
@@ -25,20 +24,28 @@ pesticideClasses <- data2015 %>%
     rename("WHOHazardClass" = ...4) %>%
     mutate("WHOHazardClass" = as.factor(WHOHazardClass))
 
-print(pesticideClasses)
+# print(pesticideClasses)
 
-options(repr.plot.width = 20, repr.plot.height = 10)
+
 pesticideBarGraph <- pesticideClasses %>%
                         ggplot(aes(x = AnnualUseKG, y = reorder(COMPOUND, AnnualUseKG), fill = WHOHazardClass)) +
                         geom_bar(stat = "identity") +
                         labs(x = "Annual Use (KG)", y = "Pesticide", fill = "Hazard Class") +
-                        ggtitle("Pesticide Hazard Classification with Sorted in Descending Order of Annual Use (Kg)") 
-
-ggsave("PesticideClassGraph.jpeg", 
-        plot = pesticideBarGraph,
-        device = "jpeg",
-        width = 10,
-        height = 10,
-        path = "./")
+                        ggtitle("Pesticide Hazard Classification with Sorted in Descending Order of Annual Use (Kg)") +
+                        theme(text = element_text(size = 20))
+                        
+print(pesticideBarGraph)
+# ggsave("PesticideClassGraph.jpeg", 
+#         plot = pesticideBarGraph,
+#         device = "jpeg",
+#         width = 50,
+#         height = 10,
+#         path = "./")
 
 ## TODO4: ASK ABOUT HOW TO CHANGE PLOT SCALE AND STUFF ON VSCODE
+
+
+## Excel: Pesticide name, Data, Species, Link to paper/Pseudo-citation
+## Web-scraping for the all pesticides possible(?)
+## Figure out share of annual pesticide use as percentage of the whole 
+## Set arbitrary threshold 
