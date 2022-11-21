@@ -1,10 +1,12 @@
 library(tidyverse)
 library(readxl)
+library(xlsx)
 library(purrr)
 
 annualData <- read.csv("ToxicologyProject/data/Top_Pesticide_Use_Annual.csv")
 uniqueCompounds <- read.csv("ToxicologyProject/data/UniqueCompounds.csv")
 collected <- read_excel("ToxicologyProject/data/NIH_Toxicology.xlsx")
+# full_data <- read.csv("ToxicologyProject/data/Pesticidedata_Full.csv")
 
 # Convert to excel to tibble
 collected_tibble <- as_tibble(collected)
@@ -44,6 +46,7 @@ pesticideClasses <- collected_tibble %>%
     rename("Rat_Oral_LD50" = "Rat_Oral_LD50(mg/kg)") %>%
     rename("Compound" = "Pesticide/Compound") %>%
     mutate("WHOHazardClass" = as.factor(WHOHazardClass)) %>%
+    mutate("Proportion_of_Total_Use" = Rat_Oral_LD50 / sum(AnnualUseKG)) %>%
     arrange(Rat_Oral_LD50)
 
 print(pesticideClasses)
@@ -56,7 +59,14 @@ pesticideBarGraph <- pesticideClasses %>%
                         ggtitle("Pesticide Hazard Classification with Sorted in Descending Order of Annual Use (Kg)") +
                         theme(text = element_text(size = 20))
                         
-print(pesticideBarGraph)
+# print(pesticideBarGraph)
+
+proprtion_bar <- pesticideClasses %>%
+    group_by(WHOHazardClass) %>%
+    ggplot(aes(y = AnnualUseKG, x = WHOHazardClass, fill = Compound)) +
+    geom_bar(position = "stack", stat = "identity")
+
+# print(proprtion_bar)
 
 # ggsave("PesticideClassGraph.jpeg", 
 #         plot = pesticideBarGraph,
@@ -65,6 +75,14 @@ print(pesticideBarGraph)
 #         height = 10,
 #         path = "./")
 
+# Can write this to file for quicker/easier access
+# full_2017 <- full_data %>%
+#     filter(YEAR == 2017) %>%
+#     group_by(COMPOUND) %>%
+#     summarize("Average_High_KG" = mean(EPEST_HIGH_KG)) %>%
+#     arrange(desc(Average_High_KG)) %>%
+#     head(20)
+# print(full_2017)
 
 ## TO DO:
 
