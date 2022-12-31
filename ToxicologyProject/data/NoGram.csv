@@ -1,0 +1,1150 @@
+"cid","organism","testtype","route","dose","effect","reference","cmpdname","...9"
+"1004","man","LDLo","unreported","220 mg/kg","NULL","Poisoning; Toxicology, Symptoms, Treatments, 2nd ed., Arena, J.M., Springfield, IL, C.C. Thomas, 1970, 2(73), 1970","Phosphoric Acid",NA
+"1004","rat","LD50","oral","1530 mg/kg","BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); KIDNEY, URETER, AND BLADDER: HEMATURIA; SKIN AND APPENDAGES (SKIN): HAIR: OTHER","BIOFAX Industrial Bio-Test Laboratories, Inc., Data Sheets., 17-4/1970","Phosphoric Acid",NA
+"1004","rabbit","LD50","skin","2740 mg/kg","BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: EXCITEMENT","BIOFAX Industrial Bio-Test Laboratories, Inc., Data Sheets., 17-4/1970","Phosphoric Acid",NA
+"10342051","rat","LD50","oral","325 mg/kg","NULL","Farm Chemicals Handbook., -(C287), 1991","Esfenvalerate",NA
+"104926","rat","LD50","oral","900 mg/kg","NULL","Farm Chemicals Handbook., -(C39), 1991","Cyfluthrin",NA
+"104926","mouse","LD50","oral","300 mg/kg","NULL","Merck Index; an Encyclopedia of Chemicals, Drugs, and Biologicals, 11th ed., Rahway, NJ 07065, Merck & Co., Inc. 1989, 11(432), 1989","Cyfluthrin",NA
+"104926","dog","LD50","oral","500 mg/kg","NULL","Pesticide Manual., 9(198), 1991","Cyfluthrin",NA
+"104926","bird - domestic","LD50","oral","250 mg/kg","NULL","Pesticide Manual., 9(198), 1991","Cyfluthrin",NA
+"10788","rat","LD50","oral","320 mg/kg","BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD","Toxicology and Applied Pharmacology., 9(521), 1966","Dazomet",NA
+"10788","rat","LD50","skin","2260 mg/kg","BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: MUSCLE WEAKNESS; LUNGS, THORAX, OR RESPIRATION: DYSPNEA","Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 17(S327), 1992","Dazomet",NA
+"10788","rat","LD50","intraperitoneal","87 mg/kg","BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD","Toxicology and Applied Pharmacology., 9(521), 1966","Dazomet",NA
+"10788","rat","LD50","subcutaneous","470 mg/kg","BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: MUSCLE WEAKNESS; LUNGS, THORAX, OR RESPIRATION: DYSPNEA","Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 17(S327), 1992","Dazomet",NA
+"10788","mouse","LD50","oral","180 mg/kg","BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD","Toxicology and Applied Pharmacology., 9(521), 1966","Dazomet",NA
+"10788","mouse","LD50","skin","2400 mg/kg","BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: MUSCLE WEAKNESS; LUNGS, THORAX, OR RESPIRATION: DYSPNEA","Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 17(S327), 1992","Dazomet",NA
+"10788","mouse","LD50","intraperitoneal","98 mg/kg","BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: MUSCLE WEAKNESS; LUNGS, THORAX, OR RESPIRATION: DYSPNEA","Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 17(S327), 1992","Dazomet",NA
+"10788","mouse","LD50","subcutaneous","248 mg/kg","BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: MUSCLE WEAKNESS; LUNGS, THORAX, OR RESPIRATION: DYSPNEA","Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 17(S327), 1992","Dazomet",NA
+"10788","mouse","LD50","unreported","650 mg/kg","NULL","Chemistry of Pesticides, Melnikov, N.N., New York, Springer-Verlag New York, Inc., 1971, -(430), 1971","Dazomet",NA
+"10788","dog","LD50","intraperitoneal","47 mg/kg","BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD","Toxicology and Applied Pharmacology., 9(521), 1966","Dazomet",NA
+"10788","dog","LDLo","intramuscular","250 mg/kg","SENSE ORGANS AND SPECIAL SENSES: MYDRIASIS (PUPILLARY DILATION): EYE; VASCULAR: BP ELEVATION NOT CHARACTERIZED IN AUTONOMIC SECTION; GASTROINTESTINAL: HYPERMOTILITY, DIARRHEA","Toxicology and Applied Pharmacology., 9(521), 1966","Dazomet",NA
+"10788","rabbit","LD50","oral","120 mg/kg","BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD","Toxicology and Applied Pharmacology., 9(521), 1966","Dazomet",NA
+"10788","rabbit","LD50","intraperitoneal","127 mg/kg","BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD","Toxicology and Applied Pharmacology., 9(521), 1966","Dazomet",NA
+"10788","guinea pig","LD50","oral","160 mg/kg","BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD","Toxicology and Applied Pharmacology., 9(521), 1966","Dazomet",NA
+"1118","man","LDLo","unreported","135 mg/kg","NULL","Poisoning; Toxicology, Symptoms, Treatments, 2nd ed., Arena, J.M., Springfield, IL, C.C. Thomas, 1970, 2(73), 1970","Sulfuric Acid",NA
+"1118","rat","LD50","oral","2140 mg/kg","NULL","American Industrial Hygiene Association Journal., 30(470), 1969 [PMID:5823428]","Sulfuric Acid",NA
+"115224","rat","LD50","oral","444 mg/kg","BEHAVIORAL: TREMOR; GASTROINTESTINAL: DECREASED MOTILITY OR CONSTIPATION; SKIN AND APPENDAGES (SKIN): HAIR: OTHER","National Technical Information Service., OTS0559690","Thiacloprid",NA
+"121494065","women","LDLo","oral","562 mg/kg","BEHAVIORAL: COMA; CARDIAC: OTHER CHANGES","Journal of Toxicology, Clinical Toxicology., 35(299), 1997 [PMID:9140325]","Calcium polysulfide",NA
+"121494065","man","TDLo","oral","891 mg/kg","BEHAVIORAL: MUSCLE WEAKNESS; GASTROINTESTINAL: ALTERATION IN GASTRIC SECRETION","Journal of Toxicology, Clinical Toxicology., 35(299), 1997 [PMID:9140325]","Calcium polysulfide",NA
+"12232","mammal (species unspecified)","LD50","unreported","138 mg/kg","NULL","Gigiena Truda i Professional'nye Zabolevaniya.  Labor Hygiene and Occupational Diseases., 16(6)(46), 1972","Dimethyl disulfide",NA
+"12901","human","LDLo","oral","50 mg/kg","NULL","Special Publication of the Entomological Society of America., 74-1(-), 1974","Phosmet",NA
+"12901","rat","LD50","skin","1326 mg/kg","NULL","Toxicometric Parameters of Industrial Toxic Chemicals Under Single Exposure, Izmerov, N.F., et al., Moscow, Centre of International Projects, GKNT, 1982, -(59), 1982","Phosmet",NA
+"12901","mouse","LD50","oral","26 mg/kg","BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: MUSCLE CONTRACTION OR SPASTICITY); LUNGS, THORAX, OR RESPIRATION: DYSPNEA","Hygiene and Sanitation, 34(1-3)(192), 1969","Phosmet",NA
+"12901","cat","LD50","unreported","78 mg/kg","NULL","Gigiena i Sanitariya.  For English translation, see HYSAAV., 35(12)(94), 1970","Phosmet",NA
+"12901","rabbit","LD50","skin","3160 mg/kg","NULL","Agrochemicals Handbook, with updates, Hartley, D., and H. Kidd, eds., Nottingham, Royal Soc of Chemistry, 1983-86, A325(1983)","Phosmet",NA
+"12901","guinea pig","LD50","oral","200 mg/kg","BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: MUSCLE CONTRACTION OR SPASTICITY); LUNGS, THORAX, OR RESPIRATION: DYSPNEA","Hygiene and Sanitation, 34(1-3)(192), 1969","Phosmet",NA
+"12901","guinea pig","LD50","unreported","210 mg/kg","NULL","Gigiena i Sanitariya.  For English translation, see HYSAAV., 35(12)(94), 1970","Phosmet",NA
+"12901","chicken","LD50","oral","707 mg/kg","BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD","Toxicology and Applied Pharmacology., 6(147), 1964","Phosmet",NA
+"12901","duck","LD50","oral","1830 mg/kg","NULL","Down to Earth., 35(25), 1979","Phosmet",NA
+"12901","mammal (species unspecified)","LD50","unreported","40 mg/kg","NULL","Chemistry of Pesticides, Melnikov, N.N., New York, Springer-Verlag New York, Inc., 1971, -(370), 1971","Phosmet",NA
+"12901","bird - wild","LD50","oral","18 mg/kg","NULL","Toxicology and Applied Pharmacology., 21(315), 1972 [PMID:5027965]","Phosmet",NA
+"12901","rat","LD50","unreported","132 mg/kg","NULL","Gigiena i Sanitariya.  For English translation, see HYSAAV., 35(12)(94), 1970","Phosmet",NA
+"12932","rat","LD50","oral","271 mg/kg","NULL","Farm Chemicals Handbook., -(C42), 1991","Bensulide",NA
+"12932","rat","LD50","skin","3950 mg/kg","NULL","Pesticide Manual., 9(63), 1991","Bensulide",NA
+"12932","rat","LD50","unreported","770 mg/kg","NULL","Chemistry of Pesticides, Melnikov, N.N., New York, Springer-Verlag New York, Inc., 1971, -(375), 1971","Bensulide",NA
+"12932","mouse","LD50","oral","1540 mg/kg","NULL","Japan Pesticide Information., (27)(11), 1976","Bensulide",NA
+"12932","mouse","LD50","intraperitoneal","630 mg/kg","NULL","Japan Pesticide Information., (27)(11), 1976","Bensulide",NA
+"12932","mouse","LD50","subcutaneous","630 mg/kg","NULL","Japan Pesticide Information., (27)(11), 1976","Bensulide",NA
+"12932","quail","LD50","oral","1386 mg/kg","NULL","Pesticide Manual., 9(63), 1991","Bensulide",NA
+"12968","rat","LD50","oral","916 mg/kg","NULL","National Technical Information Service., PB82-913299","S-Ethyl dipropylthiocarbamate",NA
+"12968","rat","LD50","skin","3200 mg/kg","NULL","Gigiena i Sanitariya.  For English translation, see HYSAAV., 36(2)(29), 1971","S-Ethyl dipropylthiocarbamate",NA
+"12968","rat","LD50","unreported","1660 mg/kg","NULL","Environmental Quality and Safety, Supplement., 3(618), 1975 [PMID:1063688]","S-Ethyl dipropylthiocarbamate",NA
+"12968","mouse","LD50","oral","750 mg/kg","NULL","Hygiene and Sanitation, 36(1-3)(196), 1971","S-Ethyl dipropylthiocarbamate",NA
+"12968","mouse","LD50","intraperitoneal","58 mg/kg","NULL","Journal of Agricultural and Food Chemistry., 25(404), 1977 [PMID:838982]","S-Ethyl dipropylthiocarbamate",NA
+"12968","mouse","LD50","intravenous","320 mg/kg","NULL","U.S. Army Armament Research & Development Command, Chemical Systems Laboratory, NIOSH Exchange Chemicals., NX#03907","S-Ethyl dipropylthiocarbamate",NA
+"12968","cat","LD50","oral","112 mg/kg","NULL","Hygiene and Sanitation, 36(1-3)(196), 1971","S-Ethyl dipropylthiocarbamate",NA
+"12968","rabbit","LD50","oral","2640 mg/kg","NULL","Prehled Prumyslove Toxikologie; Organicke Latky, Marhold, J., Prague, Czechoslovakia, Avicenum, 1986, -(1020), 1986","S-Ethyl dipropylthiocarbamate",NA
+"12968","rabbit","LD50","skin","1460 mg/kg","NULL","World Review of Pest Control., 9(119), 1970","S-Ethyl dipropylthiocarbamate",NA
+"12968","mammal (species unspecified)","LD50","unreported","1660 mg/kg","NULL","Gigiena i Sanitariya.  For English translation, see HYSAAV., 45(5)(29), 1980","S-Ethyl dipropylthiocarbamate",NA
+"12968","bird - wild","LD50","oral","100 mg/kg","NULL","Toxicology and Applied Pharmacology., 21(315), 1972 [PMID:5027965]","S-Ethyl dipropylthiocarbamate",NA
+"13081","rat","LD50","skin","27 mg/kg","BEHAVIORAL: TREMOR; BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; BEHAVIORAL: EXCITEMENT","Toxicology and Applied Pharmacology., 2(88), 1960 [PMID:13825957]","Carbophenothion",NA
+"13081","rat","LD50","intraperitoneal","6 mg/kg","NULL","Advances in Pest Control Research., 4(117), 1961","Carbophenothion",NA
+"13081","mouse","LD50","oral","218 mg/kg","NULL","Agricultural Research Service, USDA Information Memorandum., 20(6), 1966","Carbophenothion",NA
+"13081","mouse","LD50","intraperitoneal","27 mg/kg","NULL","Proceedings of the Society for Experimental Biology and Medicine., 129(699), 1968 [PMID:5725078]","Carbophenothion",NA
+"13081","rabbit","LD50","oral","1250 mg/kg","NULL","Special Publication of the Entomological Society of America., 78-1(40), 1978","Carbophenothion",NA
+"13081","rabbit","LD50","skin","1270 mg/kg","NULL","Pesticide Chemicals Official Compendium, Association of the American Pesticide Control Officials, Inc., 1966., -(200), 1966","Carbophenothion",NA
+"13081","chicken","LD50","oral","57200 mg/kg","PERIPHERAL NERVE AND SENSATION: SPASTIC PARALYSIS WITH OR WITHOUT SENSORY CHANGE; BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; BEHAVIORAL: ATAXIA","Toxicology and Applied Pharmacology., 11, 49","Carbophenothion",NA
+"13081","domestic animals - goat/sheep","LD50","oral","14 mg/kg","NULL","Ecotoxicology and Environmental Safety., 2(151), 1978 [PMID:729517]","Carbophenothion",NA
+"13081","chicken","LD50","subcutaneous","640 mg/kg","PERIPHERAL NERVE AND SENSATION: FLACCID PARALYSIS WITHOUT ANESTHESIA (USUALLY NEUROMUSCULAR BLOCKAGE); BEHAVIORAL: FOOD INTAKE (ANIMAL); GASTROINTESTINAL: HYPERMOTILITY, DIARRHEA","Biochemical Pharmacology., 12(1377), 1963 [PMID:14096425]","Carbophenothion",NA
+"135491728","rat","LD50","oral","1360 mg/kg","NULL","Farm Chemicals Handbook., -(C272), 1991","Clethodim",NA
+"135491830","rat","LD50","oral","3200 mg/kg","NULL","Farm Chemicals Handbook., -(C274), 1991","Sethoxydim",NA
+"135491830","rat","LD50","intraperitoneal","1493 mg/kg","NULL","Defense des Vegetaux., 38(213), 1984","Sethoxydim",NA
+"135491830","rat","LD50","intravenous","505 mg/kg","NULL","Japan Pesticide Information., (41)(18), 1982","Sethoxydim",NA
+"135491830","mouse","LD50","oral","5600 mg/kg","NULL","Japan Pesticide Information., (41)(18), 1982","Sethoxydim",NA
+"135491830","mouse","LD50","intravenous","485 mg/kg","NULL","Japan Pesticide Information., (41)(18), 1982","Sethoxydim",NA
+"135491830","rabbit","LD50","oral","4600 mg/kg","NULL","Defense des Vegetaux., 38(213), 1984","Sethoxydim",NA
+"13709","man","TDLo","oral","93 mg/kg","SENSE ORGANS AND SPECIAL SENSES: MIOSIS (PUPILLARY CONSTRICTION): EYE; SENSE ORGANS AND SPECIAL SENSES: LACRIMATION: EYE; BEHAVIORAL: COMA","Human & Experimental Toxicology., 9(415), 1990 [PMID:2271234]","Methidathion",NA
+"13709","rat","LD50","oral","20 mg/kg","NULL","World Review of Pest Control., 9(119), 1970","Methidathion",NA
+"13709","rat","LD50","skin","25 mg/kg","NULL","World Review of Pest Control., 9(119), 1970","Methidathion",NA
+"13709","mouse","LD50","oral","25 mg/kg","NULL","Bulletin of the Entomological Society of America., 15(122), 1969","Methidathion",NA
+"13709","rabbit","LD50","oral","63 mg/kg","NULL","Agrochemicals Handbook, with updates, Hartley, D., and H. Kidd, eds., Nottingham, Royal Soc of Chemistry, 1983-86, A268(1983)","Methidathion",NA
+"13709","rabbit","LD50","skin","196 mg/kg","NULL","Ciba-Geigy Toxicology Data/Indexes.","Methidathion",NA
+"13709","guinea pig","LD50","oral","25 mg/kg","NULL","Agrochemicals Handbook, with updates, Hartley, D., and H. Kidd, eds., Nottingham, Royal Soc of Chemistry, 1983-86, A268(1983)","Methidathion",NA
+"13709","chicken","LD50","oral","80 mg/kg","NULL","Agrochemicals Handbook, with updates, Hartley, D., and H. Kidd, eds., Nottingham, Royal Soc of Chemistry, 1983-86, A268(1983)","Methidathion",NA
+"13709","mammal (species unspecified)","LD50","oral","25 mg/kg","NULL","Herba Polonica., 21(53), 1975","Methidathion",NA
+"13709","mammal (species unspecified)","LD50","unreported","25 mg/kg","NULL","Chemistry of Pesticides, Melnikov, N.N., New York, Springer-Verlag New York, Inc., 1971, -(372), 1971","Methidathion",NA
+"14337","rat","LD50","oral","1678 mg/kg","NULL","Fundamental and Applied Toxicology., 7(299), 1986","Cycloate",NA
+"14337","rat","LD50","skin","2467 mg/kg","NULL","Fundamental and Applied Toxicology., 7(299), 1986","Cycloate",NA
+"14337","rat","LD50","unreported","2325 mg/kg","NULL","Environmental Quality and Safety, Supplement., 3(618), 1975 [PMID:1063688]","Cycloate",NA
+"14337","mouse","LD50","oral","1275 mg/kg","BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: MUSCLE CONTRACTION OR SPASTICITY); BEHAVIORAL: COMA","Gigiena i Sanitariya.  For English translation, see HYSAAV., 51(10)(77), 1986","Cycloate",NA
+"14337","mouse","LD50","unreported","2300 mg/kg","NULL","Tsitologiya i Genetika.  Cytology and Genetics.  For English translation, see CYGEDX., 16(1)(45), 1982","Cycloate",NA
+"14337","guinea pig","LD50","oral","1600 mg/kg","BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: MUSCLE CONTRACTION OR SPASTICITY); BEHAVIORAL: COMA","Gigiena i Sanitariya.  For English translation, see HYSAAV., 51(10)(77), 1986","Cycloate",NA
+"14337","mammal (species unspecified)","LD50","unreported","2300 mg/kg","NULL","Gigiena i Sanitariya.  For English translation, see HYSAAV., 45(5)(29), 1980","Cycloate",NA
+"1486","man","TDLo","oral","5714 mg/kg","BEHAVIORAL: COMA; CARDIAC: CHANGE IN RATE; LUNGS, THORAX, OR RESPIRATION: RESPIRATORY DEPRESSION","Archives of Toxicology., 66(518), 1992 [PMID:1444815]","2,4-Dichlorophenoxyacetic acid",NA
+"1486","human","LDLo","oral","80 mg/kg","GASTROINTESTINAL: NAUSEA OR VOMITING; BEHAVIORAL: COMA; BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY)","Archives of Pathology., 94(270), 1972 [PMID:5051650]","2,4-Dichlorophenoxyacetic acid",NA
+"1486","rat","LD50","oral","375 mg/kg","NULL","Farm Chemicals Handbook., -(C174), 1991","2,4-Dichlorophenoxyacetic acid",NA
+"1486","rat","LD50","skin","1500 mg/kg","NULL","World Review of Pest Control., 9(119), 1970","2,4-Dichlorophenoxyacetic acid",NA
+"1486","rat","LD50","intraperitoneal","666 mg/kg","PERIPHERAL NERVE AND SENSATION: SPASTIC PARALYSIS WITH OR WITHOUT SENSORY CHANGE; BEHAVIORAL: MUSCLE WEAKNESS; BEHAVIORAL: COMA","Journal of Industrial Hygiene and Toxicology., 29(85), 1947","2,4-Dichlorophenoxyacetic acid",NA
+"1486","mouse","LD50","oral","347 mg/kg","NULL","Roczniki Panstwowego Zakladu Higieny., 31(373), 1980 [PMID:7433826]","2,4-Dichlorophenoxyacetic acid",NA
+"1486","mouse","LDLo","intraperitoneal","125 mg/kg","NULL","Toxicology and Applied Pharmacology., 23(288), 1972 [PMID:5074577]","2,4-Dichlorophenoxyacetic acid",NA
+"1486","dog","LD50","oral","100 mg/kg","BEHAVIORAL: STIFFNESS; BEHAVIORAL: COMA","Archives of Environmental Health., 7(202), 1963","2,4-Dichlorophenoxyacetic acid",NA
+"1486","rabbit","LDLo","oral","800 mg/kg","NULL","Archives des Maladies Professionnelles de Medecine du Travail et de Securite Sociale., 12(26), 1951 [PMID:14820443]","2,4-Dichlorophenoxyacetic acid",NA
+"1486","rabbit","LD50","skin","1400 mg/kg","BEHAVIORAL: ATAXIA; SKIN AND APPENDAGES (SKIN): PRIMARY IRRITATION: AFTER TOPICAL EXPOSURE","Quarterly Bulletin--Association of Food and Drug Officials of the United States., 16(3), 1952","2,4-Dichlorophenoxyacetic acid",NA
+"1486","rabbit","LD50","intraperitoneal","400 mg/kg","PERIPHERAL NERVE AND SENSATION: SPASTIC PARALYSIS WITH OR WITHOUT SENSORY CHANGE; BEHAVIORAL: MUSCLE WEAKNESS; BEHAVIORAL: COMA","Journal of Industrial Hygiene and Toxicology., 29(85), 1947","2,4-Dichlorophenoxyacetic acid",NA
+"1486","rabbit","LD50","intravenous","400 mg/kg","PERIPHERAL NERVE AND SENSATION: SPASTIC PARALYSIS WITH OR WITHOUT SENSORY CHANGE; BEHAVIORAL: MUSCLE WEAKNESS; BEHAVIORAL: COMA","Journal of Industrial Hygiene and Toxicology., 29(85), 1947","2,4-Dichlorophenoxyacetic acid",NA
+"1486","guinea pig","LD50","intraperitoneal","666 mg/kg","PERIPHERAL NERVE AND SENSATION: SPASTIC PARALYSIS WITH OR WITHOUT SENSORY CHANGE; BEHAVIORAL: MUSCLE WEAKNESS; BEHAVIORAL: COMA","Journal of Industrial Hygiene and Toxicology., 29(85), 1947","2,4-Dichlorophenoxyacetic acid",NA
+"1486","hamster","LD50","oral","500 mg/kg","NULL","Toxicology and Applied Pharmacology., 48(A192), 1979","2,4-Dichlorophenoxyacetic acid",NA
+"1486","mammal (species unspecified)","LD50","oral","375 mg/kg","NULL","Science., 165(465), 1969","2,4-Dichlorophenoxyacetic acid",NA
+"1486","guinea pig","LD50","oral","469 mg/kg","NULL","American Journal of Veterinary Research., 15(622), 1954 [PMID:13207589]","2,4-Dichlorophenoxyacetic acid",NA
+"1486","chicken","LD50","oral","541 mg/kg","GASTROINTESTINAL: GASTRITIS; BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); LIVER: FATTY LIVER DEGERATION","American Journal of Veterinary Research., 15(622), 1954 [PMID:13207589]","2,4-Dichlorophenoxyacetic acid",NA
+"1486","man","LDLo","oral","93 mg/kg","BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD","Pharmacological Reviews., 14(225), 1962 [PMID:13883209]","2,4-Dichlorophenoxyacetic acid",NA
+"1489","rat","LD50","oral","700 mg/kg","NULL","Residue Reviews., 10(97), 1965 [PMID:4865270]","4-(2,4-Dichlorophenoxy)butanoic acid",NA
+"1489","rat","LD50","skin","800 mg/kg","NULL","World Review of Pest Control., 9(119), 1970","4-(2,4-Dichlorophenoxy)butanoic acid",NA
+"1489","mouse","LDLo","oral","750 mg/kg","NULL","Gigiena i Sanitariya.  For English translation, see HYSAAV., 29(1)(12), 1964","4-(2,4-Dichlorophenoxy)butanoic acid",NA
+"15331","rat","LD50","oral","8400 mg/kg","NULL","Farm Chemicals Handbook., -(C94), 1991","Daminozide",NA
+"15331","mouse","LD50","oral","6300 mg/kg","NULL","Materialy Nauchnoi Konferentsii Kaunasskogo Meditsinskogo Inst., 22nd, 1972, Materials of the Scientific Conference of Kaunas Medical Institute, Vaichyuvenas, V.A., ed., Kaunas, USSR, Kaunasskii Meditsinskii Institut, 1973, 22(126), 1973","Daminozide",NA
+"15331","mouse","LD50","intraperitoneal","1325 mg/kg","NULL","Materialy Nauchnoi Konferentsii Kaunasskogo Meditsinskogo Inst., 22nd, 1972, Materials of the Scientific Conference of Kaunas Medical Institute, Vaichyuvenas, V.A., ed., Kaunas, USSR, Kaunasskii Meditsinskii Institut, 1973, 22(126), 1973","Daminozide",NA
+"15331","mammal (species unspecified)","LD50","unreported","8400 mg/kg","NULL","Chemistry of Pesticides, Melnikov, N.N., New York, Springer-Verlag New York, Inc., 1971, -(127), 1971","Daminozide",NA
+"153909","quail","LD50","oral","2250 mg/kg","NULL","Pesticide Manual., 9(840), 1991","Tribenuron-methyl",NA
+"15531","rat","LD50","skin","2 mg/kg","NULL","Pesticide Manual., 9(100), 1991","Bromoxynil",NA
+"15531","mouse","LD50","oral","110 mg/kg","NULL","Guide to the Chemicals Used in Crop Protection., 6(55), 1973","Bromoxynil",NA
+"15531","mouse","LD50","intravenous","56 mg/kg","NULL","U.S. Army Armament Research & Development Command, Chemical Systems Laboratory, NIOSH Exchange Chemicals., NX#02212","Bromoxynil",NA
+"15531","dog","LD50","oral","100 mg/kg","NULL","Agrochemicals Handbook, with updates, Hartley, D., and H. Kidd, eds., Nottingham, Royal Soc of Chemistry, 1983-86, A045(1983)","Bromoxynil",NA
+"15531","rabbit","LD50","oral","260 mg/kg","NULL","Wirksubstanzen der Pflanzenschutz und Schadlingsbekampfungsmittel, Perkow, W., Berlin, Verlag Paul Parey, 1971-1976, -(-), 1971/1976","Bromoxynil",NA
+"15531","rabbit","LD50","skin","3660 mg/kg","NULL","Pesticide Manual., 9(100), 1991","Bromoxynil",NA
+"15531","guinea pig","LD50","oral","63 mg/kg","NULL","Guide to the Chemicals Used in Crop Protection., 6(55), 1973","Bromoxynil",NA
+"15531","chicken","LD50","oral","240 mg/kg","NULL","Pesticide Manual., 9(100), 1991","Bromoxynil",NA
+"15531","duck","LD50","oral","200 mg/kg","NULL","Down to Earth., 35(25), 1979","Bromoxynil",NA
+"15531","mammal (species unspecified)","LD50","unreported","190 mg/kg","NULL","Chemistry of Pesticides, Melnikov, N.N., New York, Springer-Verlag New York, Inc., 1971, -(150), 1971","Bromoxynil",NA
+"15531","bird - wild","LD50","oral","50 mg/kg","NULL","Pesticide Manual., 9(100), 1991","Bromoxynil",NA
+"15531","rat","LD50","oral","190 mg/kg","NULL","World Review of Pest Control., 9(119), 1970","Bromoxynil",NA
+"15553","rat","LD50","oral","4300 mg/kg","NULL","Agrochemicals Handbook, with updates, Hartley, D., and H. Kidd, eds., Nottingham, Royal Soc of Chemistry, 1983-86, A433(1985)","Clopyralid",NA
+"15553","rat","LD50","intraperitoneal","900 mg/kg","NULL","Defense des Vegetaux., 31(387), 1977","Clopyralid",NA
+"15553","duck","LD50","oral","1465 mg/kg","NULL","Pesticide Manual., 9(182), 1991","Clopyralid",NA
+"15910","rat","LD50","skin","2500 mg/kg","NULL","Fundamental and Applied Toxicology., 7(299), 1986","Chlorothalonil",NA
+"15910","mouse","LD50","oral","3700 mg/kg","NULL","Hokkaidoritsu Eisei Kenkyushoho.  Report of the Hokkaido Institute of Public Health., 30(53), 1980","Chlorothalonil",NA
+"15939","man","LDLo","oral","171 mg/kg","LUNGS, THORAX, OR RESPIRATION: FIBROSIS, FOCAL (PNEUMOCONIOSIS); GASTROINTESTINAL: CHANGE IN STRUCTURE OR FUNCTION OF ESOPHAGUS; GASTROINTESTINAL: ULCERATION OR BLEEDING FROM STOMACH","Journal of Toxicology, Clinical Toxicology., 26(35), 1988 [PMID:3385847]","Paraquat",NA
+"15939","man","LDLo","oral","1690 mg/kg","LUNGS, THORAX, OR RESPIRATION: RESPIRATORY DEPRESSION; GASTROINTESTINAL: ULCERATION OR BLEEDING FROM STOMACH; KIDNEY, URETER, AND BLADDER: RENAL FUNCTION TESTS DEPRESSED","Journal of Toxicology, Clinical Toxicology., 26(35), 1988 [PMID:3385847]","Paraquat",NA
+"15939","rat","LD50","oral","100 mg/kg","NULL","Iyakuhin Kenkyu.  Study of Medical Supplies., 10(520), 1979","Paraquat",NA
+"15939","rat","LD50","unreported","250 mg/kg","BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; BEHAVIORAL: CHANGES IN MOTOR ACTIVITY (SPECIFIC ASSAY)","Gigiena Naselennykh Mest.  Hygiene in Populated Places., 17(37), 1978","Paraquat",NA
+"15939","mouse","LD50","oral","120 mg/kg","NULL","General Pharmacology., 14(541), 1983 [PMID:6642196]","Paraquat",NA
+"15939","mouse","LD50","unreported","198 mg/kg","BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; BEHAVIORAL: CHANGES IN MOTOR ACTIVITY (SPECIFIC ASSAY)","Gigiena Naselennykh Mest.  Hygiene in Populated Places., 17(37), 1978","Paraquat",NA
+"15939","dog","LD50","oral","25 mg/kg","NULL","Iyakuhin Kenkyu.  Study of Medical Supplies., 10(520), 1979","Paraquat",NA
+"15939","cat","LD50","oral","35 mg/kg","NULL","Iyakuhin Kenkyu.  Study of Medical Supplies., 10(520), 1979","Paraquat",NA
+"15939","rabbit","LD50","skin","236 mg/kg","NULL","Pesticide Manual., 9(646), 1991","Paraquat",NA
+"15939","guinea pig","LD50","oral","30 mg/kg","NULL","Iyakuhin Kenkyu.  Study of Medical Supplies., 10(520), 1979","Paraquat",NA
+"15939","chicken","LD50","oral","262 mg/kg","NULL","Pesticide Manual., 9(646), 1991","Paraquat",NA
+"15939","mammal (species unspecified)","LD50","oral","70 mg/kg","NULL","Pesticide Manual., 9(646), 1991","Paraquat",NA
+"15939","man","LDLo","oral","343 mg/kg","GASTROINTESTINAL: CHANGE IN STRUCTURE OR FUNCTION OF ESOPHAGUS; GASTROINTESTINAL: ULCERATION OR BLEEDING FROM STOMACH; KIDNEY, URETER, AND BLADDER: RENAL FUNCTION TESTS DEPRESSED","Journal of Toxicology, Clinical Toxicology., 26(35), 1988 [PMID:3385847]","Paraquat",NA
+"15939","man","LDLo","oral","200 mg/kg","LUNGS, THORAX, OR RESPIRATION: RESPIRATORY DEPRESSION; KIDNEY, URETER, AND BLADDER: RENAL FUNCTION TESTS DEPRESSED","Medical Journal of Australia., 158(28), 1993 [PMID:8417286]","Paraquat",NA
+"15965","rat","LD50","oral","8200 mg/kg","NULL","Down to Earth., 35(25), 1979","Picloram",NA
+"16248","rat","LD50","oral","20 mg/kg","NULL","Farm Chemicals Handbook., -(C199), 1991","Methiocarb",NA
+"16248","rat","LD50","skin","350 mg/kg","NULL","Pesticide Chemicals Official Compendium, Association of the American Pesticide Control Officials, Inc., 1966., -(105), 1966","Methiocarb",NA
+"16248","rat","LD50","unreported","100 mg/kg","NULL","Chemistry of Pesticides, Melnikov, N.N., New York, Springer-Verlag New York, Inc., 1971, -(194), 1971","Methiocarb",NA
+"16248","mouse","LD50","intraperitoneal","16 mg/kg","NULL","Toxicology and Applied Pharmacology., 6(402), 1964","Methiocarb",NA
+"16248","mouse","LD50","subcutaneous","940 mg/kg","NULL","Toho Igakkai Zasshi.  Journal of Medical Society of Toho University., 17(60), 1970","Methiocarb",NA
+"16248","guinea pig","LD50","oral","40 mg/kg","NULL","Wirksubstanzen der Pflanzenschutz und Schadlingsbekampfungsmittel, Perkow, W., Berlin, Verlag Paul Parey, 1971-1976, -(-), 1971/1976","Methiocarb",NA
+"16248","pigeon","LD50","oral","13 mg/kg","NULL","Toxicology and Applied Pharmacology., 21(315), 1972 [PMID:5027965]","Methiocarb",NA
+"16248","chicken","LD50","oral","179 mg/kg","BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD","Toxicology and Applied Pharmacology., 7(606), 1965 [PMID:5839395]","Methiocarb",NA
+"16248","duck","LD50","oral","13 mg/kg","NULL","Toxicology and Applied Pharmacology., 21(315), 1972 [PMID:5027965]","Methiocarb",NA
+"16248","bird - wild","LD50","skin","100 mg/kg","NULL","Toxicology and Applied Pharmacology., 26(154), 1973 [PMID:4748134]","Methiocarb",NA
+"16562","rat","LD50","oral","1450 mg/kg","NULL","Farmakologiya i Toksikologiya, 35(352), 1972 [PMID:5047307]","Fluometuron",NA
+"16562","rat","LD50","intraperitoneal","685 mg/kg","NULL","Proceedings of the European Society of Toxicology., 17(351), 1976","Fluometuron",NA
+"16562","mouse","LD50","oral","900 mg/kg","BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: COMA; LUNGS, THORAX, OR RESPIRATION: RESPIRATORY STIMULATION","Ciba-Geigy Toxicology Data/Indexes., -(-), 1977","Fluometuron",NA
+"16562","mouse","LD50","intraperitoneal","552 mg/kg","NULL","Proceedings of the European Society of Toxicology., 17(351), 1976","Fluometuron",NA
+"16562","mouse","LD50","unreported","850 mg/kg","NULL","Chemistry of Pesticides, Melnikov, N.N., New York, Springer-Verlag New York, Inc., 1971, -(233), 1971","Fluometuron",NA
+"16562","rabbit","LD50","oral","2500 mg/kg","NULL","Toxicometric Parameters of Industrial Toxic Chemicals Under Single Exposure, Izmerov, N.F., et al., Moscow, Centre of International Projects, GKNT, 1982, -(116), 1982","Fluometuron",NA
+"16562","guinea pig","LD50","oral","810 mg/kg","NULL","Toxicometric Parameters of Industrial Toxic Chemicals Under Single Exposure, Izmerov, N.F., et al., Moscow, Centre of International Projects, GKNT, 1982, -(116), 1982","Fluometuron",NA
+"16683004","rat","LD50","oral","2630 mg/kg","NULL","Agricultural Chemicals, Thomson, W.T., 4 vols., Fresno, CA, Thomson Publications, 1976/77 revision, 1(17), 1977","Fenbutatin oxide",NA
+"16683004","mouse","LD50","oral","1450 mg/kg","NULL","Pesticide Manual., 9(364), 1991","Fenbutatin oxide",NA
+"16683004","dog","LD50","oral","1500 mg/kg","NULL","Pesticide Manual., 9(364), 1991","Fenbutatin oxide",NA
+"16686","rat","LD50","oral","1200 mg/kg","NULL","Agricultural Research Service, USDA Information Memorandum., 20(13), 1966","Dienochlor",NA
+"16686","rat","LD50","unreported","3100 mg/kg","NULL","Chemistry of Pesticides, Melnikov, N.N., New York, Springer-Verlag New York, Inc., 1971, -(55), 1971","Dienochlor",NA
+"16686","mouse","LD50","oral","16900 mg/kg","NULL","Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 15(511), 1990","Dienochlor",NA
+"16686","quail","LD50","oral","705 mg/kg","NULL","Pesticide Manual., 9(271), 1991","Dienochlor",NA
+"17110","rat","LD50","oral","660 mg/kg","BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); GASTROINTESTINAL: HYPERMOTILITY, DIARRHEA; GASTROINTESTINAL: OTHER CHANGES","Toxicology and Applied Pharmacology., 3(127), 1961 [PMID:13761521]","Dodine",NA
+"17110","rabbit","LD50","oral","535 mg/kg","NULL","Toxicometric Parameters of Industrial Toxic Chemicals Under Single Exposure, Izmerov, N.F., et al., Moscow, Centre of International Projects, GKNT, 1982, -(64), 1982","Dodine",NA
+"17110","rabbit","LD50","skin","2100 mg/kg","GASTROINTESTINAL: ULCERATION OR BLEEDING FROM STOMACH; BLOOD: HEMORRHAGE; SKIN AND APPENDAGES (SKIN): DERMATITIS, OTHER: AFTER SYSTEMIC EXPOSURE","Toxicology and Applied Pharmacology., 3(127), 1961 [PMID:13761521]","Dodine",NA
+"17110","guinea pig","LD50","oral","176 mg/kg","NULL","Toxicometric Parameters of Industrial Toxic Chemicals Under Single Exposure, Izmerov, N.F., et al., Moscow, Centre of International Projects, GKNT, 1982, -(64), 1982","Dodine",NA
+"17110","quail","LD50","oral","788 mg/kg","NULL","Pesticide Manual., 9(326), 1991","Dodine",NA
+"17110","duck","LD50","oral","1142 mg/kg","NULL","Pesticide Manual., 9(326), 1991","Dodine",NA
+"17110","mouse","LD50","oral","266 mg/kg","NULL","Toxicometric Parameters of Industrial Toxic Chemicals Under Single Exposure, Izmerov, N.F., et al., Moscow, Centre of International Projects, GKNT, 1982, -(64), 1982","Dodine",NA
+"17432","rat","LD50","oral","1077 mg/kg","NULL","Pesticide Index, Frear, E.H., ed., State College, PA, College Science Pub., 1969, 5(110), 1976","Etridiazole",NA
+"17432","dog","LD50","oral","5000 mg/kg","NULL","Toxicology and Applied Pharmacology., 19(400), 1971","Etridiazole",NA
+"17432","rabbit","LD50","oral","779 mg/kg","NULL","Toxicology and Applied Pharmacology., 56(164), 1980 [PMID:7466816]","Etridiazole",NA
+"17432","rabbit","LD50","skin","1700 mg/kg","NULL","Farm Chemicals Handbook., -(C131), 1991","Etridiazole",NA
+"19649","human","TDLo","oral","400 mg/kg/28D-","SENSE ORGANS AND SPECIAL SENSES: CHANGES IN VESTIBULAR FUNCTIONS: EAR","Revue Medicale de la Suisse Romande., 73(854), 1953 [PMID:13135116]","Streptomycin",NA
+"19649","human","TDLo","intraperitoneal","143 mg/kg","VASCULAR: BP LOWERING NOT CHARACTERIZED IN AUTONOMIC SECTION; LUNGS, THORAX, OR RESPIRATION: RESPIRATORY DEPRESSION; LUNGS, THORAX, OR RESPIRATION: OTHER CHANGES","British Medical Journal., 1(556), 1961","Streptomycin",NA
+"19649","human","TDLo","parenteral","28 mg/kg/D","BLOOD: EOSINOPHILIA","Revue Medicale de la Suisse Romande., 73(820), 1953 [PMID:13135114]","Streptomycin",NA
+"19649","rat","LDLo","subcutaneous","600 mg/kg","NULL","Antibiotics: Origin, Nature, and Properties, Korzyoski, T., et al., eds., Washington, DC, American Soc. for Microbiology, 1978, 1(570), 1978","Streptomycin",NA
+"19649","rat","LDLo","intravenous","175 mg/kg","NULL","Antibiotics: Origin, Nature, and Properties, Korzyoski, T., et al., eds., Washington, DC, American Soc. for Microbiology, 1978, 1(570), 1978","Streptomycin",NA
+"19649","mouse","LD50","oral","500 mg/kg","NULL","Yakkyoku.  Pharmacy., 38(1493), 1987","Streptomycin",NA
+"19649","mouse","LD50","subcutaneous","520 mg/kg","NULL","British Journal of Pharmacology and Chemotherapy., 15(496), 1960 [PMID:13681273]","Streptomycin",NA
+"19649","mouse","LD50","unreported","90 mg/kg","NULL","Arzneimittel-Forschung. Drug Research., 5(213), 1955 [PMID:14389152]","Streptomycin",NA
+"19649","dog","LDLo","subcutaneous","300 mg/kg","NULL","Antibiotics: Origin, Nature, and Properties, Korzyoski, T., et al., eds., Washington, DC, American Soc. for Microbiology, 1978, 1(570), 1978","Streptomycin",NA
+"19649","monkey","LDLo","subcutaneous","400 mg/kg","NULL","Antibiotics: Origin, Nature, and Properties, Korzyoski, T., et al., eds., Washington, DC, American Soc. for Microbiology, 1978, 1(570), 1978","Streptomycin",NA
+"19649","cat","LDLo","subcutaneous","600 mg/kg","NULL","Antibiotics: Origin, Nature, and Properties, Korzyoski, T., et al., eds., Washington, DC, American Soc. for Microbiology, 1978, 1(570), 1978","Streptomycin",NA
+"19649","cat","LDLo","intravenous","150 mg/kg","NULL","Antibiotics: Origin, Nature, and Properties, Korzyoski, T., et al., eds., Washington, DC, American Soc. for Microbiology, 1978, 1(570), 1978","Streptomycin",NA
+"19649","rabbit","LDLo","subcutaneous","600 mg/kg","NULL","Antibiotics: Origin, Nature, and Properties, Korzyoski, T., et al., eds., Washington, DC, American Soc. for Microbiology, 1978, 1(570), 1978","Streptomycin",NA
+"19649","rabbit","LDLo","intravenous","175 mg/kg","NULL","Naturwissenschaften., 43(183), 1956","Streptomycin",NA
+"19649","guinea pig","LDLo","subcutaneous","600 mg/kg","NULL","Antibiotics: Origin, Nature, and Properties, Korzyoski, T., et al., eds., Washington, DC, American Soc. for Microbiology, 1978, 1(570), 1978","Streptomycin",NA
+"19649","mouse","LD50","intraperitoneal","525 mg/kg","NULL","Strahlentherapie., 127(245), 1965 [PMID:5834417]","Streptomycin",NA
+"1982","rat","LD50","oral","700 mg/kg","NULL","United States Patent Document., #3716600","Acephate",NA
+"1982","rat","LD50","skin","2500 mg/kg","NULL","Fundamental and Applied Toxicology., 7(299), 1986","Acephate",NA
+"1982","mouse","LD50","oral","233 mg/kg","NULL","Zhonghua Yufangyixue Zazhi.  Chinese Journal of Preventive Medicine., 14(226), 1980 [PMID:7238189]","Acephate",NA
+"1982","dog","LDLo","oral","681 mg/kg","NULL","Guide to the Chemicals Used in Crop Protection., 6(1), 1973","Acephate",NA
+"1982","chicken","LD50","oral","800 mg/kg","NULL","Neurotoxicology., 11(483), 1990 [PMID:2284053]","Acephate",NA
+"1982","chicken","LD50","unreported","568 mg/kg","NULL","Defense des Vegetaux., 28(231), 1974","Acephate",NA
+"1982","duck","LD50","oral","350 mg/kg","NULL","Pesticide Index, Frear, E.H., ed., State College, PA, College Science Pub., 1969, 5(4), 1976","Acephate",NA
+"1982","bird - wild","LD50","oral","140 mg/kg","NULL","Pesticide Manual., 9(4), 1991","Acephate",NA
+"1982","mammal (species unspecified)","LD50","oral","321 mg/kg","NULL","Archives of Environmental Contamination and Toxicology., 13(483), 1984 [PMID:6380419]","Acephate",NA
+"1982","bird - domestic","LD50","oral","106 mg/kg","BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; BEHAVIORAL: ATAXIA; LUNGS, THORAX, OR RESPIRATION: DYSPNEA","Archives of Environmental Contamination and Toxicology., 10(185), 1981 [PMID:7224670]","Acephate",NA
+"1988","rat","LD50","oral","763 mg/kg","NULL","Problemi na Khigienata.  Problems in Hygiene., 15(96), 1990 [PMID:2099469]","Acetochlor",NA
+"1988","rat","LD50","intraperitoneal","1200 mg/kg","BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; LUNGS, THORAX, OR RESPIRATION: DYSPNEA","Gigiena Truda i Professional'nye Zabolevaniya.  Labor Hygiene and Occupational Diseases., 29(12)(53), 1985","Acetochlor",NA
+"1988","mouse","LD50","oral","1550 mg/kg","BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; LUNGS, THORAX, OR RESPIRATION: DYSPNEA","Gigiena Truda i Professional'nye Zabolevaniya.  Labor Hygiene and Occupational Diseases., 29(12)(53), 1985","Acetochlor",NA
+"1988","rabbit","LD50","oral","600 mg/kg","NULL","Gigiena i Sanitariya.  For English translation, see HYSAAV., 53(5)(84), 1988","Acetochlor",NA
+"1988","rabbit","LDLo","skin","1260 mg/kg","BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: FOOD INTAKE (ANIMAL); LIVER: OTHER CHANGES","National Technical Information Service., OTS0536766","Acetochlor",NA
+"2078","rat","LD50","oral","930 mg/kg","NULL","Toxicology and Industrial Health., 3(383), 1987 [PMID:3686540]","Alachlor",NA
+"2078","rat","LD50","skin","1200 mg/kg","NULL","Yakkyoku.  Pharmacy., 38(89), 1987","Alachlor",NA
+"2078","rat","LDLo","intraperitoneal","600 mg/kg","LIVER: OTHER CHANGES","Toxicologist., 48(392), 1999","Alachlor",NA
+"2078","mouse","LD50","oral","462 mg/kg","NULL","Gigiena Truda i Professional'nye Zabolevaniya.  Labor Hygiene and Occupational Diseases., 21(12)(30), 1977","Alachlor",NA
+"2078","rabbit","LD50","oral","1740 mg/kg","NULL","Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 24(75), 1999","Alachlor",NA
+"2078","rabbit","LD50","skin","3500 mg/kg","NULL","Guide to the Chemicals Used in Crop Protection., 6(3), 1973","Alachlor",NA
+"2078","mammal (species unspecified)","LD50","unreported","1200 mg/kg","NULL","Chemistry of Pesticides, Melnikov, N.N., New York, Springer-Verlag New York, Inc., 1971, -(126), 1971","Alachlor",NA
+"21307","rat","LD50","oral","430 mg/kg","BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: MUSCLE CONTRACTION OR SPASTICITY)","Gigiena Truda i Professional'nye Zabolevaniya.  Labor Hygiene and Occupational Diseases., 23(2)(55), 1979","Carboxin",NA
+"21307","rat","LD50","skin","1050 mg/kg","NULL","Gigiena Truda i Professional'nye Zabolevaniya.  Labor Hygiene and Occupational Diseases., 23(2)(55), 1979","Carboxin",NA
+"21307","mouse","LD50","oral","3200 mg/kg","BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: MUSCLE CONTRACTION OR SPASTICITY)","Gigiena Truda i Professional'nye Zabolevaniya.  Labor Hygiene and Occupational Diseases., 23(2)(55), 1979","Carboxin",NA
+"21307","mammal (species unspecified)","LD50","unreported","3200 mg/kg","NULL","Chemistry of Pesticides, Melnikov, N.N., New York, Springer-Verlag New York, Inc., 1971, -(423), 1971","Carboxin",NA
+"21873022","rabbit","LD50","oral","4500 mg/kg","NULL","Weeds and Weed Control., 28(1), 1987","Imazamethabenz",NA
+"21954","rat","LD50","oral","3800 mg/kg","NULL","World Review of Pest Control., 9(119), 1970","Maleic hydrazide",NA
+"22188","rat","LD50","parenteral","7500 mg/kg","NULL","Defense des Vegetaux., 26(5), 1972","Terbacil",NA
+"22188","rat","LD50","oral","1700 mg/kg","BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); LUNGS, THORAX, OR RESPIRATION: DYSPNEA; SKIN AND APPENDAGES (SKIN): HAIR: OTHER","National Technical Information Service., OTS0570807","Terbacil",NA
+"2328","rat","LD50","oral","1100 mg/kg","NULL","Guide to the Chemicals Used in Crop Protection., 6(36), 1973","Bentazone",NA
+"2328","rat","LD50","skin","2500 mg/kg","NULL","Wirksubstanzen der Pflanzenschutz und Schadlingsbekampfungsmittel, Perkow, W., Berlin, Verlag Paul Parey, 1971-1976, -(-), 1971/1976","Bentazone",NA
+"2328","rat","LD50","parenteral","1100 mg/kg","NULL","Defense des Vegetaux., 26(5), 1972","Bentazone",NA
+"2328","mouse","LD50","oral","1130 mg/kg","NULL","Yakkyoku.  Pharmacy., 37(319), 1986","Bentazone",NA
+"2328","dog","LD50","oral","450 mg/kg","NULL","Pesticide Science., 3(242a), 1972","Bentazone",NA
+"2328","cat","LD50","oral","500 mg/kg","NULL","Guide to the Chemicals Used in Crop Protection., 6(36), 1973","Bentazone",NA
+"2328","rabbit","LD50","oral","750 mg/kg","NULL","Wirksubstanzen der Pflanzenschutz und Schadlingsbekampfungsmittel, Perkow, W., Berlin, Verlag Paul Parey, 1971-1976, -(-), 1971/1976","Bentazone",NA
+"2328","quail","LD50","oral","720 mg/kg","NULL","Guide to the Chemicals Used in Crop Protection., 6(36), 1973","Bentazone",NA
+"23664719","rat","LD50","oral","700 mg/kg","NULL","Farm Chemicals Handbook., -(C211), 1991","Monosodium methanearsonate",NA
+"23664719","rabbit","LD50","oral","102 mg/kg","BEHAVIORAL: MUSCLE WEAKNESS; GASTROINTESTINAL: HYPERMOTILITY, DIARRHEA; KIDNEY, URETER, AND BLADDER: URINE VOLUME DECREASED","Bulletin of Environmental Contamination and Toxicology., 40(119), 1988 [PMID:3345356]","Monosodium methanearsonate",NA
+"23664719","rabbit","LD50","skin","2500 mg/kg","NULL","Farm Chemicals Handbook., -(C211), 1991","Monosodium methanearsonate",NA
+"23664719","cattle","LD50","oral","230 mg/kg","NULL","Bulletin of Environmental Contamination and Toxicology., 40(119), 1988 [PMID:3345356]","Monosodium methanearsonate",NA
+"23664719","mammal (species unspecified)","LD50","unreported","50 mg/kg","NULL","Chemistry of Pesticides, Melnikov, N.N., New York, Springer-Verlag New York, Inc., 1971, -(260), 1971","Monosodium methanearsonate",NA
+"23664719","mouse","LD50","oral","300 mg/kg","NULL","Bulletin of Environmental Contamination and Toxicology., 22(143), 1979 [PMID:465771]","Monosodium methanearsonate",NA
+"23665571","rat","LC50","inhalation","5610 mg/kg","NULL","Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 24(424), 1999","Potassium oleate",NA
+"23978","rabbit","LDLo","subcutaneous","375 mg/kg","LIVER: HEPATITIS (HEPATOCELLULAR NECROSIS), ZONAL; LIVER: OTHER CHANGES; KIDNEY, URETER, AND BLADDER: OTHER CHANGES","American Journal of Pathology., 1(117), 1925","Copper",NA
+"23994","duck","LDLo","oral","388 mg/kg","AUTONOMIC NERVOUS SYSTEM: OTHER (DIRECT) PARASYMPATHOMIMETIC; BEHAVIORAL: ATAXIA; BLOOD: CHANGES IN LEUCOCYTE (WBC) COUNT","Journal of Wildlife Diseases., 36(111), 2000 [PMID:10682752]","Zinc",NA
+"24462","man","LDLo","oral","857 mg/kg","GASTROINTESTINAL: NAUSEA OR VOMITING","Archiv fuer Toxikologie., 17(20), 1958","Cupric Sulfate",NA
+"24462","child","TDLo","oral","150 mg/kg","KIDNEY, URETER, AND BLADDER: CHANGES IN TUBULES (INCLUDING ACUTE RENAL FAILURE, ACUTE TUBULAR NECROSIS); BLOOD: OTHER HEMOLYSIS WITH OR WITHOUT ANEMIA","American Journal of Diseases of Children., 131(149), 1977 [PMID:835530]","Cupric Sulfate",NA
+"24462","human","LDLo","oral","50 mg/kg","BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); KIDNEY, URETER, AND BLADDER: CHANGES IN TUBULES (INCLUDING ACUTE RENAL FAILURE, ACUTE TUBULAR NECROSIS); BLOOD: HEMORRHAGE","JAMA, Journal of the American Medical Association., 235(801), 1976","Cupric Sulfate",NA
+"24462","rat","LD50","oral","300 mg/kg","NULL","Antifungal Compounds, Siegel, M.R., and H.D. Sisler, eds., 2 vols., New York, Marcel Dekker 1977, 1(507), 1977","Cupric Sulfate",NA
+"24462","rat","LD50","intraperitoneal","20 mg/kg","BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD","Indian Journal of Pharmacology., 23(153), 1991","Cupric Sulfate",NA
+"24462","rat","LD50","subcutaneous","43 mg/kg","NULL","Proceedings of the European Society of Toxicology., 16(252), 1975","Cupric Sulfate",NA
+"24462","rat","LD50","unreported","520 mg/kg","NULL","Gigiena Truda i Professional'nye Zabolevaniya.  Labor Hygiene and Occupational Diseases., 26(6)(21), 1982","Cupric Sulfate",NA
+"24462","mouse","LD50","oral","369 mg/kg","BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD","Indian Journal of Pharmacology., 23(153), 1991","Cupric Sulfate",NA
+"24462","rabbit","LD50","intravenous","10 mg/kg","BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; BEHAVIORAL: FOOD INTAKE (ANIMAL); GASTROINTESTINAL: HYPERMOTILITY, DIARRHEA","Journal of Industrial Hygiene and Toxicology., 31(301), 1949","Cupric Sulfate",NA
+"24462","guinea pig","LDLo","intravenous","2 mg/kg","NULL","Environmental Quality and Safety, Supplement., 1(1), 1975 [PMID:1057514]","Cupric Sulfate",NA
+"24462","frog","LDLo","intravenous","25 mg/kg","NULL","Handbook of Toxicology, 4 vols., Philadelphia, W.B. Saunders Co., 1956-59, 1(76), 1955","Cupric Sulfate",NA
+"24462","human","TDLo","oral","11 mg/kg","GASTROINTESTINAL: GASTRITIS; GASTROINTESTINAL: HYPERMOTILITY, DIARRHEA; GASTROINTESTINAL: NAUSEA OR VOMITING","Lancet., 2(700), 1960 [PMID:13750037]","Cupric Sulfate",NA
+"24743","rat","LD50","oral","9600 mg/kg","NULL","Agricultural Chemicals, Thomson, W.T., 4 vols., Fresno, CA, Thomson Publications, 1976/77 revision, 2(92), 1977","Desmedipham",NA
+"24743","mouse","LD50","oral","500 mg/kg","NULL","Pesticide Manual., 9(237), 1991","Desmedipham",NA
+"24743","quail","LD50","oral","2480 mg/kg","NULL","Wirksubstanzen der Pflanzenschutz und Schadlingsbekampfungsmittel, Perkow, W., Berlin, Verlag Paul Parey, 1971-1976, -(-), 1971/1976","Desmedipham",NA
+"24744","rat","LD50","skin","500 mg/kg","NULL","World Review of Pest Control., 9(119), 1970","Phenmedipham",NA
+"24744","rat","LD50","unreported","800 mg/kg","NULL","Gigiena Truda i Professional'nye Zabolevaniya.  Labor Hygiene and Occupational Diseases., 26(6)(21), 1982","Phenmedipham",NA
+"25670","quail","LD50","oral","15 mg/kg","BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; BEHAVIORAL: ATAXIA; LUNGS, THORAX, OR RESPIRATION: DYSPNEA","Ecotoxicology and Environmental Safety., 8(551), 1984 [PMID:6510327]","Terbufos",NA
+"27189","rabbit","LD50","skin","4640 mg/kg","NULL","Pesticide & Toxic Chemical News., 8(22), 1980","Napropamide",NA
+"2728","rat","LD50","oral","1200 mg/kg","SENSE ORGANS AND SPECIAL SENSES: OTHER: EYE; BEHAVIORAL: ATAXIA; LUNGS, THORAX, OR RESPIRATION: RESPIRATORY DEPRESSION","Archives of Environmental Health., 19(621), 1969 [PMID:5350433]","Chlorpropham",NA
+"2728","rat","LD50","intraperitoneal","700 mg/kg","NULL","Comptes Rendus des Seances de la Societe de Biologie et de Ses Filiales., 175(496), 1981 [PMID:6457673]","Chlorpropham",NA
+"2728","rat","LD50","unreported","3350 mg/kg","NULL","Environmental Quality and Safety, Supplement., 3(618), 1975 [PMID:1063688]","Chlorpropham",NA
+"2728","mouse","LD50","oral","3650 mg/kg","NULL","Food Additives and Contaminants., 16(173), 1999 [PMID:10560570]","Chlorpropham",NA
+"2728","mouse","LD50","intraperitoneal","2600 mg/kg","NULL","Comptes Rendus des Seances de la Societe de Biologie et de Ses Filiales., 175(496), 1981 [PMID:6457673]","Chlorpropham",NA
+"2730","man","TDLo","oral","300 mg/kg","PERIPHERAL NERVE AND SENSATION: PARESTHESIS; BEHAVIORAL: MUSCLE WEAKNESS; BEHAVIORAL: COMA","Archives of Toxicology., 59(176), 1986 [PMID:2434058]","Chlorpyrifos",NA
+"2730","rat","LD50","oral","82 mg/kg","NULL","Toxicology and Applied Pharmacology., 14(515), 1969 [PMID:5787520]","Chlorpyrifos",NA
+"2730","rat","LD50","skin","202 mg/kg","NULL","Toxicology and Applied Pharmacology., 14(515), 1969 [PMID:5787520]","Chlorpyrifos",NA
+"2730","rat","LD50","unreported","150 mg/kg","NULL","Chemistry of Pesticides, Melnikov, N.N., New York, Springer-Verlag New York, Inc., 1971, -(339), 1971","Chlorpyrifos",NA
+"2730","mouse","LD50","oral","60 mg/kg","NULL","Journal of Environmental Science and Health, Part B: Pesticides, Food Contaminants, and Agricultural Wastes., 13(11), 1978 [PMID:75904]","Chlorpyrifos",NA
+"2730","mouse","LD50","skin","120 mg/kg","NULL","Yakkyoku.  Pharmacy., 38(745), 1987","Chlorpyrifos",NA
+"2730","guinea pig","LD50","oral","504 mg/kg","NULL","Farm Chemicals Handbook., -(C74), 1991","Chlorpyrifos",NA
+"2730","guinea pig","LDLo","subcutaneous","100 mg/kg","NULL","Journal of Economic Entomology., 60(733), 1967","Chlorpyrifos",NA
+"2730","pigeon","LD50","oral","10 mg/kg","NULL","ASTM Special Technical Publication., (680)(157), 1979","Chlorpyrifos",NA
+"2730","duck","LD50","oral","76 mg/kg","NULL","Toxicology and Applied Pharmacology., 20(57), 1971 [PMID:5110827]","Chlorpyrifos",NA
+"2730","mammal (species unspecified)","LD50","unreported","163 mg/kg","NULL","Journal of Agricultural and Food Chemistry., 27(712), 1979","Chlorpyrifos",NA
+"2730","bird - wild","LD50","oral","5 mg/kg","NULL","Toxicology and Applied Pharmacology., 21(315), 1972 [PMID:5027965]","Chlorpyrifos",NA
+"2730","mouse","LD50","intraperitoneal","192 mg/kg","NULL","Toxicology and Applied Pharmacology., 65(144), 1982 [PMID:6183791]","Chlorpyrifos",NA
+"27982","rat","LD50","oral","3400 mg/kg","NULL","Zhurnal Eksperimental'noi i Klinicheskoi Meditsiny.  Journal of Experimental and Clinical Medicine., 20(274), 1980","Ethephon",NA
+"27982","mouse","LD50","oral","2850 mg/kg","NULL","Pharmazie., 32(181), 1977","Ethephon",NA
+"27982","mouse","LD50","intraperitoneal","1500 mg/kg","NULL","Journal of Agricultural and Food Chemistry., 39(380), 1991","Ethephon",NA
+"27982","rabbit","LD50","skin","5730 mg/kg","NULL","Wirksubstanzen der Pflanzenschutz und Schadlingsbekampfungsmittel, Perkow, W., Berlin, Verlag Paul Parey, 1971-1976, -(-), 1971/1976","Ethephon",NA
+"27982","guinea pig","LD50","oral","4200 mg/kg","BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: MUSCLE CONTRACTION OR SPASTICITY); LUNGS, THORAX, OR RESPIRATION: OTHER CHANGES","Gigiena i Sanitariya.  For English translation, see HYSAAV., 48(8)(79), 1983","Ethephon",NA
+"27982","quail","LD50","oral","1072 mg/kg","NULL","Pesticide Manual., 9(341), 1991","Ethephon",NA
+"27982","mammal (species unspecified)","LD50","unreported","4200 mg/kg","NULL","Chemistry of Pesticides, Melnikov, N.N., New York, Springer-Verlag New York, Inc., 1971, -(384), 1971","Ethephon",NA
+"2912","rat","LD50","skin","1600 mg/kg","NULL","Agrochemicals Handbook, with updates, Hartley, D., and H. Kidd, eds., Nottingham, Royal Soc of Chemistry, 1983-86, A110(1984)","Cypermethrin",NA
+"2912","rat","LD50","intraperitoneal","404 mg/kg","BEHAVIORAL: TREMOR; BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; BEHAVIORAL: EXCITEMENT","Weisheng Dulixue Zazhi.  Journal of Health Toxicology., 3(184), 1989","Cypermethrin",NA
+"2912","rat","LDLo","intravenous","6 mg/kg","BEHAVIORAL: TREMOR; BEHAVIORAL: CHANGES IN MOTOR ACTIVITY (SPECIFIC ASSAY); BEHAVIORAL: MUSCLE CONTRACTION OR SPASTICITY)","Archives of Toxicology., 45(325), 1980 [PMID:7447703]","Cypermethrin",NA
+"2912","rat","LD50","unreported","400 mg/kg","NULL","Gigiena i Sanitariya.  For English translation, see HYSAAV., 49(10)(70), 1984","Cypermethrin",NA
+"2912","mouse","LD50","intraperitoneal","25 mg/kg","NULL","Indian Journal of Pharmacology., 22(42), 1990","Cypermethrin",NA
+"2912","rabbit","LD50","oral","1500 mg/kg","BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; GASTROINTESTINAL: CHANGES IN STRUCTURE OR FUNCTION OF SALIVARY GLANDS","Journal of Environmental Biology., 11(331), 1990","Cypermethrin",NA
+"2912","rabbit","LD50","skin","2400 mg/kg","NULL","Pesticide Manual., 9(208), 1991","Cypermethrin",NA
+"2912","guinea pig","LD50","oral","500 mg/kg","NULL","Defense des Vegetaux., 34(3), 1980","Cypermethrin",NA
+"2912","hamster","LD50","oral","400 mg/kg","NULL","Defense des Vegetaux., 34(3), 1980","Cypermethrin",NA
+"2912","mammal (species unspecified)","LD50","skin","2355 mg/kg","NULL","Gigiena i Sanitariya.  For English translation, see HYSAAV., 56(4)(83), 1991","Cypermethrin",NA
+"29393","rat","LD50","oral","10000 mg/kg","NULL","Agricultural Chemicals, Thomson, W.T., 4 vols., Fresno, CA, Thomson Publications, 1976/77 revision, 2(44), 1977","Oryzalin",NA
+"29732","rat","LD50","oral","3500 mg/kg","NULL","Agricultural Chemicals, Thomson, W.T., 4 vols., Fresno, CA, Thomson Publications, 1976/77 revision, 2(205), 1977","Oxadiazon",NA
+"29732","rat","LD50","skin","5200 mg/kg","NULL","Nippon Yakurigaku Zasshi.  Japanese Journal of Pharmacology., 69(2)(48P), 1973","Oxadiazon",NA
+"3017","human","TDLo","oral","214 mg/kg","BEHAVIORAL: CHANGES IN MOTOR ACTIVITY (SPECIFIC ASSAY); BEHAVIORAL: MUSCLE WEAKNESS; SKIN AND APPENDAGES (SKIN): SWEATING: OTHER","Clinical Toxicology., 12(435), 1978 [PMID:657758]","Diazinon",NA
+"3017","rat","LD50","oral","66 mg/kg","NULL","Down to Earth., 35(25), 1979","Diazinon",NA
+"3017","rat","LD50","skin","180 mg/kg","NULL","Proceedings of the Annual Meeting of the New Jersey Mosquito Extermination Association., -(155), 1957","Diazinon",NA
+"3017","rat","LD50","intratracheal","210 mg/kg","NULL","JAT, Journal of Applied Toxicology., 19(133), 1999 [PMID:10215185]","Diazinon",NA
+"3017","rat","LD50","unreported","250 mg/kg","NULL","Rinsho Shinkeigaku.  Clinical Neurology., 23(101), 1983","Diazinon",NA
+"3017","mouse","LD50","oral","17 mg/kg","NULL","Shokuhin Eiseigaku Zasshi.  Food Hygiene Journal., 24(268), 1983","Diazinon",NA
+"3017","mouse","LD50","skin","2750 mg/kg","NULL","Journal of Toxicology and Environmental Health., 9(491), 1982 [PMID:7097799]","Diazinon",NA
+"3017","mouse","LD50","intraperitoneal","33 mg/kg","NULL","Toxicology and Applied Pharmacology., 2(495), 1960 [PMID:13750404]","Diazinon",NA
+"3017","mouse","LD50","subcutaneous","58 mg/kg","NULL","Osaka Igaku Zasshi., 71(6099), 1959","Diazinon",NA
+"3017","mouse","LD50","intravenous","180 mg/kg","NULL","U.S. Army Armament Research & Development Command, Chemical Systems Laboratory, NIOSH Exchange Chemicals., NX#00023","Diazinon",NA
+"3017","rabbit","LD50","oral","143 mg/kg","NULL","Yakkyoku.  Pharmacy., 31(459), 1980","Diazinon",NA
+"3017","rabbit","LD50","skin","3600 mg/kg","NULL","Agrochemicals Handbook, with updates, Hartley, D., and H. Kidd, eds., Nottingham, Royal Soc of Chemistry, 1983-86, A131(1983)","Diazinon",NA
+"3017","pig","LD50","oral","320 mg/kg","NULL","Yakkyoku.  Pharmacy., 31(459), 1980","Diazinon",NA
+"3017","pig","LD50","skin","633 mg/kg","NULL","Yakkyoku.  Pharmacy., 31(459), 1980","Diazinon",NA
+"3017","guinea pig","LD50","oral","250 mg/kg","NULL","Wirksubstanzen der Pflanzenschutz und Schadlingsbekampfungsmittel, Perkow, W., Berlin, Verlag Paul Parey, 1971-1976, -(-), 1971/1976","Diazinon",NA
+"3017","mammal (species unspecified)","LD50","unreported","76 mg/kg","NULL","Chemistry of Pesticides, Melnikov, N.N., New York, Springer-Verlag New York, Inc., 1971, -(338), 1971","Diazinon",NA
+"3017","bird - wild","LD50","oral","2 mg/kg","NULL","Toxicology and Applied Pharmacology., 21(315), 1972 [PMID:5027965]","Diazinon",NA
+"3017","rat","LD50","intraperitoneal","65 mg/kg","NULL","Arzneimittel-Forschung. Drug Research., 5(436), 1955 [PMID:13276245]","Diazinon",NA
+"3030","rat","LD50","oral","1039 mg/kg","NULL","Fundamental and Applied Toxicology., 7(299), 1986","Dicamba",NA
+"3030","mouse","LD50","oral","1190 mg/kg","NULL","Hygiene and Sanitation, 35(7-9)(14), 1970","Dicamba",NA
+"3030","mouse","LD50","unreported","700 mg/kg","NULL","Tsitologiya i Genetika.  Cytology and Genetics.  For English translation, see CYGEDX., 16(1)(45), 1982","Dicamba",NA
+"3031","rat","LD50","oral","2710 mg/kg","NULL","Residue Reviews., 10(97), 1965 [PMID:4865270]","2,6-Dichlorobenzonitrile",NA
+"3031","rat","LD50","unreported","500 mg/kg","NULL","Chemistry of Pesticides, Melnikov, N.N., New York, Springer-Verlag New York, Inc., 1971, -(145), 1971","2,6-Dichlorobenzonitrile",NA
+"3031","mouse","LD50","oral","2056 mg/kg","NULL","Pesticide Index, Frear, E.H., ed., State College, PA, College Science Pub., 1969, 5(73), 1976","2,6-Dichlorobenzonitrile",NA
+"3031","mouse","LD","skin","200 mg/kg","SENSE ORGANS AND SPECIAL SENSES: DEVIATED NASAL SEPTUM: OLFACTION; SENSE ORGANS AND SPECIAL SENSES: OTHER CHANGES: OLFACTION","Neurotoxicology., 15(287), 1994 [PMID:7991217]","2,6-Dichlorobenzonitrile",NA
+"3031","mouse","LD50","intraperitoneal","360 mg/kg","NULL","Farmaco, Edizione Scientifica., 41(41), 1986 [PMID:3956718]","2,6-Dichlorobenzonitrile",NA
+"3031","rabbit","LD50","oral","270 mg/kg","BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); LIVER: OTHER CHANGES","Food and Cosmetics Toxicology., 6(261), 1968 [PMID:4233583]","2,6-Dichlorobenzonitrile",NA
+"3031","rabbit","LD50","skin","1350 mg/kg","NULL","Guide to the Chemicals Used in Crop Protection., 6(177), 1973","2,6-Dichlorobenzonitrile",NA
+"3031","guinea pig","LD50","oral","681 mg/kg","NULL","Pesticide Chemicals Official Compendium, Association of the American Pesticide Control Officials, Inc., 1966., -(337), 1966","2,6-Dichlorobenzonitrile",NA
+"3032791","rat","LD50","oral","6640 mg/kg","SENSE ORGANS AND SPECIAL SENSES: CHANGE IN OLFACTORY NERVE: OLFACTION; SENSE ORGANS AND SPECIAL SENSES: LACRIMATION: EYE; BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD","Toxicology and Applied Pharmacology., 23(606), 1972 [PMID:4644695]","Thiophanate-methyl",NA
+"3032791","rat","LD50","intraperitoneal","1140 mg/kg","SENSE ORGANS AND SPECIAL SENSES: CHANGE IN OLFACTORY NERVE: OLFACTION; SENSE ORGANS AND SPECIAL SENSES: LACRIMATION: EYE; BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD","Toxicology and Applied Pharmacology., 23(606), 1972 [PMID:4644695]","Thiophanate-methyl",NA
+"3032791","mouse","LD50","oral","3400 mg/kg","SENSE ORGANS AND SPECIAL SENSES: CHANGE IN OLFACTORY NERVE: OLFACTION; BEHAVIORAL: TREMOR; BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD","Toxicology and Applied Pharmacology., 23(606), 1972 [PMID:4644695]","Thiophanate-methyl",NA
+"3032791","mouse","LD50","intraperitoneal","790 mg/kg","SENSE ORGANS AND SPECIAL SENSES: CHANGE IN OLFACTORY NERVE: OLFACTION; BEHAVIORAL: TREMOR; BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD","Toxicology and Applied Pharmacology., 23(606), 1972 [PMID:4644695]","Thiophanate-methyl",NA
+"3032791","rabbit","LD50","oral","2270 mg/kg","SENSE ORGANS AND SPECIAL SENSES: MYDRIASIS (PUPILLARY DILATION): EYE; BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD","Toxicology and Applied Pharmacology., 23(606), 1972 [PMID:4644695]","Thiophanate-methyl",NA
+"3032791","guinea pig","LD50","oral","3640 mg/kg","SENSE ORGANS AND SPECIAL SENSES: MYDRIASIS (PUPILLARY DILATION): EYE; BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD","Toxicology and Applied Pharmacology., 23(606), 1972 [PMID:4644695]","Thiophanate-methyl",NA
+"30332","women","TDLo","oral","60 mg/kg","VASCULAR: OTHER CHANGES; LUNGS, THORAX, OR RESPIRATION: DYSPNEA; GASTROINTESTINAL: GASTRITIS","Human Toxicology., 7(343), 1988 [PMID:3410483]","Aluminum phosphide",NA
+"30332","man","TDLo","oral","21 mg/kg","VASCULAR: OTHER CHANGES; GASTROINTESTINAL: GASTRITIS","Human Toxicology., 7(343), 1988 [PMID:3410483]","Aluminum phosphide",NA
+"30332","women","LDLo","oral","180 mg/kg","CARDIAC: PULSE RATE INCREASE WITHOUT FALL IN BP; LIVER: JAUNDICE, OTHER OR UNCLASSIFIED; KIDNEY, URETER, AND BLADDER: CHANGES IN TUBULES (INCLUDING ACUTE RENAL FAILURE, ACUTE TUBULAR NECROSIS)","Human Toxicology., 7(343), 1988 [PMID:3410483]","Aluminum phosphide",NA
+"30332","man","LDLo","oral","86 mg/kg","BEHAVIORAL: COMA; VASCULAR: OTHER CHANGES; GASTROINTESTINAL: NAUSEA OR VOMITING","Human Toxicology., 7(343), 1988 [PMID:3410483]","Aluminum phosphide",NA
+"30479","rat","LD50","oral","1100 mg/kg","NULL","Farm Chemicals Handbook., -(C204), 1991","Metribuzin",NA
+"30479","rat","LD50","intraperitoneal","239 mg/kg","NULL","Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 12(127), 1987","Metribuzin",NA
+"30479","rat","LD50","subcutaneous","814 mg/kg","NULL","Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 12(127), 1987","Metribuzin",NA
+"30479","mouse","LD50","oral","564 mg/kg","NULL","Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 12(127), 1987","Metribuzin",NA
+"30479","mouse","LD50","intraperitoneal","210 mg/kg","BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY)","Pesticide Biochemistry and Physiology., 23(123), 1984","Metribuzin",NA
+"30479","mouse","LD50","subcutaneous","367 mg/kg","NULL","Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 12(127), 1987","Metribuzin",NA
+"30479","cat","LD50","oral","500 mg/kg","NULL","Agrochemicals Handbook, with updates, Hartley, D., and H. Kidd, eds., Nottingham, Royal Soc of Chemistry, 1983-86, A280(1983)","Metribuzin",NA
+"30479","guinea pig","LD50","oral","250 mg/kg","NULL","Wirksubstanzen der Pflanzenschutz und Schadlingsbekampfungsmittel, Perkow, W., Berlin, Verlag Paul Parey, 1971-1976, -(-), 1971/1976","Metribuzin",NA
+"30479","quail","LD50","oral","164 mg/kg","NULL","Pesticide Manual., 8(573), 1987","Metribuzin",NA
+"30479","quail","LD50","unreported","168 mg/kg","NULL","Farm Chemicals Handbook., -(C204), 1991","Metribuzin",NA
+"30692","rat","LD50","oral","679 mg/kg","SENSE ORGANS AND SPECIAL SENSES: MYDRIASIS (PUPILLARY DILATION): EYE; BEHAVIORAL: TREMOR; SKIN AND APPENDAGES (SKIN): HAIR: OTHER","Acute Toxicity Data. Journal of the American College of Toxicology, Part B., 1(207), 1992","2-(Thiocyanomethylthio)benzothiazole",NA
+"30692","rabbit","LD50","skin","642 mg/kg","NULL","Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 12(343), 1987","2-(Thiocyanomethylthio)benzothiazole",NA
+"30692","rat","LD50","oral","1590 mg/kg","NULL","Buckman Laboratories, Inc., TCMTB(1981)","2-(Thiocyanomethylthio)benzothiazole",NA
+"30692","rabbit","LD50","skin","200 mg/kg","NULL","Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 12(343), 1987","2-(Thiocyanomethylthio)benzothiazole",NA
+"30692","duck","LD50","oral","1310 mg/kg","NULL","Buckman Laboratories, Inc., TCMTB(1981)","2-(Thiocyanomethylthio)benzothiazole",NA
+"30692","rat","LD50","oral","2538 mg/kg","NULL","Buckman Laboratories, Inc., 14FEB1980","2-(Thiocyanomethylthio)benzothiazole",NA
+"30692","rat","LD50","intraperitoneal","73 mg/kg","NULL","Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 12(343), 1987","2-(Thiocyanomethylthio)benzothiazole",NA
+"30692","rat","LD50","subcutaneous","1300 mg/kg","NULL","Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 12(343), 1987","2-(Thiocyanomethylthio)benzothiazole",NA
+"30692","mouse","LD50","oral","445 mg/kg","NULL","Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 12(343), 1987","2-(Thiocyanomethylthio)benzothiazole",NA
+"30692","mouse","LD50","intraperitoneal","143 mg/kg","NULL","Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 12(343), 1987","2-(Thiocyanomethylthio)benzothiazole",NA
+"30692","mouse","LD50","subcutaneous","205 mg/kg","NULL","Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 12(343), 1987","2-(Thiocyanomethylthio)benzothiazole",NA
+"3082","man","TDLo","oral","286 mg/kg","PERIPHERAL NERVE AND SENSATION: FASCICULATIONS; BEHAVIORAL: COMA; LUNGS, THORAX, OR RESPIRATION: DYSPNEA","Intensive Care Medicine., 12(110), 1986 [PMID:3700838]","Dimethoate",NA
+"3082","human","LD50","oral","30 mg/kg","NULL","Guide to the Chemicals Used in Crop Protection., 6(209), 1973","Dimethoate",NA
+"3082","man","TDLo","oral","300 mg/kg","BEHAVIORAL: COMA; CARDIAC: PULSE RATE; VASCULAR: BP LOWERING NOT CHARACTERIZED IN AUTONOMIC SECTION","Journal of Toxicology, Clinical Toxicology., 24(69), 1986 [PMID:2871196]","Dimethoate",NA
+"3082","man","TDLo","oral","357 mg/kg","BRAIN AND COVERINGS: OTHER DEGENERATIVE CHANGES; CARDIAC: CARDIOMYOPATHY INCLUDING INFARCTION; KIDNEY, URETER, AND BLADDER: CHANGES IN TUBULES (INCLUDING ACUTE RENAL FAILURE, ACUTE TUBULAR NECROSIS)","Journal of Toxicology, Clinical Toxicology., 32(61), 1994 [PMID:8308950]","Dimethoate",NA
+"3082","rat","LD50","oral","60 mg/kg","NULL","Yakkyoku.  Pharmacy., 30(623), 1979","Dimethoate",NA
+"3082","rat","LD50","skin","353 mg/kg","NULL","British Journal of Industrial Medicine., 26(59), 1969 [PMID:5777792]","Dimethoate",NA
+"3082","rat","LD50","intraperitoneal","100 mg/kg","SENSE ORGANS AND SPECIAL SENSES: LACRIMATION: EYE; LUNGS, THORAX, OR RESPIRATION: DYSPNEA; GASTROINTESTINAL: CHANGES IN STRUCTURE OR FUNCTION OF SALIVARY GLANDS","British Journal of Industrial Medicine., 21(52), 1964 [PMID:14106136]","Dimethoate",NA
+"3082","rat","LD50","subcutaneous","350 mg/kg","SENSE ORGANS AND SPECIAL SENSES: LACRIMATION: EYE; LUNGS, THORAX, OR RESPIRATION: DYSPNEA; GASTROINTESTINAL: CHANGES IN STRUCTURE OR FUNCTION OF SALIVARY GLANDS","British Journal of Industrial Medicine., 21(52), 1964 [PMID:14106136]","Dimethoate",NA
+"3082","rat","LD50","intravenous","450 mg/kg","SENSE ORGANS AND SPECIAL SENSES: LACRIMATION: EYE; LUNGS, THORAX, OR RESPIRATION: DYSPNEA; GASTROINTESTINAL: CHANGES IN STRUCTURE OR FUNCTION OF SALIVARY GLANDS","British Journal of Industrial Medicine., 21(52), 1964 [PMID:14106136]","Dimethoate",NA
+"3082","rat","LD50","unreported","215 mg/kg","NULL","Yakkyoku.  Pharmacy., 28(225), 1977","Dimethoate",NA
+"3082","mouse","LD50","oral","60 mg/kg","SENSE ORGANS AND SPECIAL SENSES: LACRIMATION: EYE; LUNGS, THORAX, OR RESPIRATION: DYSPNEA; GASTROINTESTINAL: CHANGES IN STRUCTURE OR FUNCTION OF SALIVARY GLANDS","British Journal of Industrial Medicine., 21(52), 1964 [PMID:14106136]","Dimethoate",NA
+"3082","mouse","LD50","intraperitoneal","45 mg/kg","SENSE ORGANS AND SPECIAL SENSES: LACRIMATION: EYE; LUNGS, THORAX, OR RESPIRATION: DYSPNEA; GASTROINTESTINAL: CHANGES IN STRUCTURE OR FUNCTION OF SALIVARY GLANDS","British Journal of Industrial Medicine., 21(52), 1964 [PMID:14106136]","Dimethoate",NA
+"3082","mouse","LD50","unreported","158 mg/kg","NULL","Rinsho Shinkeigaku.  Clinical Neurology., 23(101), 1983","Dimethoate",NA
+"3082","dog","LD50","oral","400 mg/kg","NULL","Special Publication of the Entomological Society of America., 78-1(31), 1978","Dimethoate",NA
+"3082","cat","LD50","oral","100 mg/kg","BEHAVIORAL: EXCITEMENT","Gigiena i Sanitariya.  For English translation, see HYSAAV., 28(3)(21), 1963","Dimethoate",NA
+"3082","rabbit","LD50","oral","300 mg/kg","NULL","Special Publication of the Entomological Society of America., 78-1(31), 1978","Dimethoate",NA
+"3082","guinea pig","LD50","oral","350 mg/kg","NULL","Pesticide Chemicals Official Compendium, Association of the American Pesticide Control Officials, Inc., 1966., -(395), 1966","Dimethoate",NA
+"3082","guinea pig","LD50","skin","965 mg/kg","NULL","Toxicology and Applied Pharmacology., 3(210), 1961 [PMID:13784573]","Dimethoate",NA
+"3082","guinea pig","LD10","intraperitoneal","390 mg/kg","NULL","Toxicology and Applied Pharmacology., 8(259), 1966 [PMID:5956878]","Dimethoate",NA
+"3082","hamster","LD50","intraperitoneal","160 mg/kg","NULL","Archives of Toxicology., 58(152), 1986 [PMID:3964078]","Dimethoate",NA
+"3082","hamster","LD50","subcutaneous","60 mg/kg","SENSE ORGANS AND SPECIAL SENSES: LACRIMATION: EYE; LUNGS, THORAX, OR RESPIRATION: DYSPNEA; GASTROINTESTINAL: CHANGES IN STRUCTURE OR FUNCTION OF SALIVARY GLANDS","British Journal of Industrial Medicine., 21(52), 1964 [PMID:14106136]","Dimethoate",NA
+"3082","chicken","LD50","oral","25 mg/kg","NULL","Journal of Agricultural and Food Chemistry., 11(91), 1963","Dimethoate",NA
+"3082","quail","LD50","oral","25 mg/kg","NULL","Journal of Agricultural and Food Chemistry., 29(772), 1981 [PMID:7276382]","Dimethoate",NA
+"3082","duck","LD50","oral","42 mg/kg","NULL","Down to Earth., 35(25), 1979","Dimethoate",NA
+"3082","mouse","LD50","subcutaneous","60 mg/kg","SENSE ORGANS AND SPECIAL SENSES: LACRIMATION: EYE; LUNGS, THORAX, OR RESPIRATION: DYSPNEA; GASTROINTESTINAL: CHANGES IN STRUCTURE OR FUNCTION OF SALIVARY GLANDS","British Journal of Industrial Medicine., 21(52), 1964 [PMID:14106136]","Dimethoate",NA
+"3082","hamster","LD50","oral","200 mg/kg","SENSE ORGANS AND SPECIAL SENSES: LACRIMATION: EYE; LUNGS, THORAX, OR RESPIRATION: DYSPNEA; GASTROINTESTINAL: CHANGES IN STRUCTURE OR FUNCTION OF SALIVARY GLANDS","British Journal of Industrial Medicine., 21(52), 1964 [PMID:14106136]","Dimethoate",NA
+"31070","rat","LD50","oral","8 mg/kg","NULL","Bulletin of the Entomological Society of America., 15(116), 1969","Fenamiphos",NA
+"31070","rat","LD50","skin","80 mg/kg","NULL","Farm Chemicals Handbook., -(C216), 1991","Fenamiphos",NA
+"31070","dog","LD50","oral","10 mg/kg","NULL","Pesticide Index, Frear, E.H., ed., State College, PA, College Science Pub., 1969, 5(112), 1976","Fenamiphos",NA
+"31070","cat","LD50","oral","10 mg/kg","NULL","Wirksubstanzen der Pflanzenschutz und Schadlingsbekampfungsmittel, Perkow, W., Berlin, Verlag Paul Parey, 1971-1976, -(-), 1971/1976","Fenamiphos",NA
+"31070","rabbit","LD50","oral","10 mg/kg","NULL","Documentation of the Threshold Limit Values for Substances in Workroom Air, Supplements. For publisher information, see 85INA8., 4(191), 1982","Fenamiphos",NA
+"31070","rabbit","LD50","skin","178 mg/kg","NULL","Documentation of the Threshold Limit Values for Substances in Workroom Air, Supplements. For publisher information, see 85INA8., 4(191), 1982","Fenamiphos",NA
+"31070","chicken","LD50","oral","12 mg/kg","NULL","Pesticide Manual., 9(361), 1991","Fenamiphos",NA
+"31070","quail","LD50","oral","1 mg/kg","BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; BEHAVIORAL: ATAXIA; LUNGS, THORAX, OR RESPIRATION: DYSPNEA","Ecotoxicology and Environmental Safety., 8(551), 1984 [PMID:6510327]","Fenamiphos",NA
+"31070","duck","LD50","skin","24 mg/kg","NULL","Toxicology and Applied Pharmacology., 47(451), 1979 [PMID:442090]","Fenamiphos",NA
+"31099","rat","LD50","oral","20 mg/kg","NULL","World Review of Pest Control., 9(119), 1970","Formetanate",NA
+"31099","rat","LD50","skin","5600 mg/kg","NULL","Defense des Vegetaux., 28(43), 1974","Formetanate",NA
+"31099","mouse","LD50","oral","18 mg/kg","NULL","Agrochemicals Handbook, with updates, Hartley, D., and H. Kidd, eds., Nottingham, Royal Soc of Chemistry, 1983-86, A216(1983)","Formetanate",NA
+"31099","dog","LD50","oral","19 mg/kg","NULL","Agrochemicals Handbook, with updates, Hartley, D., and H. Kidd, eds., Nottingham, Royal Soc of Chemistry, 1983-86, A216(1983)","Formetanate",NA
+"31099","rabbit","LD50","skin","10200 mg/kg","NULL","Defense des Vegetaux., 28(43), 1974","Formetanate",NA
+"3120","rat","LD50","oral","1017 mg/kg","BEHAVIORAL: GENERAL ANESTHETIC; BEHAVIORAL: ATAXIA","Journal of Agricultural and Food Chemistry., 18(1104), 1970 [PMID:5483048]","Diuron",NA
+"3120","rat","LD50","unreported","3400 mg/kg","NULL","Chemistry of Pesticides, Melnikov, N.N., New York, Springer-Verlag New York, Inc., 1971, -(231), 1971","Diuron",NA
+"3120","mouse","LD50","intraperitoneal","500 mg/kg","NULL","National Technical Information Service., AD277-689","Diuron",NA
+"32154","rat","LD50","oral","3350 mg/kg","NULL","Defense des Vegetaux., 26(192), 1972","Propyzamide",NA
+"32154","rabbit","LDLo","skin","3160 mg/kg","NULL","Defense des Vegetaux., 26(192), 1972","Propyzamide",NA
+"3224","man","LDLo","oral","260 mg/kg","BRAIN AND COVERINGS: CHANGES IN SURFACE EEG; BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; LUNGS, THORAX, OR RESPIRATION: FIBROSIS, FOCAL (PNEUMOCONIOSIS)","Journal of Toxicology, Clinical Toxicology., 36(345), 1998 [PMID:9711201]","Endosulfan",NA
+"3224","man","TDLo","oral","86 mg/kg","BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; BEHAVIORAL: COMA; LUNGS, THORAX, OR RESPIRATION: CYANOSIS","Journal of Toxicology, Clinical Toxicology., 26(265), 1988 [PMID:3418779]","Endosulfan",NA
+"3224","rat","LD50","oral","18 mg/kg","NULL","Agricultural Research Service, USDA Information Memorandum., 20(9), 1966","Endosulfan",NA
+"3224","rat","LD50","skin","34 mg/kg","NULL","Toxicometric Parameters of Industrial Toxic Chemicals Under Single Exposure, Izmerov, N.F., et al., Moscow, Centre of International Projects, GKNT, 1982, -(72), 1982","Endosulfan",NA
+"3224","rat","LD50","intraperitoneal","8 mg/kg","BEHAVIORAL: CHANGES IN MOTOR ACTIVITY (SPECIFIC ASSAY); GASTROINTESTINAL: NAUSEA OR VOMITING; GASTROINTESTINAL: CONTRACTION (ISOLATED TISSUE)","Residue Reviews., 22(1), 1968 [PMID:4868139]","Endosulfan",NA
+"3224","rat","LD50","unreported","40 mg/kg","NULL","Chemistry of Pesticides, Melnikov, N.N., New York, Springer-Verlag New York, Inc., 1971, -(267), 1971","Endosulfan",NA
+"3224","mouse","LD50","unreported","32 mg/kg","NULL","Tsitologiya i Genetika.  Cytology and Genetics.  For English translation, see CYGEDX., 16(1)(45), 1982","Endosulfan",NA
+"3224","cat","LD50","oral","2 mg/kg","NULL","Wirksubstanzen der Pflanzenschutz und Schadlingsbekampfungsmittel, Perkow, W., Berlin, Verlag Paul Parey, 1971-1976, -(-), 1971/1976","Endosulfan",NA
+"3224","rabbit","LD50","oral","28 mg/kg","BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: EXCITEMENT; BEHAVIORAL: MUSCLE CONTRACTION OR SPASTICITY)","Veterinariya.  Veterinary Science., 59(12)(64), 1983","Endosulfan",NA
+"3224","rabbit","LD50","subcutaneous","360 mg/kg","BEHAVIORAL: CHANGES IN MOTOR ACTIVITY (SPECIFIC ASSAY); GASTROINTESTINAL: NAUSEA OR VOMITING; GASTROINTESTINAL: CONTRACTION (ISOLATED TISSUE)","Residue Reviews., 22(1), 1968 [PMID:4868139]","Endosulfan",NA
+"3224","hamster","LD50","oral","118 mg/kg","NULL","European Journal of Toxicology and Environmental Hygiene., 7(159), 1974 [PMID:4140096]","Endosulfan",NA
+"3224","hamster","LD50","intraperitoneal","80 mg/kg","NULL","Archives of Toxicology., 58(152), 1986 [PMID:3964078]","Endosulfan",NA
+"3224","duck","LD50","oral","33 mg/kg","NULL","Down to Earth., 35(25), 1979","Endosulfan",NA
+"3224","domestic animals - goat/sheep","LD50","oral","26 mg/kg","BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: EXCITEMENT; BEHAVIORAL: MUSCLE CONTRACTION OR SPASTICITY)","Veterinariya.  Veterinary Science., 59(12)(64), 1983","Endosulfan",NA
+"3224","mammal (species unspecified)","LD50","skin","147 mg/kg","BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: MUSCLE CONTRACTION OR SPASTICITY)","Veterinariya.  Veterinary Science., 59(12)(64), 1983","Endosulfan",NA
+"3224","bird - wild","LD50","oral","35 mg/kg","NULL","Toxicology and Applied Pharmacology., 21(315), 1972 [PMID:5027965]","Endosulfan",NA
+"3224","mouse","LD50","intraperitoneal","7 mg/kg","BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; LUNGS, THORAX, OR RESPIRATION: RESPIRATORY DEPRESSION; LUNGS, THORAX, OR RESPIRATION: RESPIRATORY STIMULATION","Bulletin of Environmental Contamination and Toxicology., 15(708), 1976 [PMID:938763]","Endosulfan",NA
+"3224","rabbit","LD50","skin","90 mg/kg","SENSE ORGANS AND SPECIAL SENSES: OTHER: EYE; SKIN AND APPENDAGES (SKIN): DERMATITIS, IRRITATIVE: AFTER SYSTEMIC EXPOSURE","Journal of Occupational Medicine., 9(35), 1967 [PMID:5226634]","Endosulfan",NA
+"3286","rat","LD50","oral","13 mg/kg","NULL","Pharmaceutical Journal., 185(361), 1960","Ethion",NA
+"3286","rat","LD50","skin","62 mg/kg","NULL","Toxicology and Applied Pharmacology., 14(515), 1969 [PMID:5787520]","Ethion",NA
+"3286","rat","LD50","intraperitoneal","26 mg/kg","NULL","Proceedings of the Society for Experimental Biology and Medicine., 129(699), 1968 [PMID:5725078]","Ethion",NA
+"3286","rat","LD50","unreported","55 mg/kg","NULL","Chemistry of Pesticides, Melnikov, N.N., New York, Springer-Verlag New York, Inc., 1971, -(367), 1971","Ethion",NA
+"3286","mouse","LD50","oral","40 mg/kg","NULL","Wirksubstanzen der Pflanzenschutz und Schadlingsbekampfungsmittel, Perkow, W., Berlin, Verlag Paul Parey, 1971-1976, -(-), 1971/1976","Ethion",NA
+"3286","mouse","LD50","intraperitoneal","35 mg/kg","NULL","Proceedings of the Society for Experimental Biology and Medicine., 129(699), 1968 [PMID:5725078]","Ethion",NA
+"3286","guinea pig","LD50","oral","40 mg/kg","NULL","Wirksubstanzen der Pflanzenschutz und Schadlingsbekampfungsmittel, Perkow, W., Berlin, Verlag Paul Parey, 1971-1976, -(-), 1971/1976","Ethion",NA
+"3286","guinea pig","LD50","skin","915 mg/kg","NULL","Wirksubstanzen der Pflanzenschutz und Schadlingsbekampfungsmittel, Perkow, W., Berlin, Verlag Paul Parey, 1971-1976, -(-), 1971/1976","Ethion",NA
+"3286","bird - wild","LD50","oral","45 mg/kg","NULL","Toxicology and Applied Pharmacology., 21(315), 1972 [PMID:5027965]","Ethion",NA
+"3289","rat","LD50","skin","60 mg/kg","NULL","World Review of Pest Control., 9(119), 1970","Ethoprophos",NA
+"3289","rabbit","LD50","oral","55 mg/kg","NULL","Pesticide Manual., 9(349), 1991","Ethoprophos",NA
+"3289","chicken","LD50","skin","3 mg/kg","NULL","Toxicologist., 5(26), 1985","Ethoprophos",NA
+"3289","duck","LD50","skin","11 mg/kg","NULL","Toxicology and Applied Pharmacology., 47(451), 1979 [PMID:442090]","Ethoprophos",NA
+"3289","rat","LD50","oral","34 mg/kg","NULL","Agricultural Research Service, USDA Information Memorandum., 20(26), 1966","Ethoprophos",NA
+"33112","rat","LD50","skin","3900 mg/kg","NULL","Pesticide Manual., 8(704), 1987","Filex",NA
+"33112","mouse","LD50","oral","1568 mg/kg","NULL","Farm Chemicals Handbook., -(C250), 1991","Filex",NA
+"33112","rabbit","LD50","skin","3900 mg/kg","NULL","Pesticide Manual., 9(714), 1991","Filex",NA
+"33112","duck","LD50","oral","6300 mg/kg","NULL","Pesticide Manual., 9(714), 1991","Filex",NA
+"33112","bird - wild","LD50","oral","3050 mg/kg","NULL","Pesticide Manual., 9(714), 1991","Filex",NA
+"33360","rat","LD50","oral","1130 mg/kg","NULL","National Technical Information Service., PB85-143766","Ethofumesate",NA
+"33360","rat","LD50","skin","1440 mg/kg","NULL","Agrochemicals Handbook, with updates, Hartley, D., and H. Kidd, eds., Nottingham, Royal Soc of Chemistry, 1983-86, A184(1984)","Ethofumesate",NA
+"33360","mouse","LD50","oral","1600 mg/kg","NULL","Agrochemicals Handbook, with updates, Hartley, D., and H. Kidd, eds., Nottingham, Royal Soc of Chemistry, 1983-86, A184(1984)","Ethofumesate",NA
+"33775","quail","LD50","unreported","1250 mg/kg","NULL","Farm Chemicals Handbook., -(C221), 1991","Norflurazon",NA
+"33775","duck","LD50","unreported","1250 mg/kg","NULL","Farm Chemicals Handbook., -(C221), 1991","Norflurazon",NA
+"3391107","mouse","LD50","oral","500 mg/kg","BEHAVIORAL: MUSCLE WEAKNESS","National Technical Information Service., OTS0545018","Quinoxyfen",NA
+"34192","rat","LD50","oral","920 mg/kg","NULL","Japan Pesticide Information., (40)(32), 1982","Thiobencarb",NA
+"34192","rat","LD50","skin","2900 mg/kg","NULL","Pesticide Manual., 9(815), 1991","Thiobencarb",NA
+"34192","mouse","LD50","oral","560 mg/kg","NULL","Guide to the Chemicals Used in Crop Protection., 6(37), 1973","Thiobencarb",NA
+"34192","mouse","LD50","intraperitoneal","1338 mg/kg","NULL","Japan Pesticide Information., (19)(21), 1974","Thiobencarb",NA
+"34192","chicken","LD50","oral","673 mg/kg","NULL","Japan Pesticide Information., (19)(21), 1974","Thiobencarb",NA
+"34192","quail","LD50","oral","7800 mg/kg","NULL","Agrochemicals Handbook, with updates, Hartley, D., and H. Kidd, eds., Nottingham, Royal Soc of Chemistry, 1983-86, A573(1985)","Thiobencarb",NA
+"34469","rat","LD50","oral","15380 mg/kg","NULL","Agricultural Chemicals, Thomson, W.T., 4 vols., Fresno, CA, Thomson Publications, 1976/77 revision, 2(48), 1977","Prodiamine",NA
+"3496","man","LDLo","oral","2143 mg/kg","VASCULAR: BP LOWERING NOT CHARACTERIZED IN AUTONOMIC SECTION; LUNGS, THORAX, OR RESPIRATION: FIBROSIS (INTERSTITIAL); LUNGS, THORAX, OR RESPIRATION: FIBROSING ALVEOLITIS","Journal of Toxicology, Clinical Toxicology., 29(91), 1991 [PMID:2005670]","Glyphosate",NA
+"3496","rat","LD50","oral","4873 mg/kg","BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; LUNGS, THORAX, OR RESPIRATION: RESPIRATORY STIMULATION","Toxicology and Applied Pharmacology., 45(319), 1978","Glyphosate",NA
+"3496","rat","LD50","intraperitoneal","235 mg/kg","BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; LUNGS, THORAX, OR RESPIRATION: RESPIRATORY STIMULATION","Toxicology Letters., 1000(Sp","Glyphosate",NA
+"3496","mouse","LD50","oral","1568 mg/kg","BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; LUNGS, THORAX, OR RESPIRATION: RESPIRATORY STIMULATION","Toxicology and Applied Pharmacology., 45(319), 1978","Glyphosate",NA
+"3496","mouse","LD50","intraperitoneal","130 mg/kg","BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; LUNGS, THORAX, OR RESPIRATION: RESPIRATORY STIMULATION","Toxicology Letters., 1000(Sp","Glyphosate",NA
+"3496","rabbit","LD50","oral","3800 mg/kg","NULL","Pesticide & Toxic Chemical News., 7(6), 1978","Glyphosate",NA
+"3496","rabbit","LD50","skin","7940 mg/kg","NULL","Agrochemicals Handbook, with updates, Hartley, D., and H. Kidd, eds., Nottingham, Royal Soc of Chemistry, 1983-86, A222(1984)","Glyphosate",NA
+"3496","quail","LD50","oral","4640 mg/kg","NULL","Pesticide Manual., 9(459), 1991","Glyphosate",NA
+"3496","man","TDLo","oral","1214 mg/kg","CARDIAC: CHANGE IN RATE; VASCULAR: BP LOWERING NOT CHARACTERIZED IN AUTONOMIC SECTION; GASTROINTESTINAL: HYPERMOTILITY, DIARRHEA","Human & Experimental Toxicology., 10(103), 1991 [PMID:1675099]","Glyphosate",NA
+"36565","rat","LD50","oral","2500 mg/kg","NULL","Proceedings, Southern Weed Science Society., 24(58), 1971","Butralin",NA
+"36565","rabbit","LD50","skin","200 mg/kg","NULL","Farm Chemicals Handbook., -(C55), 1991","Butralin",NA
+"36565","mammal (species unspecified)","LD50","oral","12600 mg/kg","NULL","Defense des Vegetaux., 32(125), 1978","Butralin",NA
+"37123","rat","LD50","oral","4640 mg/kg","NULL","Prehled Prumyslove Toxikologie; Organicke Latky, Marhold, J., Prague, Czechoslovakia, Avicenum, 1986, -(968), 1986","Diflubenzuron",NA
+"37123","rat","LD50","intraperitoneal","7500 mg/kg","NULL","Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 17(S159), 1992","Diflubenzuron",NA
+"37123","rat","LD50","subcutaneous","3400 mg/kg","NULL","Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 17(S159), 1992","Diflubenzuron",NA
+"37123","mouse","LD50","oral","4640 mg/kg","NULL","Special Publication of the Entomological Society of America., 78-1(20), 1978","Diflubenzuron",NA
+"37123","mouse","LD50","skin","6200 mg/kg","NULL","Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 17(S159), 1992","Diflubenzuron",NA
+"37123","mouse","LD50","intraperitoneal","2150 mg/kg","NULL","Prehled Prumyslove Toxikologie; Organicke Latky, Marhold, J., Prague, Czechoslovakia, Avicenum, 1986, -(968), 1986","Diflubenzuron",NA
+"37123","mouse","LD50","unreported","4600 mg/kg","NULL","Tsitologiya i Genetika.  Cytology and Genetics.  For English translation, see CYGEDX., 16(1)(45), 1982","Diflubenzuron",NA
+"37175","rat","LD50","oral","227 mg/kg","BEHAVIORAL: MUSCLE WEAKNESS; BEHAVIORAL: ATAXIA; SKIN AND APPENDAGES (SKIN): HAIR: OTHER","Arzneimittel-Forschung. Drug Research., 31(309), 1981 [PMID:7194648]","Enilconazole",NA
+"37175","rat","LD50","skin","4200 mg/kg","NULL","Pesticide Manual., 9(482), 1991","Enilconazole",NA
+"37175","rat","LD50","intraperitoneal","155 mg/kg","BEHAVIORAL: MUSCLE WEAKNESS; BEHAVIORAL: ATAXIA; SKIN AND APPENDAGES (SKIN): HAIR: OTHER","Arzneimittel-Forschung. Drug Research., 31(309), 1981 [PMID:7194648]","Enilconazole",NA
+"37175","dog","LD50","oral","640 mg/kg","GASTROINTESTINAL: HYPERMOTILITY, DIARRHEA","Arzneimittel-Forschung. Drug Research., 31(309), 1981 [PMID:7194648]","Enilconazole",NA
+"37175","rabbit","LD50","skin","4200 mg/kg","NULL","Agrochemicals Handbook, with updates, Hartley, D., and H. Kidd, eds., Nottingham, Royal Soc of Chemistry, 1983-86, A230(1983)","Enilconazole",NA
+"37517","rat","LD50","oral","3500 mg/kg","NULL","Pesticide Manual., 9(501), 1991","Iprodione",NA
+"37517","rat","LDLo","skin","2500 mg/kg","NULL","Defense des Vegetaux., 30(124), 1976","Iprodione",NA
+"37517","rat","LD50","intraperitoneal","1700 mg/kg","NULL","Defense des Vegetaux., 30(124), 1976","Iprodione",NA
+"37517","quail","LD50","oral","930 mg/kg","NULL","Pesticide Manual., 9(501), 1991","Iprodione",NA
+"37517","duck","LD50","oral","10400 mg/kg","NULL","Pesticide Manual., 9(501), 1991","Iprodione",NA
+"3830","mouse","LD50","intraperitoneal","450 mg/kg","NULL","Nippon Yakurigaku Zasshi.  Japanese Journal of Pharmacology., 61(2)(43S), 1965","Kinetin",NA
+"38479","rat","LD50","oral","1050 mg/kg","NULL","Agrochemicals Handbook, with updates, Hartley, D., and H. Kidd, eds., Nottingham, Royal Soc of Chemistry, 1983-86, A314(1984)","Pendimethalin",NA
+"38479","rat","LD50","intraperitoneal","500 mg/kg","BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: CHANGES IN MOTOR ACTIVITY (SPECIFIC ASSAY)","Indian Journal of Experimental Biology., 25(463), 1987 [PMID:3436644]","Pendimethalin",NA
+"38479","mouse","LD50","oral","1340 mg/kg","NULL","Pesticide Manual., 9(656), 1991","Pendimethalin",NA
+"38479","rabbit","LD50","skin","2260 mg/kg","NULL","Farm Chemicals Handbook., -(C254), 1991","Pendimethalin",NA
+"38479","mouse","LD50","intraperitoneal","220 mg/kg","BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: CHANGES IN MOTOR ACTIVITY (SPECIFIC ASSAY)","Indian Journal of Experimental Biology., 25(463), 1987 [PMID:3436644]","Pendimethalin",NA
+"38687","rat","LD50","oral","563 mg/kg","NULL","Pesticide Manual., 9(262), 1991","Diclofop",NA
+"39327","dog","LD50","oral","5 mg/kg","NULL","Pesticide Manual., 9(643), 1991","Oxyfluorfen",NA
+"39385","rat","LD50","oral","363 mg/kg","NULL","Defense des Vegetaux., 31(97), 1977","Triadimefon",NA
+"39385","dog","LD50","oral","500 mg/kg","NULL","Pesticide Manual., 9(831), 1991","Triadimefon",NA
+"39385","rabbit","LD50","oral","500 mg/kg","NULL","Wirksubstanzen der Pflanzenschutz und Schadlingsbekampfungsmittel, Perkow, W., Berlin, Verlag Paul Parey, 1971-1976, -(-), 1971/1976","Triadimefon",NA
+"39385","quail","LD50","oral","1750 mg/kg","NULL","Pesticide Manual., 9(831), 1991","Triadimefon",NA
+"39965","rat","LD50","oral","1690 mg/kg","NULL","Agricultural Chemicals, Thomson, W.T., 4 vols., Fresno, CA, Thomson Publications, 1976/77 revision, 2(135), 1977","Hexazinone",NA
+"39965","rat","LD50","skin","5278 mg/kg","NULL","Farm Chemicals Handbook., -(C163), 1991","Hexazinone",NA
+"39965","rat","LD50","intraperitoneal","530 mg/kg","BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; BEHAVIORAL: ATAXIA","Fundamental and Applied Toxicology., 4(603), 1984","Hexazinone",NA
+"39965","rabbit","LD50","skin","5278 mg/kg","NULL","Pesticide Manual., 9(472), 1991","Hexazinone",NA
+"39965","guinea pig","LD50","oral","860 mg/kg","NULL","Pesticide & Toxic Chemical News., 9(21), 1980","Hexazinone",NA
+"39965","quail","LD50","oral","2258 mg/kg","NULL","Prehled Prumyslove Toxikologie; Organicke Latky, Marhold, J., Prague, Czechoslovakia, Avicenum, 1986, -(881), 1986","Hexazinone",NA
+"39965","quail","LD50","intraperitoneal","2258 mg/kg","BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; BEHAVIORAL: ATAXIA","Fundamental and Applied Toxicology., 4(603), 1984","Hexazinone",NA
+"4004","man","LDLo","oral","471 mg/kg","BEHAVIORAL: COMA; VASCULAR: BP LOWERING NOT CHARACTERIZED IN AUTONOMIC SECTION; LUNGS, THORAX, OR RESPIRATION: DYSPNEA","Archiv fuer Toxikologie., 23(11), 1967","Malathion",NA
+"4004","women","LDLo","oral","246 mg/kg","VASCULAR: BP LOWERING NOT CHARACTERIZED IN AUTONOMIC SECTION; LUNGS, THORAX, OR RESPIRATION: CHRONIC PULMONARY EDEMA; SKIN AND APPENDAGES (SKIN): DERMATITIS, OTHER: AFTER SYSTEMIC EXPOSURE","Archives of Environmental Health., 33(240), 1978 [PMID:568457]","Malathion",NA
+"4004","rat","LD50","oral","290 mg/kg","NULL","Toxicometric Parameters of Industrial Toxic Chemicals Under Single Exposure, Izmerov, N.F., et al., Moscow, Centre of International Projects, GKNT, 1982, -(56), 1982","Malathion",NA
+"4004","rat","LD50","skin","4444 mg/kg","NULL","Proceedings of the Annual Meeting of the New Jersey Mosquito Extermination Association., -(155), 1957","Malathion",NA
+"4004","rat","LD50","intraperitoneal","250 mg/kg","NULL","Arzneimittel-Forschung. Drug Research., 22(1926), 1972 [PMID:4679066]","Malathion",NA
+"4004","rat","LD50","subcutaneous","400 mg/kg","SENSE ORGANS AND SPECIAL SENSES: LACRIMATION: EYE; BEHAVIORAL: MUSCLE CONTRACTION OR SPASTICITY)","Toksikologiya Novykh Promyshlennykh Khimicheskikh Veshchestv.  Toxicology of New Industrial Chemical Substances.  For English translation, see TNICS*., 7(122), 1965","Malathion",NA
+"4004","rat","LD50","intravenous","50 mg/kg","NULL","Arzneimittel-Forschung. Drug Research., 5(626), 1955 [PMID:13293054]","Malathion",NA
+"4004","rat","LD50","unreported","450 mg/kg","NULL","Gigiena i Sanitariya.  For English translation, see HYSAAV., 50(3)(4), 1985","Malathion",NA
+"4004","mouse","LD50","oral","190 mg/kg","NULL","Toxicometric Parameters of Industrial Toxic Chemicals Under Single Exposure, Izmerov, N.F., et al., Moscow, Centre of International Projects, GKNT, 1982, -(56), 1982","Malathion",NA
+"4004","mouse","LD50","skin","2330 mg/kg","NULL","Agricultural and Biological Chemistry., 27(684), 1963","Malathion",NA
+"4004","mouse","LD50","intraperitoneal","193 mg/kg","NULL","Proceedings of the Society for Experimental Biology and Medicine., 129(699), 1968 [PMID:5725078]","Malathion",NA
+"4004","mouse","LD50","subcutaneous","221 mg/kg","NULL","Osaka Igaku Zasshi., 71(6099), 1959","Malathion",NA
+"4004","mouse","LD50","intravenous","184 mg/kg","NULL","Bratislavske Lekarske Listy., 38(151), 1958","Malathion",NA
+"4004","mouse","LD50","unreported","375 mg/kg","NULL","Gigiena i Sanitariya.  For English translation, see HYSAAV., 50(3)(4), 1985","Malathion",NA
+"4004","dog","LD50","intraperitoneal","1857 mg/kg","NULL","Toxicology and Applied Pharmacology., 15(244), 1969 [PMID:5798729]","Malathion",NA
+"4004","rabbit","LDLo","oral","1200 mg/kg","LUNGS, THORAX, OR RESPIRATION: RESPIRATORY STIMULATION","U.S. Army, Environmental Hygiene Agency Reports., 99-002-74/1976","Malathion",NA
+"4004","rabbit","LD50","skin","4100 mg/kg","NULL","Pesticide Index, Frear, E.H., ed., State College, PA, College Science Pub., 1969, 5(142), 1976","Malathion",NA
+"4004","rabbit","LD50","subcutaneous","280 mg/kg","SENSE ORGANS AND SPECIAL SENSES: LACRIMATION: EYE; BEHAVIORAL: MUSCLE CONTRACTION OR SPASTICITY)","Toksikologiya Novykh Promyshlennykh Khimicheskikh Veshchestv.  Toxicology of New Industrial Chemical Substances.  For English translation, see TNICS*., 7(122), 1965","Malathion",NA
+"4004","guinea pig","LD50","skin","6700 mg/kg","NULL","Toxicological Information on Cyanamid Insecticides., 8/1966","Malathion",NA
+"4004","guinea pig","LD50","intraperitoneal","271 mg/kg","NULL","Naunyn-Schmiedeberg's Archiv fuer Experimentelle Pathologie und Pharmakologie., 236(202), 1959","Malathion",NA
+"4004","guinea pig","LD50","subcutaneous","450 mg/kg","SENSE ORGANS AND SPECIAL SENSES: LACRIMATION: EYE; BEHAVIORAL: MUSCLE CONTRACTION OR SPASTICITY)","Toksikologiya Novykh Promyshlennykh Khimicheskikh Veshchestv.  Toxicology of New Industrial Chemical Substances.  For English translation, see TNICS*., 7(122), 1965","Malathion",NA
+"4004","hamster","LD50","intraperitoneal","2400 mg/kg","NULL","Archives of Toxicology., 58(152), 1986 [PMID:3964078]","Malathion",NA
+"4004","chicken","LD50","oral","600 mg/kg","BEHAVIORAL: FOOD INTAKE (ANIMAL)","Indian Journal of Experimental Biology., 9(455), 1971 [PMID:5147170]","Malathion",NA
+"4004","domestic animals - goat/sheep","LD50","oral","500 mg/kg","NULL","Wirksubstanzen der Pflanzenschutz und Schadlingsbekampfungsmittel, Perkow, W., Berlin, Verlag Paul Parey, 1971-1976, -(-), 1971/1976","Malathion",NA
+"4004","cattle","LD50","oral","53 mg/kg","PERIPHERAL NERVE AND SENSATION: FASCICULATIONS; BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; BEHAVIORAL: REGIDITY","Indian Veterinary Journal., 56(650), 1979","Malathion",NA
+"4004","cattle","LD50","unreported","53 mg/kg","BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; BEHAVIORAL: EXCITEMENT; BEHAVIORAL: CHANGES IN MOTOR ACTIVITY (SPECIFIC ASSAY)","Indian Journal of Animal Sciences., 49(314), 1979","Malathion",NA
+"4004","mammal (species unspecified)","LD50","unreported","500 mg/kg","NULL","Chemistry of Pesticides, Melnikov, N.N., New York, Springer-Verlag New York, Inc., 1971, -(357), 1971","Malathion",NA
+"4004","bird - wild","LD50","oral","400 mg/kg","NULL","Archives of Environmental Contamination and Toxicology., 12(355), 1983 [PMID:6882015]","Malathion",NA
+"4004","guinea pig","LD50","oral","570 mg/kg","NULL","Arzneimittel-Forschung. Drug Research., 5(626), 1955 [PMID:13293054]","Malathion",NA
+"40087","rat","LD50","oral","5350 mg/kg","BEHAVIORAL: EXCITEMENT","Gigiena i Sanitariya.  For English translation, see HYSAAV., 49(1)(72), 1984","Thidiazuron",NA
+"40087","rat","LD50","intraperitoneal","4200 mg/kg","NULL","Farm Chemicals Handbook., -(C118), 1991","Thidiazuron",NA
+"40087","mouse","LD50","oral","3740 mg/kg","BEHAVIORAL: EXCITEMENT","Gigiena i Sanitariya.  For English translation, see HYSAAV., 49(1)(72), 1984","Thidiazuron",NA
+"40087","rabbit","LD50","oral","7100 mg/kg","BEHAVIORAL: EXCITEMENT","Gigiena i Sanitariya.  For English translation, see HYSAAV., 49(1)(72), 1984","Thidiazuron",NA
+"40087","guinea pig","LD50","oral","2813 mg/kg","BEHAVIORAL: EXCITEMENT","Gigiena i Sanitariya.  For English translation, see HYSAAV., 49(1)(72), 1984","Thidiazuron",NA
+"40326","rat","LD50","subcutaneous","6600 mg/kg","BEHAVIORAL: TREMOR; BEHAVIORAL: ATAXIA","Bochu Kagaku.  Scientific Pest Control., 41(143), 1976","Permethrin",NA
+"40326","rat","LD","intravenous","270 mg/kg","NULL","Nature., 246(169), 1973 [PMID:4586114]","Permethrin",NA
+"40326","rat","LD50","unreported","537 mg/kg","BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; BEHAVIORAL: ATAXIA; BEHAVIORAL: COMA","Gigiena i Sanitariya.  For English translation, see HYSAAV., 53(9)(69), 1988","Permethrin",NA
+"40326","mouse","LD50","oral","424 mg/kg","NULL","Ecotoxicology and Environmental Safety., 18(27), 1989 [PMID:2776687]","Permethrin",NA
+"40326","mouse","LD50","intraperitoneal","429 mg/kg","NULL","Ecotoxicology and Environmental Safety., 18(27), 1989 [PMID:2776687]","Permethrin",NA
+"40326","mouse","LD50","intravenous","31 mg/kg","NULL","Toxicology and Applied Pharmacology., 66(153), 1982 [PMID:7164094]","Permethrin",NA
+"40326","mouse","LD50","unreported","680 mg/kg","BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; BEHAVIORAL: ATAXIA; BEHAVIORAL: COMA","Gigiena i Sanitariya.  For English translation, see HYSAAV., 53(9)(69), 1988","Permethrin",NA
+"40326","quail","LD50","oral","13500 mg/kg","NULL","Defense des Vegetaux., 32(168), 1978","Permethrin",NA
+"40326","duck","LD50","oral","11300 mg/kg","NULL","Defense des Vegetaux., 32(168), 1978","Permethrin",NA
+"40326","rat","LD","intravenous","270 mg/kg","BEHAVIORAL: TREMOR; BEHAVIORAL: REGIDITY; BEHAVIORAL: AGGRESSION","Archives of Toxicology., 45(325), 1980 [PMID:7447703]","Permethrin",NA
+"40326","mouse","LD50","oral","214 mg/kg","BEHAVIORAL: TREMOR; BEHAVIORAL: ATAXIA","Bochu Kagaku.  Scientific Pest Control., 41(143), 1976","Permethrin",NA
+"40326","mouse","LD50","intraperitoneal","925 mg/kg","NULL","Journal of Agricultural and Food Chemistry., 25(9), 1977","Permethrin",NA
+"40326","man","TDLo","oral","2270 mg/kg","BEHAVIORAL: COMA; GASTROINTESTINAL: HYPERMOTILITY, DIARRHEA","Journal of Toxicology, Clinical Toxicology., 36(57), 1998 [PMID:9541045]","Permethrin",NA
+"40326","rat","LD50","oral","383 mg/kg","NULL","National Technical Information Service., AD-A047-284","Permethrin",NA
+"40326","rat","LD50","skin","1750 mg/kg","NULL","Gigiena i Sanitariya.  For English translation, see HYSAAV., 53(9)(69), 1988","Permethrin",NA
+"40326","rat","LD","intravenous","270 mg/kg","BEHAVIORAL: TREMOR; BEHAVIORAL: REGIDITY; BEHAVIORAL: AGGRESSION","Archives of Toxicology., 45(325), 1980 [PMID:7447703]","Permethrin",NA
+"40585","rat","LD50","skin","800 mg/kg","NULL","Journal of Environmental Pathology and Toxicology., 2(3)(751), 1979","Deltamethrin",NA
+"40585","mouse","LD50","oral","20 mg/kg","BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; KIDNEY, URETER, AND BLADDER: URINE VOLUME INCREASED","Journal of Environmental Biology., 12(45), 1991","Deltamethrin",NA
+"40585","mouse","LD50","intraperitoneal","10 mg/kg","NULL","EHP, Environmental Health Perspectives., 21(285), 1977 [PMID:612453]","Deltamethrin",NA
+"40585","duck","LD50","oral","4640 mg/kg","NULL","Pesticide Manual., 9(232), 1991","Deltamethrin",NA
+"4130","rat","LD50","skin","67 mg/kg","NULL","World Review of Pest Control., 4(36), 1965","Methyl parathion",NA
+"4130","rat","LD50","subcutaneous","6 mg/kg","NULL","Journal of Economic Entomology., 50(356), 1957","Methyl parathion",NA
+"4130","rat","LD50","intravenous","9 mg/kg","NULL","National Technical Information Service., PB277-077","Methyl parathion",NA
+"4130","rat","LD50","unreported","10 mg/kg","NULL","Nippon Yakurigaku Zasshi.  Japanese Journal of Pharmacology., 74(41P), 1978","Methyl parathion",NA
+"4130","mouse","LD50","subcutaneous","18 mg/kg","NULL","Bratislavske Lekarske Listy., 38(151), 1958","Methyl parathion",NA
+"4130","mouse","LD50","intracrebral","47 mg/kg","NULL","Pesticide Biochemistry and Physiology., 8(302), 1978","Methyl parathion",NA
+"4130","mouse","LD50","unreported","23 mg/kg","NULL","Bulletin of the World Health Organization., 44(31), 1971 [PMID:5315349]","Methyl parathion",NA
+"4130","dog","LD50","oral","90 mg/kg","GASTROINTESTINAL: NAUSEA OR VOMITING","Proceedings of the European Society of Toxicology., 16(273), 1975","Methyl parathion",NA
+"4130","rabbit","LD50","oral","420 mg/kg","NULL","National Technical Information Service., PB241-840","Methyl parathion",NA
+"4130","rabbit","LD50","skin","300 mg/kg","NULL","Quarterly Bulletin--Association of Food and Drug Officials of the United States., 16(3), 1952","Methyl parathion",NA
+"4130","guinea pig","LD50","oral","1270 mg/kg","NULL","National Technical Information Service., PB241-840","Methyl parathion",NA
+"4130","guinea pig","LD50","intravenous","50 mg/kg","NULL","National Technical Information Service., PB241-840","Methyl parathion",NA
+"4130","duck","LD50","oral","10 mg/kg","NULL","Down to Earth., 35(25), 1979","Methyl parathion",NA
+"4130","duck","LD50","skin","54 mg/kg","NULL","Toxicology and Applied Pharmacology., 47(451), 1979 [PMID:442090]","Methyl parathion",NA
+"4130","mammal (species unspecified)","LD50","oral","57 mg/kg","BEHAVIORAL: TREMOR; BEHAVIORAL: ATAXIA; LUNGS, THORAX, OR RESPIRATION: DYSPNEA","National Technical Information Service., PB288-416","Methyl parathion",NA
+"4130","mammal (species unspecified)","LD50","unreported","25 mg/kg","NULL","Chemistry of Pesticides, Melnikov, N.N., New York, Springer-Verlag New York, Inc., 1971, -(327), 1971","Methyl parathion",NA
+"4130","bird - wild","LD50","oral","5 mg/kg","NULL","Journal de Toxicologie Clinique et Experimentale., 6(3)(175), 1986","Methyl parathion",NA
+"4130","mouse","LD50","skin","1200 mg/kg","NULL","Journal of Toxicology and Environmental Health., 9(491), 1982 [PMID:7097799]","Methyl parathion",NA
+"41381","dog","LD50","oral","200 mg/kg","NULL","Pesticide Manual., 9(340), 1991","Ethalfluralin",NA
+"41381","cat","LD50","oral","200 mg/kg","NULL","Pesticide Manual., 9(340), 1991","Ethalfluralin",NA
+"41381","quail","LD50","oral","200 mg/kg","NULL","Pesticide Manual., 9(340), 1991","Ethalfluralin",NA
+"41381","duck","LD50","oral","200 mg/kg","NULL","Pesticide Manual., 9(340), 1991","Ethalfluralin",NA
+"41428","rat","LD50","oral","630 mg/kg","NULL","Farm Chemicals Handbook., -(C310), 1991","Triclopyr",NA
+"41428","rabbit","LD50","oral","550 mg/kg","NULL","Pesticide Manual., 9(844), 1991","Triclopyr",NA
+"41428","guinea pig","LD50","oral","310 mg/kg","NULL","Pesticide Manual., 9(844), 1991","Triclopyr",NA
+"41428","duck","LD50","oral","1693 mg/kg","NULL","Down to Earth., 35(25), 1979","Triclopyr",NA
+"4169","rat","LD50","oral","2200 mg/kg","NULL","Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 14(103), 1989","Metolachlor",NA
+"4169","rat","LD50","skin","3170 mg/kg","NULL","Materialy Sesji Naukowej Instytutu Ochrony Roslin, 18(341), 1979","Metolachlor",NA
+"4169","rat","LD50","intraperitoneal","620 mg/kg","NULL","Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 14(103), 1989","Metolachlor",NA
+"4169","rat","LD50","unreported","3170 mg/kg","NULL","Agrokhimiya. Agricultural Chemistry., (5)(138), 1980","Metolachlor",NA
+"4169","mouse","LD50","oral","1150 mg/kg","NULL","Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 14(103), 1989","Metolachlor",NA
+"4169","mouse","LD50","intraperitoneal","410 mg/kg","NULL","Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 14(103), 1989","Metolachlor",NA
+"4169","mouse","LD50","subcutaneous","2400 mg/kg","NULL","Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 14(103), 1989","Metolachlor",NA
+"4169","duck","LD50","oral","2510 mg/kg","NULL","Farm Chemicals Handbook., -(C203), 1991","Metolachlor",NA
+"42586","rat","LD50","oral","566 mg/kg","NULL","Journal of Hygiene, Epidemiology, Microbiology, and Immunology., 35(375), 1991 [PMID:1804868]","Metalaxyl",NA
+"42586","rat","LD50","skin","3100 mg/kg","NULL","Pesticide Manual., 9(554), 1991","Metalaxyl",NA
+"43079","dog","LD50","oral","500 mg/kg","NULL","Pesticide Manual., 9(418), 1991","Fluridone",NA
+"43079","cat","LD50","oral","250 mg/kg","NULL","Pesticide Manual., 9(418), 1991","Fluridone",NA
+"43079","rabbit","LD50","skin","500 mg/kg","NULL","Pesticide Manual., 9(418), 1991","Fluridone",NA
+"43226","rat","LD50","oral","2500 mg/kg","NULL","Defense des Vegetaux., 34(17), 1980","Fenarimol",NA
+"43226","mouse","LD50","oral","4500 mg/kg","NULL","Defense des Vegetaux., 34(17), 1980","Fenarimol",NA
+"43226","dog","LD50","oral","200 mg/kg","NULL","Pesticide Manual., 9(362), 1991","Fenarimol",NA
+"43226","bird - wild","LD50","oral","200 mg/kg","NULL","Pesticide Manual., 9(362), 1991","Fenarimol",NA
+"43234","rat","LD50","oral","1517 mg/kg","NULL","Proceedings-British Crop Protection Conference-Pests and Diseases., -(508), 1979","Propiconazole",NA
+"44073","rat","LD50","oral","1370 mg/kg","NULL","Pesticide Manual., 9(6), 1991","Acifluorfen",NA
+"44073","mouse","LD50","oral","1370 mg/kg","NULL","Pesticide Manual., 9(6), 1991","Acifluorfen",NA
+"44073","rabbit","LD50","skin","3680 mg/kg","NULL","Pesticide Manual., 9(6), 1991","Acifluorfen",NA
+"44073","quail","LD50","oral","325 mg/kg","NULL","Pesticide Manual., 9(6), 1991","Acifluorfen",NA
+"44073","duck","LD50","oral","2821 mg/kg","NULL","Pesticide Manual., 9(6), 1991","Acifluorfen",NA
+"4420","rat","LD50","oral","92 mg/kg","BEHAVIORAL: TREMOR; GASTROINTESTINAL: CHANGES IN STRUCTURE OR FUNCTION OF SALIVARY GLANDS; GASTROINTESTINAL: HYPERMOTILITY, DIARRHEA","Acute Toxicity Data. Journal of the American College of Toxicology, Part B., 1(90), 1990","Naled",NA
+"4420","rat","LD50","skin","800 mg/kg","NULL","World Review of Pest Control., 9(119), 1970","Naled",NA
+"4420","rat","LD50","intraperitoneal","35 mg/kg","NULL","Bulletin of Environmental Contamination and Toxicology., 19(113), 1978 [PMID:75750]","Naled",NA
+"4420","mouse","LD50","oral","222 mg/kg","SENSE ORGANS AND SPECIAL SENSES: OTHER: EYE; BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; GASTROINTESTINAL: CHANGES IN STRUCTURE OR FUNCTION OF SALIVARY GLANDS","Bulletin of Environmental Contamination and Toxicology., 19(113), 1978 [PMID:75750]","Naled",NA
+"4420","mouse","LD50","skin","600 mg/kg","NULL","Japan Pesticide Information., (8)(24), 1971","Naled",NA
+"4420","mouse","LD50","intraperitoneal","84 mg/kg","NULL","Toxicometric Parameters of Industrial Toxic Chemicals Under Single Exposure, Izmerov, N.F., et al., Moscow, Centre of International Projects, GKNT, 1982, -(56), 1982","Naled",NA
+"4420","rabbit","LD50","skin","1100 mg/kg","NULL","Pesticide Index, Frear, E.H., ed., State College, PA, College Science Pub., 1969, 5(161), 1976","Naled",NA
+"4420","duck","LD50","oral","52 mg/kg","NULL","Down to Earth., 35(25), 1979","Naled",NA
+"4420","mammal (species unspecified)","LD50","oral","430 mg/kg","NULL","Herba Polonica., 21(53), 1975","Naled",NA
+"4618","rat","LD50","oral","30 mg/kg","NULL","Naunyn-Schmiedeberg's Archiv fuer Experimentelle Pathologie und Pharmakologie., 234(352), 1958 [PMID:13600403]","Oxydemeton-methyl",NA
+"4618","rat","LD50","skin","100 mg/kg","NULL","World Review of Pest Control., 9(119), 1970","Oxydemeton-methyl",NA
+"4618","rat","LD50","intraperitoneal","20 mg/kg","NULL","Guide to the Chemicals Used in Crop Protection., 6(385), 1973","Oxydemeton-methyl",NA
+"4618","rat","LD50","intravenous","47 mg/kg","BEHAVIORAL: GENERAL ANESTHETIC","Biochemical Journal., 67(187), 1957 [PMID:13471532]","Oxydemeton-methyl",NA
+"4618","rat","LD50","unreported","65 mg/kg","NULL","Chemistry of Pesticides, Melnikov, N.N., New York, Springer-Verlag New York, Inc., 1971, -(348), 1971","Oxydemeton-methyl",NA
+"4618","mouse","LD50","oral","10 mg/kg","NULL","Organophosphorus Pesticides: Organic and Biological Chemistry, Eto, M., Cleveland, OH, CRC Press, Inc.,  1974, -(197), 1974","Oxydemeton-methyl",NA
+"4618","mouse","LD50","intraperitoneal","8 mg/kg","NULL","Toxicology and Applied Pharmacology., 4(621), 1962 [PMID:13888059]","Oxydemeton-methyl",NA
+"4618","guinea pig","LD50","oral","120 mg/kg","NULL","Pesticide Chemicals Official Compendium, Association of the American Pesticide Control Officials, Inc., 1966., -(721), 1966","Oxydemeton-methyl",NA
+"4618","guinea pig","LD50","intraperitoneal","30 mg/kg","NULL","Toxicology and Applied Pharmacology., 4(621), 1962 [PMID:13888059]","Oxydemeton-methyl",NA
+"4618","pigeon","LD50","oral","15 mg/kg","NULL","Toxicology and Applied Pharmacology., 20(57), 1971 [PMID:5110827]","Oxydemeton-methyl",NA
+"4618","chicken","LD50","oral","80 mg/kg","BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD","Toxicology and Applied Pharmacology., 6(147), 1964","Oxydemeton-methyl",NA
+"4618","quail","LD50","oral","84 mg/kg","NULL","Toxicology and Applied Pharmacology., 20(57), 1971 [PMID:5110827]","Oxydemeton-methyl",NA
+"4618","duck","LD50","oral","54 mg/kg","NULL","Toxicology and Applied Pharmacology., 20(57), 1971 [PMID:5110827]","Oxydemeton-methyl",NA
+"4618","bird - wild","LD50","oral","42 mg/kg","NULL","Toxicology and Applied Pharmacology., 20(57), 1971 [PMID:5110827]","Oxydemeton-methyl",NA
+"47326","rat","LD50","skin","870 mg/kg","NULL","Pesticide Manual., 9(377), 1991","Fenpropathrin",NA
+"47326","rat","LD50","intraperitoneal","180 mg/kg","NULL","Japan Pesticide Information., (38)(21), 1981","Fenpropathrin",NA
+"47326","rat","LD50","subcutaneous","900 mg/kg","NULL","Japan Pesticide Information., (38)(21), 1981","Fenpropathrin",NA
+"47326","mouse","LD50","oral","58 mg/kg","NULL","Japan Pesticide Information., (38)(21), 1981","Fenpropathrin",NA
+"47326","mouse","LD50","skin","740 mg/kg","NULL","Japan Pesticide Information., (38)(21), 1981","Fenpropathrin",NA
+"47326","mouse","LD50","intraperitoneal","210 mg/kg","NULL","Japan Pesticide Information., (38)(21), 1981","Fenpropathrin",NA
+"47326","mouse","LD50","subcutaneous","900 mg/kg","NULL","Japan Pesticide Information., (38)(21), 1981","Fenpropathrin",NA
+"47326","rabbit","LD50","oral","510 mg/kg","NULL","Japan Pesticide Information., (38)(21), 1981","Fenpropathrin",NA
+"47326","duck","LD50","oral","1089 mg/kg","NULL","Pesticide Manual., 9(377), 1991","Fenpropathrin",NA
+"47326","rat","LD50","oral","74 mg/kg","NULL","JAT, Journal of Applied Toxicology., 17(353), 1997 [PMID:9418941]","Fenpropathrin",NA
+"47326","rat","LD50","oral","18 mg/kg","NULL","Pesticide Science., 8(579), 1977","Fenpropathrin",NA
+"47491","rat","LD50","oral","9366 mg/kg","NULL","Gigiena i Sanitariya.  For English translation, see HYSAAV., 52(10)(17), 1987","Chlorsulfuron",NA
+"47491","rat","LD50","oral","5545 mg/kg","NULL","Journal of Agricultural and Food Chemistry., 29(416), 1981","Chlorsulfuron",NA
+"47491","dog","LD","oral","2500 mg/kg","BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); GASTROINTESTINAL: HYPERMOTILITY, DIARRHEA","National Technical Information Service., OTS0570808","Chlorsulfuron",NA
+"47491","rabbit","LD50","skin","3400 mg/kg","NULL","Farm Chemicals Handbook., -(C154), 1991","Chlorsulfuron",NA
+"47866","rat","LD50","oral","3387 mg/kg","NULL","Pesticide Manual., 9(217), 1991","Cyromazine",NA
+"47866","rat","LD50","skin","3100 mg/kg","NULL","Pesticide Manual., 9(217), 1991","Cyromazine",NA
+"47866","quail","LD50","oral","1785 mg/kg","NULL","Pesticide Manual., 9(217), 1991","Cyromazine",NA
+"47866","domestic animals - goat/sheep","LDLo","oral","500 mg/kg","PERIPHERAL NERVE AND SENSATION: FASCICULATIONS; BEHAVIORAL: ATAXIA","National Technical Information Service., OTS0538005","Cyromazine",NA
+"4790","rat","LD50","oral","1 mg/kg","NULL","Down to Earth., 35(25), 1979","Phorate",NA
+"4790","rabbit","LD50","skin","99 mg/kg","NULL","Farm Chemicals Handbook., -(C236), 1991","Phorate",NA
+"4790","guinea pig","LD50","skin","20 mg/kg","NULL","Pesticide Chemicals Official Compendium, Association of the American Pesticide Control Officials, Inc., 1966., -(895), 1966","Phorate",NA
+"4790","quail","LD50","oral","7 mg/kg","BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; BEHAVIORAL: ATAXIA; LUNGS, THORAX, OR RESPIRATION: DYSPNEA","Ecotoxicology and Environmental Safety., 8(551), 1984 [PMID:6510327]","Phorate",NA
+"4790","duck","LD50","skin","203 mg/kg","NULL","Toxicology and Applied Pharmacology., 47(451), 1979 [PMID:442090]","Phorate",NA
+"4790","bird - wild","LD50","oral","1 mg/kg","NULL","Toxicology and Applied Pharmacology., 21(315), 1972 [PMID:5027965]","Phorate",NA
+"4929","rat","LD50","oral","2100 mg/kg","AUTONOMIC NERVOUS SYSTEM: OTHER (DIRECT) PARASYMPATHOMIMETIC; LUNGS, THORAX, OR RESPIRATION: OTHER CHANGES; GASTROINTESTINAL: OTHER CHANGES","Gigiena i Sanitariya.  For English translation, see HYSAAV., 34(3)(94), 1969","Prometryn",NA
+"4929","rat","LD50","skin","3100 mg/kg","NULL","Pesticide Manual., 9(711), 1991","Prometryn",NA
+"4929","mouse","LD50","oral","2138 mg/kg","BEHAVIORAL: MUSCLE WEAKNESS; LUNGS, THORAX, OR RESPIRATION: RESPIRATORY DEPRESSION; KIDNEY, URETER, AND BLADDER: URINE VOLUME INCREASED","Gigiena i Sanitariya.  For English translation, see HYSAAV., 33(2)(12), 1968","Prometryn",NA
+"4929","rabbit","LD50","skin","3100 mg/kg","NULL","Farm Chemicals Handbook., -(C250), 1991","Prometryn",NA
+"4929","mammal (species unspecified)","LD50","unreported","1800 mg/kg","NULL","Gigiena i Sanitariya.  For English translation, see HYSAAV., 44(6)(81), 1979","Prometryn",NA
+"4933","rat","LD50","oral","367 mg/kg","NULL","Khigiena i Zdraveopazvane.  Hygiene and Sanitation., 27(451), 1984","Propanil",NA
+"4933","rat","LD50","unreported","1300 mg/kg","NULL","Chemistry of Pesticides, Melnikov, N.N., New York, Springer-Verlag New York, Inc., 1971, -(124), 1971","Propanil",NA
+"4933","mouse","LD50","oral","360 mg/kg","NULL","Gigiena Truda i Professional'nye Zabolevaniya.  Labor Hygiene and Occupational Diseases., 21(12)(30), 1977","Propanil",NA
+"4933","dog","LD50","oral","1217 mg/kg","BRAIN AND COVERINGS: RECORDINGS FROM SPECIFIC AREAS OF CNS","Toxicology and Applied Pharmacology., 23(650), 1972 [PMID:4674812]","Propanil",NA
+"4933","rabbit","LD50","skin","4830 mg/kg","NULL","Agrochemicals Handbook, with updates, Hartley, D., and H. Kidd, eds., Nottingham, Royal Soc of Chemistry, 1983-86, A343(1983)","Propanil",NA
+"4933","rabbit","LD50","unreported","500 mg/kg","NULL","Chemistry of Pesticides, Melnikov, N.N., New York, Springer-Verlag New York, Inc., 1971, -(124), 1971","Propanil",NA
+"4933","mammal (species unspecified)","LD50","oral","2527 mg/kg","BEHAVIORAL: ALTERED SLEEP TIME (INCLUDING CHANGE IN RIGHTING REFLEX); BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); LUNGS, THORAX, OR RESPIRATION: DYSPNEA","National Technical Information Service., PB288-416","Propanil",NA
+"4936","rat","LD50","oral","1480 mg/kg","NULL","Toxicology and Applied Pharmacology., 14(515), 1969 [PMID:5787520]","Propargite",NA
+"4936","rat","LD50","skin","250 mg/kg","NULL","World Review of Pest Control., 9(119), 1970","Propargite",NA
+"4936","mouse","LD50","unreported","780 mg/kg","NULL","Tsitologiya i Genetika.  Cytology and Genetics.  For English translation, see CYGEDX., 16(1)(45), 1982","Propargite",NA
+"4936","rabbit","LD50","skin","10300 mg/kg","NULL","Agrochemicals Handbook, with updates, Hartley, D., and H. Kidd, eds., Nottingham, Royal Soc of Chemistry, 1983-86, A589(1985)","Propargite",NA
+"4937","rat","LD50","oral","3840 mg/kg","NULL","Toxicometric Parameters of Industrial Toxic Chemicals Under Single Exposure, Izmerov, N.F., et al., Moscow, Centre of International Projects, GKNT, 1982, -(35), 1982","Propazine",NA
+"4937","rat","LD50","skin","3100 mg/kg","NULL","Pesticide Manual., 9(721), 1991","Propazine",NA
+"4937","rat","LD50","subcutaneous","395 mg/kg","NULL","Farmakologiya i Toksikologiya, 42(163), 1979 [PMID:437085]","Propazine",NA
+"4937","mouse","LD50","oral","3180 mg/kg","NULL","Toxicometric Parameters of Industrial Toxic Chemicals Under Single Exposure, Izmerov, N.F., et al., Moscow, Centre of International Projects, GKNT, 1982, -(35), 1982","Propazine",NA
+"4937","rabbit","LD50","skin","10200 mg/kg","NULL","Ciba-Geigy Toxicology Data/Indexes., -(-), 1977","Propazine",NA
+"4937","guinea pig","LD50","oral","1200 mg/kg","NULL","Toxicometric Parameters of Industrial Toxic Chemicals Under Single Exposure, Izmerov, N.F., et al., Moscow, Centre of International Projects, GKNT, 1982, -(35), 1982","Propazine",NA
+"50367","rat","LD50","oral","2198 mg/kg","NULL","Pesticide Manual., 9(105), 1991","Buprofezin",NA
+"50465","rat","LD50","oral","2405 mg/kg","NULL","Agrochemicals Handbook, with updates, Hartley, D., and H. Kidd, eds., Nottingham, Royal Soc of Chemistry, 1983-86, A791(1986)","Fluroxypyr",NA
+"50465","rat","LD50","intraperitoneal","458 mg/kg","NULL","Proceedings of the British Crop Protection Conference - Weeds., -(939), 1985","Fluroxypyr",NA
+"5125","rat","LD50","skin","168 mg/kg","NULL","World Review of Pest Control., 9(119), 1970","Tribufos",NA
+"5125","rat","LD50","intraperitoneal","210 mg/kg","BEHAVIORAL: REGIDITY; BEHAVIORAL: IRRITABILITY; GASTROINTESTINAL: CHANGES IN STRUCTURE OR FUNCTION OF SALIVARY GLANDS","AMA Archives of Industrial Health., 20(161), 1959","Tribufos",NA
+"5125","mouse","LD50","oral","77 mg/kg","NULL","Prehled Prumyslove Toxikologie; Organicke Latky, Marhold, J., Prague, Czechoslovakia, Avicenum, 1986, -(1188), 1986","Tribufos",NA
+"5125","mouse","LD50","intraperitoneal","285 mg/kg","NULL","Biochemical Pharmacology., 12(73), 1963 [PMID:14019076]","Tribufos",NA
+"5125","rabbit","LD50","oral","242 mg/kg","SENSE ORGANS AND SPECIAL SENSES: LACRIMATION: EYE; BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; KIDNEY, URETER, AND BLADDER: INCONTINENCE","Gigiena Truda i Professional'nye Zabolevaniya.  Labor Hygiene and Occupational Diseases., 11(4)(11), 1967","Tribufos",NA
+"5125","rabbit","LD50","skin","97 mg/kg","NULL","Toxicometric Parameters of Industrial Toxic Chemicals Under Single Exposure, Izmerov, N.F., et al., Moscow, Centre of International Projects, GKNT, 1982, -(44), 1982","Tribufos",NA
+"5125","guinea pig","LD50","oral","140 mg/kg","NULL","Toxicometric Parameters of Industrial Toxic Chemicals Under Single Exposure, Izmerov, N.F., et al., Moscow, Centre of International Projects, GKNT, 1982, -(44), 1982","Tribufos",NA
+"5125","guinea pig","LD50","intraperitoneal","150 mg/kg","BEHAVIORAL: REGIDITY; BEHAVIORAL: IRRITABILITY; GASTROINTESTINAL: CHANGES IN STRUCTURE OR FUNCTION OF SALIVARY GLANDS","AMA Archives of Industrial Health., 20(161), 1959","Tribufos",NA
+"5125","mammal (species unspecified)","LD50","unreported","170 mg/kg","NULL","Chemistry of Pesticides, Melnikov, N.N., New York, Springer-Verlag New York, Inc., 1971, -(376), 1971","Tribufos",NA
+"5125","rat","LD50","oral","150 mg/kg","NULL","Toxicology and Applied Pharmacology., 14(515), 1969 [PMID:5787520]","Tribufos",NA
+"51556","rat","LD50","oral","1250 mg/kg","NULL","Pesticide Manual., 9(433), 1991","Fomesafen",NA
+"51605","rat","LD50","oral","16800 mg/kg","NULL","Farm Chemicals Handbook., -(C137), 1991","Fenoxycarb",NA
+"516902","women","TDLo","oral","800 mg/kg","LUNGS, THORAX, OR RESPIRATION: OTHER CHANGES; BLOOD: OTHER HEMOLYSIS WITH OR WITHOUT ANEMIA; BLOOD: METHEMOGLOBINEMIA-CARBOXYHEMOGLOBIN","Toxicology of Drugs and Chemicals, Deichmann, W.B., New York, Academic Press, Inc., 1969, -(539), 1969","Sodium chlorate",NA
+"516902","man","TDLo","oral","286 mg/kg","LUNGS, THORAX, OR RESPIRATION: CYANOSIS; BLOOD: CHANGES IN CELL COUNT (UNSPECIFIED); BLOOD: METHEMOGLOBINEMIA-CARBOXYHEMOGLOBIN","Clinical Toxicology., 15(185), 1979 [PMID:509884]","Sodium chlorate",NA
+"516902","human","LDLo","unreported","214 mg/kg","NULL","Guide to the Chemicals Used in Crop Protection., 6(461), 1973","Sodium chlorate",NA
+"516902","child","LD50","unreported","185 mg/kg","NULL","Guide to the Chemicals Used in Crop Protection., 6(461), 1973","Sodium chlorate",NA
+"516902","rat","LD50","oral","1200 mg/kg","NULL","Pharmaceutical Journal., 185(361), 1960","Sodium chlorate",NA
+"516902","mouse","LD50","oral","8350 mg/kg","NULL","Uzbekskii Biologicheskii Zhurnal.  Uzbek Biological Journal., (1)(40), 1986","Sodium chlorate",NA
+"516902","mouse","LD50","intraperitoneal","596 mg/kg","NULL","Comptes Rendus Hebdomadaires des Seances, Academie des Sciences., 257(791), 1963","Sodium chlorate",NA
+"516902","dog","LDLo","oral","700 mg/kg","NULL","Abdernalden's Handbuch der Biologischen Arbeitsmethoden., 4(1289), 1935","Sodium chlorate",NA
+"516902","cat","LDLo","oral","1350 mg/kg","NULL","Pesticide Chemicals Official Compendium, Association of the American Pesticide Control Officials, Inc., 1966., -(1013), 1966","Sodium chlorate",NA
+"516902","rabbit","LD50","oral","7200 mg/kg","NULL","Gigiena Truda i Professional'nye Zabolevaniya.  Labor Hygiene and Occupational Diseases., 31(1)(49), 1987","Sodium chlorate",NA
+"516902","rat","LD50","oral","4330 mg/kg","NULL","Farm Chemicals Handbook., -(C244), 1991","Sodium chlorate",NA
+"5216","rat","LD50","oral","971 mg/kg","NULL","Fundamental and Applied Toxicology., 7(299), 1986","Simazine",NA
+"5216","mouse","LD50","intravenous","100 mg/kg","NULL","U.S. Army Armament Research & Development Command, Chemical Systems Laboratory, NIOSH Exchange Chemicals., NX#04003","Simazine",NA
+"5216","rat","LD50","unreported","1390 mg/kg","NULL","Gigiena Truda i Professional'nye Zabolevaniya.  Labor Hygiene and Occupational Diseases., 7(5)(54), 1963","Simazine",NA
+"5216","rabbit","LD50","skin","10200 mg/kg","NULL","Yakkyoku.  Pharmacy., 37(427), 1986","Simazine",NA
+"5216","mammal (species unspecified)","LD50","oral","2014 mg/kg","BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: MUSCLE CONTRACTION OR SPASTICITY); SKIN AND APPENDAGES (SKIN): HAIR: OTHER","National Technical Information Service., PB288-416","Simazine",NA
+"5216","mammal (species unspecified)","LD50","unreported","1400 mg/kg","NULL","Gigiena i Sanitariya.  For English translation, see HYSAAV., 44(6)(81), 1979","Simazine",NA
+"5281875","rat","LD50","oral","1131 mg/kg","NULL","Farm Chemicals Handbook., -(C167), 1991","Hydramethylnon",NA
+"5281875","quail","LD50","oral","1828 mg/kg","NULL","Farm Chemicals Handbook., -(C167), 1991","Hydramethylnon",NA
+"5281875","duck","LD50","oral","2510 mg/kg","NULL","Pesticide Manual., 9(475), 1991","Hydramethylnon",NA
+"5284484","mammal (species unspecified)","LD50","unreported","3290 mg/kg","NULL","Gigiena i Sanitariya.  For English translation, see HYSAAV., 45(5)(29), 1980","Zineb",NA
+"5284484","rat","LD50","oral","2850 mg/kg","NULL","Vrachebnoe Delo.  Medical Practice., (9)(130), 1975 [PMID:54994]","Zineb",NA
+"5284484","rat","LD50","unreported","3250 mg/kg","NULL","Environmental Quality and Safety, Supplement., 3(618), 1975 [PMID:1063688]","Zineb",NA
+"5284484","mouse","LD50","oral","2630 mg/kg","NULL","Veterinariya.  Veterinary Science., 56(6)(59), 1980","Zineb",NA
+"5284484","rabbit","LD50","oral","620 mg/kg","NULL","Veterinariya.  Veterinary Science., 56(6)(59), 1980","Zineb",NA
+"5284484","guinea pig","LD50","oral","2400 mg/kg","NULL","Pesticide Chemicals Official Compendium, Association of the American Pesticide Control Officials, Inc., 1966., -(923), 1966","Zineb",NA
+"5284484","guinea pig","LD50","unreported","3750 mg/kg","NULL","Gigiena Truda i Professional'nye Zabolevaniya.  Labor Hygiene and Occupational Diseases., 32(2)(33), 1988","Zineb",NA
+"5284484","chicken","LD50","oral","7660 mg/kg","NULL","Veterinariya.  Veterinary Science., 56(6)(59), 1980","Zineb",NA
+"5353758","rat","LD50","skin","1600 mg/kg","NULL","World Review of Pest Control., 9(119), 1970","Methomyl",NA
+"5353758","mouse","LD50","oral","10 mg/kg","NULL","Journal of Agricultural and Food Chemistry., 26(550), 1978 [PMID:659709]","Methomyl",NA
+"5353758","dog","LD50","oral","20 mg/kg","NULL","Documentation of the Threshold Limit Values and Biological Exposure Indices, 5th ed., Cincinnati, OH, American Conference of Governmental Industrial Hygienists, Inc., 1986, 6(906), 1991","Methomyl",NA
+"5353758","monkey","LDLo","oral","40 mg/kg","NULL","Toxicology and Applied Pharmacology., 40(1), 1977 [PMID:867425]","Methomyl",NA
+"5353758","rabbit","LD50","skin","5880 mg/kg","NULL","Farm Chemicals Handbook., -(C199), 1991","Methomyl",NA
+"5353758","guinea pig","LDLo","oral","15 mg/kg","NULL","Toxicology and Applied Pharmacology., 40(1), 1977 [PMID:867425]","Methomyl",NA
+"5353758","pigeon","LD50","oral","10 mg/kg","NULL","ASTM Special Technical Publication., (680)(157), 1979","Methomyl",NA
+"5353758","chicken","LD50","oral","28 mg/kg","BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; LUNGS, THORAX, OR RESPIRATION: DYSPNEA; SENSE ORGANS AND SPECIAL SENSES: LACRIMATION: EYE","Toxicology and Applied Pharmacology., 40(1), 1977 [PMID:867425]","Methomyl",NA
+"5353758","duck","LD50","oral","15 mg/kg","NULL","Shell Chemical Company.","Methomyl",NA
+"5353758","bird - wild","LD50","oral","10 mg/kg","NULL","Toxicology and Applied Pharmacology., 21(315), 1972 [PMID:5027965]","Methomyl",NA
+"5353758","rat","LD50","subcutaneous","9 mg/kg","NULL","Toxicology and Applied Pharmacology., 25(569), 1973 [PMID:4741778]","Methomyl",NA
+"5364079","rat","LD50","oral","1100 mg/kg","NULL","Farm Chemicals Handbook., -(C90), 1991","Cymoxanil",NA
+"5364079","rat","LD50","intraperitoneal","166 mg/kg","SENSE ORGANS AND SPECIAL SENSES: LACRIMATION: EYE; SENSE ORGANS AND SPECIAL SENSES: OTHER: EYE; LUNGS, THORAX, OR RESPIRATION: DYSPNEA","National Technical Information Service., OTS0555067","Cymoxanil",NA
+"5364079","dog","LDLo","oral","1500 mg/kg","BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; GASTROINTESTINAL: HYPERMOTILITY, DIARRHEA","National Technical Information Service., OTS0570815","Cymoxanil",NA
+"5364079","guinea pig","LD50","oral","1096 mg/kg","NULL","Pesticide Manual., 9(206), 1991","Cymoxanil",NA
+"5371560","rat","LD50","oral","13 mg/kg","NULL","Agricultural Research Service, USDA Information Memorandum., 20(6), 1966","Dicrotophos",NA
+"5371560","rat","LD50","skin","42 mg/kg","NULL","World Review of Pest Control., 9(119), 1970","Dicrotophos",NA
+"5371560","rat","LD50","unreported","22 mg/kg","NULL","Chemistry of Pesticides, Melnikov, N.N., New York, Springer-Verlag New York, Inc., 1971, -(314), 1971","Dicrotophos",NA
+"5371560","mouse","LD50","oral","11 mg/kg","NULL","Guide to the Chemicals Used in Crop Protection., 6(196), 1973","Dicrotophos",NA
+"5371560","rabbit","LD50","skin","168 mg/kg","NULL","Guide to the Chemicals Used in Crop Protection., 6(196), 1973","Dicrotophos",NA
+"5371560","pigeon","LD50","oral","2 mg/kg","NULL","Toxicology and Applied Pharmacology., 20(57), 1971 [PMID:5110827]","Dicrotophos",NA
+"5371560","quail","LD50","oral","4 mg/kg","NULL","Toxicology and Applied Pharmacology., 20(57), 1971 [PMID:5110827]","Dicrotophos",NA
+"5371560","bird - wild","LD50","oral","1 mg/kg","NULL","ASTM Special Technical Publication., (680)(157), 1979","Dicrotophos",NA
+"5383","rat","LD50","oral","644 mg/kg","BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: FOOD INTAKE (ANIMAL); BEHAVIORAL: ATAXIA","Food and Cosmetics Toxicology., 12(461), 1974 [PMID:4459242]","Tebuthiuron",NA
+"5383","rat","LD50","intraperitoneal","480 mg/kg","BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; BEHAVIORAL: ATAXIA; LUNGS, THORAX, OR RESPIRATION: DYSPNEA","Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 17(S35), 1992","Tebuthiuron",NA
+"5383","rat","LD50","subcutaneous","500 mg/kg","BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; BEHAVIORAL: ATAXIA; LUNGS, THORAX, OR RESPIRATION: DYSPNEA","Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 17(S35), 1992","Tebuthiuron",NA
+"5383","mouse","LD50","oral","579 mg/kg","BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: FOOD INTAKE (ANIMAL); BEHAVIORAL: ATAXIA","Food and Cosmetics Toxicology., 12(461), 1974 [PMID:4459242]","Tebuthiuron",NA
+"5383","mouse","LD50","intraperitoneal","505 mg/kg","BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; BEHAVIORAL: ATAXIA; LUNGS, THORAX, OR RESPIRATION: DYSPNEA","Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 17(S35), 1992","Tebuthiuron",NA
+"5383","mouse","LD50","subcutaneous","545 mg/kg","BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; BEHAVIORAL: ATAXIA; LUNGS, THORAX, OR RESPIRATION: DYSPNEA","Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 17(S35), 1992","Tebuthiuron",NA
+"5383","dog","LD50","oral","500 mg/kg","NULL","Pesticide Manual., 9(787), 1991","Tebuthiuron",NA
+"5383","cat","LD50","oral","200 mg/kg","NULL","Pesticide Manual., 9(787), 1991","Tebuthiuron",NA
+"5383","rabbit","LD50","oral","286 mg/kg","BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: FOOD INTAKE (ANIMAL); BEHAVIORAL: ATAXIA","Food and Cosmetics Toxicology., 12(461), 1974 [PMID:4459242]","Tebuthiuron",NA
+"5383","chicken","LD50","oral","500 mg/kg","NULL","Pesticide Manual., 9(787), 1991","Tebuthiuron",NA
+"5383","quail","LD50","oral","500 mg/kg","NULL","Pesticide Manual., 9(787), 1991","Tebuthiuron",NA
+"5383","duck","LD50","oral","500 mg/kg","NULL","Pesticide Manual., 9(787), 1991","Tebuthiuron",NA
+"5430","rat","LD50","oral","2080 mg/kg","BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: ATAXIA","Science Reports of the Research Institutes, Tohoku University, Series C: Medicine., 36(1-4)(10), 1989","Thiabendazole",NA
+"5430","mouse","LD50","oral","1300 mg/kg","NULL","Gigiena i Sanitariya.  For English translation, see HYSAAV., 55(10)(28), 1990","Thiabendazole",NA
+"5430","rabbit","LD50","oral","3850 mg/kg","NULL","Wirksubstanzen der Pflanzenschutz und Schadlingsbekampfungsmittel, Perkow, W., Berlin, Verlag Paul Parey, 1971-1976, -(-), 1971/1976","Thiabendazole",NA
+"5430","domestic animals - goat/sheep","LD50","oral","400 mg/kg","NULL","Veterinarno-Meditsinski Nauki.  Veterinary Science., 19(3)(99), 1982","Thiabendazole",NA
+"5455","rat","LD50","oral","560 mg/kg","NULL","Toxicology and Applied Pharmacology., 11(546), 1967 [PMID:5586363]","Thiram",NA
+"5455","rat","LD50","intraperitoneal","138 mg/kg","BEHAVIORAL: CHANGES IN MOTOR ACTIVITY (SPECIFIC ASSAY)","Journal de Pharmacologie., 9(35), 1978","Thiram",NA
+"5455","rat","LD50","subcutaneous","646 mg/kg","NULL","Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 15(507), 1990","Thiram",NA
+"5455","rat","LD50","unreported","740 mg/kg","NULL","Kobunshi Kako.  Polymer Applications., 26(358), 1977","Thiram",NA
+"5455","mouse","LD50","oral","1250 mg/kg","BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); SKIN AND APPENDAGES (SKIN): HAIR: OTHER","Gigiena Truda i Professional'nye Zabolevaniya.  Labor Hygiene and Occupational Diseases., 6(7)(28), 1962","Thiram",NA
+"5455","mouse","LD50","intraperitoneal","70 mg/kg","NULL","Drugs in Japan, 6(566), 1982","Thiram",NA
+"5455","mouse","LD50","subcutaneous","1109 mg/kg","NULL","Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 15(507), 1990","Thiram",NA
+"5455","mouse","LD50","unreported","1150 mg/kg","NULL","Kobunshi Kako.  Polymer Applications., 26(358), 1977","Thiram",NA
+"5455","cat","LDLo","oral","230 mg/kg","BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; BEHAVIORAL: ATAXIA; BEHAVIORAL: ANALGESIA","Journal of Pharmacology and Experimental Therapeutics., 17(349), 1921","Thiram",NA
+"5455","rabbit","LD50","oral","210 mg/kg","NULL","Kobunshi Kako.  Polymer Applications., 26(358), 1977","Thiram",NA
+"5455","rabbit","LD50","unreported","210 mg/kg","NULL","Veterinariya.  Veterinary Science., 54(2)(70), 1978","Thiram",NA
+"5455","chicken","LD50","unreported","840 mg/kg","NULL","Veterinariya.  Veterinary Science., 54(2)(70), 1978","Thiram",NA
+"5455","domestic animals - goat/sheep","LD50","unreported","225 mg/kg","NULL","Veterinariya.  Veterinary Science., 54(2)(70), 1978","Thiram",NA
+"5455","mammal (species unspecified)","LD50","unreported","400 mg/kg","NULL","Gigiena i Sanitariya.  For English translation, see HYSAAV., 45(5)(29), 1980","Thiram",NA
+"5455","bird - wild","LD50","oral","300 mg/kg","NULL","Archives of Environmental Contamination and Toxicology., 12(355), 1983 [PMID:6882015]","Thiram",NA
+"54675779","women","TDLo","oral","24 mg/kg/6D-I","BLOOD: THROMBOCYTOPENIA","American Journal of Hematology., 43(333), 1993 [PMID:8372829]","Oxytetracycline",NA
+"54675779","man","TDLo","oral","114 mg/kg/4D","BLOOD: HEMORRHAGE; SKIN AND APPENDAGES (SKIN): DERMATITIS, OTHER: AFTER SYSTEMIC EXPOSURE","JAMA, Journal of the American Medical Association., 231(734), 1975 [PMID:1172865]","Oxytetracycline",NA
+"54675779","infant","TDLo","parenteral","136 mg/kg","MUSCULOSKELETAL: CHANGES IN TEETH AND SUPPORTING STRUCTURES","Lancet., 1(827), 1962 [PMID:14004715]","Oxytetracycline",NA
+"54675779","rat","LD50","oral","4800 mg/kg","NULL","Antibiotics: Origin, Nature, and Properties, Korzyoski, T., et al., eds., Washington, DC, American Soc. for Microbiology, 1978, 1(501), 1978","Oxytetracycline",NA
+"54675779","rat","LD50","intravenous","260 mg/kg","NULL","Antibiotics: Origin, Nature, and Properties, Korzyoski, T., et al., eds., Washington, DC, American Soc. for Microbiology, 1978, 1(501), 1978","Oxytetracycline",NA
+"54675779","mouse","LD50","oral","2240 mg/kg","NULL","Arzneimittel-Forschung. Drug Research., 5(1), 1955 [PMID:14351064]","Oxytetracycline",NA
+"54675779","mouse","LD50","intraperitoneal","5706 mg/kg","NULL","Antibiotiki., 20(793), 1975","Oxytetracycline",NA
+"54675779","mouse","LD50","subcutaneous","700 mg/kg","NULL","CRC Handbook of Antibiotic Compounds, Vols.1- ,  Berdy, J., Boca Raton, FL, CRC Press, 1980, 3(44), 1980","Oxytetracycline",NA
+"54675779","mouse","LD50","intravenous","140 mg/kg","NULL","Arzneimittel-Forschung. Drug Research., 5(1), 1955 [PMID:14351064]","Oxytetracycline",NA
+"54675779","dog","LDLo","intravenous","220 mg/kg","BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: FOOD INTAKE (ANIMAL); LUNGS, THORAX, OR RESPIRATION: OTHER CHANGES","Antibiotics and Chemotherapy, 3(1015), 1953","Oxytetracycline",NA
+"54675779","guinea pig","LDLo","intraperitoneal","2250 mg/kg","NULL","Antibiotiki., 20(793), 1975","Oxytetracycline",NA
+"54738","quail","LD50","oral","2150 mg/kg","NULL","Pesticide Manual., 9(487), 1991","Imazapyr",NA
+"54738","duck","LD50","oral","2150 mg/kg","NULL","Pesticide Manual., 9(487), 1991","Imazapyr",NA
+"54739","rat","LD50","oral","4073 mg/kg","NULL","Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 24(245), 1999","Imazaquin",NA
+"54739","mouse","LD50","oral","1752 mg/kg","NULL","Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 24(245), 1999","Imazaquin",NA
+"54739","quail","LD50","oral","2150 mg/kg","NULL","Pesticide Manual., 9(488), 1991","Imazaquin",NA
+"54739","duck","LD50","oral","2150 mg/kg","NULL","Pesticide Manual., 9(488), 1991","Imazaquin",NA
+"54740","quail","LD50","oral","2150 mg/kg","NULL","Pesticide Manual., 9(489), 1991","Imazethapyr",NA
+"54740","duck","LD50","oral","2150 mg/kg","NULL","Pesticide Manual., 9(489), 1991","Imazethapyr",NA
+"54778","rat","LD50","oral","1369 mg/kg","NULL","Pesticide Manual., 9(178), 1991","Clomazone",NA
+"54778","quail","LD50","oral","2510 mg/kg","NULL","Pesticide Manual., 9(178), 1991","Clomazone",NA
+"54778","duck","LD50","oral","2510 mg/kg","NULL","Pesticide Manual., 9(178), 1991","Clomazone",NA
+"5543","rat","LD50","unreported","1471 mg/kg","NULL","Environmental Quality and Safety, Supplement., 3(618), 1975 [PMID:1063688]","Triallate",NA
+"5543","mouse","LD50","oral","930 mg/kg","BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: EXCITEMENT; BEHAVIORAL: MUSCLE CONTRACTION OR SPASTICITY)","Gigiena i Sanitariya.  For English translation, see HYSAAV., 33(7)(37), 1968","Triallate",NA
+"5543","mouse","LD50","unreported","832 mg/kg","NULL","Tsitologiya i Genetika.  Cytology and Genetics.  For English translation, see CYGEDX., 16(1)(45), 1982","Triallate",NA
+"5543","rabbit","LD50","skin","2225 mg/kg","NULL","Pesticide Index, Frear, E.H., ed., State College, PA, College Science Pub., 1969, 5(226), 1976","Triallate",NA
+"5543","quail","LD50","oral","2251 mg/kg","NULL","Pesticide Manual., 9(835), 1991","Triallate",NA
+"5543","rat","LD50","oral","800 mg/kg","NULL","Agrochemicals Handbook, with updates, Hartley, D., and H. Kidd, eds., Nottingham, Royal Soc of Chemistry, 1983-86, A403(1984)","Triallate",NA
+"5543","rat","LDLo","skin","3500 mg/kg","NULL","Gigiena i Sanitariya.  For English translation, see HYSAAV., 33(7)(37), 1968","Triallate",NA
+"5569","rat","LD50","oral","1930 mg/kg","SENSE ORGANS AND SPECIAL SENSES: MYDRIASIS (PUPILLARY DILATION): EYE; BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); SKIN AND APPENDAGES (SKIN): HAIR: OTHER","Food and Chemical Toxicology., 30(1031), 1992 [PMID:1473797]","Trifluralin",NA
+"5569","mouse","LD50","oral","3197 mg/kg","NULL","Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 16(557), 1991","Trifluralin",NA
+"5569","mouse","LD50","intraperitoneal","4600 mg/kg","NULL","Bulletin of Environmental Contamination and Toxicology., 20(554), 1978 [PMID:719203]","Trifluralin",NA
+"5569","mammal (species unspecified)","LD50","oral","3700 mg/kg","NULL","Pesticide Chemicals Official Compendium, Association of the American Pesticide Control Officials, Inc., 1966., -(1188), 1966","Trifluralin",NA
+"5794","rat","LD50","oral","6150 mg/kg","NULL","Toxicology and Applied Pharmacology., 14(515), 1969 [PMID:5787520]","Piperonyl butoxide",NA
+"5794","rat","LD50","skin","7950 mg/kg","NULL","Toxicology and Applied Pharmacology., 14(515), 1969 [PMID:5787520]","Piperonyl butoxide",NA
+"5794","mouse","LD50","oral","2600 mg/kg","BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: TREMOR; SKIN AND APPENDAGES (SKIN): HAIR: OTHER","Shokuhin Eiseigaku Zasshi.  Food Hygiene Journal., 24(268), 1983","Piperonyl butoxide",NA
+"5794","rabbit","LD50","oral","2650 mg/kg","NULL","Yakkyoku.  Pharmacy., 32(605), 1981","Piperonyl butoxide",NA
+"5794","rabbit","LD50","skin","200 mg/kg","NULL","Pesticide Chemicals Official Compendium, Association of the American Pesticide Control Officials, Inc., 1966., -(907), 1966","Piperonyl butoxide",NA
+"5971","rat","LD50","oral","112 mg/kg","LUNGS, THORAX, OR RESPIRATION: OTHER CHANGES; GASTROINTESTINAL: OTHER CHANGES","Naunyn-Schmiedeberg's Archiv fuer Experimentelle Pathologie und Pharmakologie., 219(119), 1953 [PMID:13099346]","Allyl isothiocyanate",NA
+"5971","rat","LDLo","intraperitoneal","80 mg/kg","NULL","Arzneimittel-Forschung. Drug Research., 16(870), 1966 [PMID:4967663]","Allyl isothiocyanate",NA
+"5971","rat","LD50","subcutaneous","92 mg/kg","BEHAVIORAL: COMA; SKIN AND APPENDAGES (SKIN): DERMATITIS, OTHER: AFTER SYSTEMIC EXPOSURE","Food and Cosmetics Toxicology., 18(159), 1980 [PMID:7390339]","Allyl isothiocyanate",NA
+"5971","mouse","LD50","oral","308 mg/kg","NULL","Aerospace Medical Research Laboratory Report., TR-73-83(1973)","Allyl isothiocyanate",NA
+"5971","mouse","LDLo","intraperitoneal","4 mg/kg","NULL","Toxicology and Applied Pharmacology., 23(288), 1972 [PMID:5074577]","Allyl isothiocyanate",NA
+"5971","mouse","LD50","subcutaneous","80 mg/kg","BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD","Arzneimittel-Forschung. Drug Research., 5(505), 1955 [PMID:13276267]","Allyl isothiocyanate",NA
+"5971","rabbit","LD50","skin","88 mg/kg","NULL","Toxicology and Applied Pharmacology., 42(417), 1977 [PMID:595018]","Allyl isothiocyanate",NA
+"5971","rabbit","LDLo","intravenous","12 mg/kg","BEHAVIORAL: MUSCLE CONTRACTION OR SPASTICITY); LUNGS, THORAX, OR RESPIRATION: OTHER CHANGES","Biochemical Journal., 4(107), 1909","Allyl isothiocyanate",NA
+"61021","human","LDLo","oral","343 mg/kg","BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; LUNGS, THORAX, OR RESPIRATION: DYSPNEA","Gekkan Yakuji.  Pharmaceuticals Monthly., 34(1464), 1992","Metaldehyde",NA
+"61021","child","LDLo","oral","100 mg/kg","BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD","Pflanzenschutz-und Schaedlingsbekaempfungsmittel: Abriss einer Toxikologie und Therapie von Vergiftungen, 2nd ed., Klimmer, O.R., Hattingen, Fed. Rep. Ger., Hundt-Verlag, 1971, -(158), 1971","Metaldehyde",NA
+"61021","rat","LD50","oral","227 mg/kg","NULL","Toxicometric Parameters of Industrial Toxic Chemicals Under Single Exposure, Izmerov, N.F., et al., Moscow, Centre of International Projects, GKNT, 1982, -(15), 1982","Metaldehyde",NA
+"61021","rat","LD50","skin","2275 mg/kg","NULL","Toxicometric Parameters of Industrial Toxic Chemicals Under Single Exposure, Izmerov, N.F., et al., Moscow, Centre of International Projects, GKNT, 1982, -(15), 1982","Metaldehyde",NA
+"61021","mouse","LD50","oral","200 mg/kg","NULL","Toxicometric Parameters of Industrial Toxic Chemicals Under Single Exposure, Izmerov, N.F., et al., Moscow, Centre of International Projects, GKNT, 1982, -(15), 1982","Metaldehyde",NA
+"61021","dog","LD50","oral","600 mg/kg","NULL","Guide to the Chemicals Used in Crop Protection., 6(331), 1973","Metaldehyde",NA
+"61021","cat","LD50","oral","207 mg/kg","NULL","Toxicometric Parameters of Industrial Toxic Chemicals Under Single Exposure, Izmerov, N.F., et al., Moscow, Centre of International Projects, GKNT, 1982, -(15), 1982","Metaldehyde",NA
+"61021","rabbit","LD50","oral","290 mg/kg","NULL","Toxicometric Parameters of Industrial Toxic Chemicals Under Single Exposure, Izmerov, N.F., et al., Moscow, Centre of International Projects, GKNT, 1982, -(15), 1982","Metaldehyde",NA
+"61021","guinea pig","LD50","oral","175 mg/kg","NULL","Toxicometric Parameters of Industrial Toxic Chemicals Under Single Exposure, Izmerov, N.F., et al., Moscow, Centre of International Projects, GKNT, 1982, -(15), 1982","Metaldehyde",NA
+"61021","mammal (species unspecified)","LD50","unreported","600 mg/kg","NULL","Chemistry of Pesticides, Melnikov, N.N., New York, Springer-Verlag New York, Inc., 1971, -(111), 1971","Metaldehyde",NA
+"6129","man","TDLo","oral","500 mg/kg","PERIPHERAL NERVE AND SENSATION: SENSORY CHANGE INVOLVING PERIPHERAL NERVE; BEHAVIORAL: MUSCLE WEAKNESS","Neurology., 37(1229), 1987 [PMID:3037439]","Carbaryl",NA
+"6129","rat","LD50","oral","230 mg/kg","NULL","Toxicology and Applied Pharmacology., 11(546), 1967 [PMID:5586363]","Carbaryl",NA
+"6129","rat","LD50","intraperitoneal","64 mg/kg","NULL","Proceedings of the Society for Experimental Biology and Medicine., 114(509), 1963 [PMID:14101225]","Carbaryl",NA
+"6129","rat","LD50","subcutaneous","1400 mg/kg","NULL","Toxicology of Drugs and Chemicals, Deichmann, W.B., New York, Academic Press, Inc., 1969, -(528), 1969","Carbaryl",NA
+"6129","rat","LD50","intravenous","18 mg/kg","NULL","Journal of Agricultural and Food Chemistry., 9(30), 1961","Carbaryl",NA
+"6129","rat","LD50","unreported","500 mg/kg","NULL","Chemistry of Pesticides, Melnikov, N.N., New York, Springer-Verlag New York, Inc., 1971, -(188), 1971","Carbaryl",NA
+"6129","mouse","LD50","intraperitoneal","25 mg/kg","NULL","Toxicology and Applied Pharmacology., 6(402), 1964","Carbaryl",NA
+"6129","mouse","LD50","subcutaneous","860 mg/kg","NULL","Arhiv za Higijenu Rada i Toksikologiju.  Archives of Industrial Hygiene and Toxicology., 29(251), 1978 [PMID:106806]","Carbaryl",NA
+"6129","mouse","LD50","unreported","370 mg/kg","NULL","Gigiena i Sanitariya.  For English translation, see HYSAAV., 49(10)(23), 1984","Carbaryl",NA
+"6129","dog","LD50","oral","759 mg/kg","NULL","VM/SAC, Veterinary Medicine and Small Animal Clinician., 74(1119), 1979 [PMID:260541]","Carbaryl",NA
+"6129","cat","LD50","oral","150 mg/kg","BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; BEHAVIORAL: MUSCLE WEAKNESS; GASTROINTESTINAL: CHANGES IN STRUCTURE OR FUNCTION OF SALIVARY GLANDS","Gigiena i Sanitariya.  For English translation, see HYSAAV., 32(4)(29), 1967","Carbaryl",NA
+"6129","rabbit","LD50","oral","710 mg/kg","NULL","Pesticide Chemicals Official Compendium, Association of the American Pesticide Control Officials, Inc., 1966., -(192), 1966","Carbaryl",NA
+"6129","rabbit","LD50","intraperitoneal","223 mg/kg","NULL","Journal of Agricultural and Food Chemistry., 9(30), 1961","Carbaryl",NA
+"6129","guinea pig","LD50","oral","250 mg/kg","NULL","Pesticide Biochemistry and Physiology., 21(199), 1984","Carbaryl",NA
+"6129","hamster","LD50","intraperitoneal","640 mg/kg","NULL","Archives of Toxicology., 58(152), 1986 [PMID:3964078]","Carbaryl",NA
+"6129","quail","LD50","oral","829 mg/kg","BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; BEHAVIORAL: ATAXIA; GASTROINTESTINAL: CHANGES IN STRUCTURE OR FUNCTION OF SALIVARY GLANDS","Oyo Yakuri.  Pharmacometrics., 51(137), 1996","Carbaryl",NA
+"6129","gerbil","LD50","oral","491 mg/kg","NULL","Pesticide Biochemistry and Physiology., 21(199), 1984","Carbaryl",NA
+"6129","mammal (species unspecified)","LD50","oral","510 mg/kg","NULL","Herba Polonica., 21(53), 1975","Carbaryl",NA
+"6129","mammal (species unspecified)","LD50","unreported","310 mg/kg","NULL","Gigiena i Sanitariya.  For English translation, see HYSAAV., 53(7)(72), 1988","Carbaryl",NA
+"6129","hamster","LDLo","oral","250 mg/kg","NULL","Toxicology and Applied Pharmacology., 15(152), 1969 [PMID:5798722]","Carbaryl",NA
+"6129","bird - wild","LD50","oral","56 mg/kg","NULL","Toxicology and Applied Pharmacology., 21(315), 1972 [PMID:5027965]","Carbaryl",NA
+"6129","mouse","LD50","oral","128 mg/kg","NULL","Journal of Pharmacology and Experimental Therapeutics., 181(576), 1972 [PMID:4624402]","Carbaryl",NA
+"62210","rat","LD50","oral","3100 mg/kg","NULL","Farm Chemicals Handbook., -(C248), 1991","Flumetralin",NA
+"62389","rat","LD50","oral","2125 mg/kg","SENSE ORGANS AND SPECIAL SENSES: LACRIMATION: EYE; BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY)","Toho Igakkai Zasshi.  Journal of Medical Society of Toho University., 19(336), 1972","6-Benzylaminopurine",NA
+"62389","mouse","LD50","oral","1300 mg/kg","SENSE ORGANS AND SPECIAL SENSES: LACRIMATION: EYE; BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY)","Toho Igakkai Zasshi.  Journal of Medical Society of Toho University., 19(336), 1972","6-Benzylaminopurine",NA
+"62389","mouse","LD50","subcutaneous","2300 mg/kg","NULL","Toho Igakkai Zasshi.  Journal of Medical Society of Toho University., 19(336), 1972","6-Benzylaminopurine",NA
+"6323","dog","LDLo","oral","500 mg/kg","CARDIAC: PULSE RATE INCREASE WITHOUT FALL IN BP; GASTROINTESTINAL: NAUSEA OR VOMITING","National Technical Information Service., OTS0528834","Bromomethane",NA
+"6323","rat","LD50","oral","214 mg/kg","NULL","Toxicology and Applied Pharmacology., 72(262), 1984 [PMID:6695375]","Bromomethane",NA
+"6323","rat","LD50","subcutaneous","135 mg/kg","NULL","Industrial Health., 26(101), 1988 [PMID:3403303]","Bromomethane",NA
+"6327657","rat","LD50","oral","46 mg/kg","NULL","Progress Report for Contract No. NIH-NCI-E-C-72-3252, Submitted to the National Cancer Institute by Litton Bionetics, Inc., NCI-E-C-72-3252(1973)","Triphenyltin hydroxide",NA
+"6327657","rat","LDLo","intraperitoneal","100 mg/kg","NULL","National Academy of Sciences, National Research Council, Chemical-Biological Coordination Center, Review., 5(46), 1953","Triphenyltin hydroxide",NA
+"6327657","mouse","LD50","oral","209 mg/kg","NULL","Yakkyoku.  Pharmacy., 30(505), 1979","Triphenyltin hydroxide",NA
+"6327657","rabbit","LD50","skin","1600 mg/kg","NULL","Farm Chemicals Handbook., -(C315), 1991","Triphenyltin hydroxide",NA
+"6327657","rabbit","LDLo","intravenous","25 mg/kg","SENSE ORGANS AND SPECIAL SENSES: MYDRIASIS (PUPILLARY DILATION): EYE; BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; GASTROINTESTINAL: CHANGES IN STRUCTURE OR FUNCTION OF SALIVARY GLANDS","Clinical Toxicology., 13(281), 1978 [PMID:310751]","Triphenyltin hydroxide",NA
+"6327657","mammal (species unspecified)","LD50","unreported","500 mg/kg","NULL","Chemistry of Pesticides, Melnikov, N.N., New York, Springer-Verlag New York, Inc., 1971, -(302), 1971","Triphenyltin hydroxide",NA
+"6336","rat","LD50","oral","1600 mg/kg","NULL","Pesticide Manual., 9(601), 1991","Myclobutanil",NA
+"6336","rat","LDLo","skin","2229 mg/kg","NULL","Defense des Vegetaux., 40(242)(9), 1986","Myclobutanil",NA
+"6336","mouse","LDLo","oral","1300 mg/kg","BEHAVIORAL: ATAXIA; LUNGS, THORAX, OR RESPIRATION: DYSPNEA; SKIN AND APPENDAGES (SKIN): OTHER GLANDS: OTHER","National Technical Information Service., OTS0570641","Myclobutanil",NA
+"6336","rabbit","LD50","skin","7500 mg/kg","NULL","Proceedings-British Crop Protection Conference-Pests and Diseases., -(55), 1986","Myclobutanil",NA
+"637511","rat","LD50","oral","2220 mg/kg","BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); GASTROINTESTINAL: HYPERMOTILITY, DIARRHEA","Food and Cosmetics Toxicology., 2(327), 1964","Cinnamaldehyde",NA
+"637511","mouse","LD50","oral","2225 mg/kg","BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; BEHAVIORAL: ATAXIA; LUNGS, THORAX, OR RESPIRATION: RESPIRATORY STIMULATION","Yakugaku Zasshi.  Journal of Pharmacy., 92(135), 1972 [PMID:5063928]","Cinnamaldehyde",NA
+"637511","mouse","LD50","intraperitoneal","200 mg/kg","NULL","FAO Nutrition Meetings Report Series., 44A(16), 1967","Cinnamaldehyde",NA
+"637511","mouse","LD50","intravenous","75 mg/kg","NULL","U.S. Army Armament Research & Development Command, Chemical Systems Laboratory, NIOSH Exchange Chemicals., NX#07571","Cinnamaldehyde",NA
+"637511","mouse","LDLo","parenteral","200 mg/kg","NULL","Summary Tables of Biological Tests, National Research Council Chemical-Biological Coordination Center., 7(687), 1955","Cinnamaldehyde",NA
+"637511","guinea pig","LD50","oral","1160 mg/kg","BEHAVIORAL: COMA","Food and Cosmetics Toxicology., 2(327), 1964","Cinnamaldehyde",NA
+"6423","rat","LD50","oral","250 mg/kg","NULL","Dow Chemical Company Reports., -(-), 1972","Chloropicrin",NA
+"6423","mouse","LD50","intraperitoneal","25 mg/kg","NULL","Khimiko-Farmatsevticheskii Zhurnal.  Chemical Pharmaceutical Journal.  For English translation, see PCJOAU., 10(6)(53), 1976","Chloropicrin",NA
+"6434236","rat","LD50","oral","4900 mg/kg","NULL","Farm Chemicals Handbook., -(C178), 1991","Kinoprene",NA
+"6434236","dog","LD50","oral","3160 mg/kg","NULL","Farm Chemicals Handbook., -(C178), 1991","Kinoprene",NA
+"6435890","rat","LD50","oral","10 mg/kg","NULL","Merck Index; an Encyclopedia of Chemicals, Drugs, and Biologicals, 11th ed., Rahway, NJ 07065, Merck & Co., Inc. 1989, 11(3), 1989","avermectin B1",NA
+"6435890","monkey","LD50","oral","17 mg/kg","NULL","Defense des Vegetaux., 42(249-250)(41), 1988","avermectin B1",NA
+"6436604","rat","LD50","oral","1790 mg/kg","NULL","Farm Chemicals Handbook., -(C317), 1991","Uniconazole",NA
+"6442842","quail","LD50","oral","1800 mg/kg","NULL","Pesticide Manual., 9(73), 1991","Bifenthrin",NA
+"6442842","duck","LD50","oral","4450 mg/kg","NULL","Pesticide Manual., 9(73), 1991","Bifenthrin",NA
+"6466","rat","LD50","oral","6300 mg/kg","NULL","Agricultural Chemicals, Thomson, W.T., 4 vols., Fresno, CA, Thomson Publications, 1976/77 revision, 3(43), 1976/1977","Gibberellic acid",NA
+"6466","mouse","LD50","oral","8500 mg/kg","NULL","Yakkyoku.  Pharmacy., 30(623), 1979","Gibberellic acid",NA
+"65174","rat","LD50","oral","11400 mg/kg","NULL","Science Reports of the Research Institutes, Tohoku University, Series C: Medicine., 36(1-4)(10), 1989","Kasugamycin",NA
+"6720","rat","LD50","oral","1100 mg/kg","NULL","Fundamental and Applied Toxicology., 7(299), 1986","Pentachloronitrobenzene",NA
+"6720","mouse","LD50","oral","1400 mg/kg","NULL","Toxicometric Parameters of Industrial Toxic Chemicals Under Single Exposure, Izmerov, N.F., et al., Moscow, Centre of International Projects, GKNT, 1982, -(96), 1982","Pentachloronitrobenzene",NA
+"6720","dog","LD","oral","2500 mg/kg","GASTROINTESTINAL: NAUSEA OR VOMITING","Archives Internationales de Pharmacodynamie et de Therapie., 114(38), 1958 [PMID:13522290]","Pentachloronitrobenzene",NA
+"6720","rabbit","LD50","oral","800 mg/kg","NULL","Archives Internationales de Pharmacodynamie et de Therapie., 114(38), 1958 [PMID:13522290]","Pentachloronitrobenzene",NA
+"6720","mouse","LD50","intraperitoneal","4500 mg/kg","NULL","Archives of Toxicology., 51(329), 1982","Pentachloronitrobenzene",NA
+"6758","human","LDLo","oral","143 mg/kg","GASTROINTESTINAL: OTHER CHANGES","Toxicology of Drugs and Chemicals, Deichmann, W.B., New York, Academic Press, Inc., 1969, -(521), 1969","Rotenone",NA
+"6758","man","LDLo","unreported","294 mg/kg","NULL","Poisoning; Toxicology, Symptoms, Treatments, 2nd ed., Arena, J.M., Springfield, IL, C.C. Thomas, 1970, 2(73), 1970","Rotenone",NA
+"6758","rat","LD50","oral","60 mg/kg","NULL","Down to Earth., 35(25), 1979","Rotenone",NA
+"6758","rat","LD50","skin","940 mg/kg","NULL","World Review of Pest Control., 9(119), 1970","Rotenone",NA
+"6758","rat","LD50","unreported","132 mg/kg","NULL","Journal of Environmental Science and Health, Part B: Pesticides, Food Contaminants, and Agricultural Wastes., 15(929), 1980 [PMID:7002993]","Rotenone",NA
+"6758","dog","LDLo","oral","300 mg/kg","GASTROINTESTINAL: ULCERATION OR BLEEDING FROM STOMACH; GASTROINTESTINAL: NAUSEA OR VOMITING","Journal of Pharmacology and Experimental Therapeutics., 43(193), 1931","Rotenone",NA
+"6758","rabbit","LDLo","oral","1600 mg/kg","GASTROINTESTINAL: ULCERATION OR BLEEDING FROM STOMACH; GASTROINTESTINAL: HYPERMOTILITY, DIARRHEA","Journal of Pharmacology and Experimental Therapeutics., 43(193), 1931","Rotenone",NA
+"6758","rabbit","LDLo","subcutaneous","20 mg/kg","NULL","Journal of Pharmacology and Experimental Therapeutics., 43(193), 1931","Rotenone",NA
+"6758","rabbit","LDLo","intramuscular","5 mg/kg","NULL","Journal of Pharmacology and Experimental Therapeutics., 43(193), 1931","Rotenone",NA
+"6758","guinea pig","LDLo","oral","100 mg/kg","LUNGS, THORAX, OR RESPIRATION: CHRONIC PULMONARY EDEMA; GASTROINTESTINAL: ULCERATION OR BLEEDING FROM STOMACH","Proceedings of the Society for Experimental Biology and Medicine., 34(135), 1936","Rotenone",NA
+"6758","guinea pig","LDLo","intraperitoneal","10 mg/kg","BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; BEHAVIORAL: ATAXIA; LUNGS, THORAX, OR RESPIRATION: RESPIRATORY DEPRESSION","Proceedings of the Society for Experimental Biology and Medicine., 34(135), 1936","Rotenone",NA
+"6758","pigeon","LDLo","intravenous","1 mg/kg","BEHAVIORAL: ATAXIA; LUNGS, THORAX, OR RESPIRATION: RESPIRATORY STIMULATION; GASTROINTESTINAL: NAUSEA OR VOMITING","Journal of Pharmacology and Experimental Therapeutics., 43(193), 1931","Rotenone",NA
+"6758","frog","LDLo","oral","4 mg/kg","LUNGS, THORAX, OR RESPIRATION: DYSPNEA","Journal of Pharmacology and Experimental Therapeutics., 43(193), 1931","Rotenone",NA
+"6795","man","TDLo","oral","857 mg/kg","BEHAVIORAL: TREMOR; CARDIAC: OTHER CHANGES; KIDNEY, URETER, AND BLADDER: URINE VOLUME DECREASED","Journal of Toxicology, Clinical Toxicology., 37(360), 1999","Diquat",NA
+"6795","rat","LD50","oral","231 mg/kg","NULL","Pesticide Manual., 9(316), 1991","Diquat",NA
+"6795","mouse","LD50","oral","125 mg/kg","NULL","Pesticide Manual., 9(316), 1991","Diquat",NA
+"6795","dog","LD50","oral","100 mg/kg","NULL","Pesticide Manual., 9(316), 1991","Diquat",NA
+"6795","rabbit","LD50","oral","101 mg/kg","BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); LUNGS, THORAX, OR RESPIRATION: DYSPNEA","British Journal of Industrial Medicine., 27(51), 1970 [PMID:5418919]","Diquat",NA
+"6795","rabbit","LD50","skin","400 mg/kg","NULL","British Journal of Industrial Medicine., 27(51), 1970 [PMID:5418919]","Diquat",NA
+"6795","guinea pig","LD50","oral","100 mg/kg","BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); LUNGS, THORAX, OR RESPIRATION: DYSPNEA","British Journal of Industrial Medicine., 27(51), 1970 [PMID:5418919]","Diquat",NA
+"6795","chicken","LD50","oral","200 mg/kg","NULL","Pesticide Manual., 9(316), 1991","Diquat",NA
+"6795","bird - domestic","LD50","oral","295 mg/kg","NULL","Pesticide Manual., 9(316), 1991","Diquat",NA
+"6795","domestic animals - goat/sheep","LD50","oral","30 mg/kg","BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); LUNGS, THORAX, OR RESPIRATION: DYSPNEA","British Journal of Industrial Medicine., 27(51), 1970 [PMID:5418919]","Diquat",NA
+"6862","rat","LD50","intraperitoneal","100 mg/kg","NULL","Pesticide & Toxic Chemical News., 9(10), 1980","1-Naphthylacetic acid",NA
+"6862","mouse","LD50","oral","743 mg/kg","NULL","Toho Igakkai Zasshi.  Journal of Medical Society of Toho University., 14(132), 1967","1-Naphthylacetic acid",NA
+"6862","mouse","LD50","intraperitoneal","609 mg/kg","NULL","Toho Igakkai Zasshi.  Journal of Medical Society of Toho University., 15(443), 1968","1-Naphthylacetic acid",NA
+"6862","mouse","LD50","subcutaneous","733 mg/kg","NULL","Toho Igakkai Zasshi.  Journal of Medical Society of Toho University., 15(443), 1968","1-Naphthylacetic acid",NA
+"6950","rat","LD50","oral","25 mg/kg","BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; LUNGS, THORAX, OR RESPIRATION: RESPIRATORY STIMULATION","Toxicology and Applied Pharmacology., 7(353), 1965","Dinoseb",NA
+"6950","rat","LD50","skin","80 mg/kg","NULL","World Review of Pest Control., 9(119), 1970","Dinoseb",NA
+"6950","mouse","LD50","oral","16 mg/kg","NULL","Toxicometric Parameters of Industrial Toxic Chemicals Under Single Exposure, Izmerov, N.F., et al., Moscow, Centre of International Projects, GKNT, 1982, -(61), 1982","Dinoseb",NA
+"6950","mouse","LDLo","skin","40 mg/kg","NULL","Toxicology and Applied Pharmacology., 7(353), 1965","Dinoseb",NA
+"6950","mouse","LD50","intraperitoneal","10 mg/kg","NULL","Biochemical Pharmacology., 18(1389), 1969 [PMID:5799112]","Dinoseb",NA
+"6950","rabbit","LD50","skin","80 mg/kg","NULL","Pesticide Manual., 9(306), 1991","Dinoseb",NA
+"6950","guinea pig","LD50","oral","20 mg/kg","BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; LUNGS, THORAX, OR RESPIRATION: RESPIRATORY STIMULATION","Toxicology and Applied Pharmacology., 7(353), 1965","Dinoseb",NA
+"6950","guinea pig","LDLo","skin","500 mg/kg","NULL","Journal of Industrial Hygiene and Toxicology., 30(10), 1948","Dinoseb",NA
+"6950","chicken","LD50","oral","26 mg/kg","NULL","Agrochemicals Handbook, with updates, Hartley, D., and H. Kidd, eds., Nottingham, Royal Soc of Chemistry, 1983-86, A159(1984)","Dinoseb",NA
+"6950","duck","LD50","oral","9 mg/kg","NULL","Down to Earth., 35(25), 1979","Dinoseb",NA
+"6950","mammal (species unspecified)","LD50","unreported","60 mg/kg","NULL","Chemistry of Pesticides, Melnikov, N.N., New York, Springer-Verlag New York, Inc., 1971, -(98), 1971","Dinoseb",NA
+"7153","rat","LD50","oral","650 mg/kg","NULL","World Review of Pest Control., 9(119), 1970","Mecoprop",NA
+"7153","mouse","LD50","oral","369 mg/kg","NULL","Roczniki Panstwowego Zakladu Higieny., 31(373), 1980 [PMID:7433826]","Mecoprop",NA
+"7153","mouse","LD50","unreported","650 mg/kg","NULL","Chemistry of Pesticides, Melnikov, N.N., New York, Springer-Verlag New York, Inc., 1971, -(173), 1971","Mecoprop",NA
+"7153","rabbit","LD50","skin","900 mg/kg","NULL","Pesticide Chemicals Official Compendium, Association of the American Pesticide Control Officials, Inc., 1966., -(683), 1966","Mecoprop",NA
+"7153","quail","LD50","unreported","500 mg/kg","NULL","Farm Chemicals Handbook., -(C193), 1991","Mecoprop",NA
+"7153","rat","LD50","intraperitoneal","402 mg/kg","NULL","Toxicology., 3(349), 1975 [PMID:123666]","Mecoprop",NA
+"7204","man","LDLo","oral","814 mg/kg","BEHAVIORAL: COMA; VASCULAR: BP LOWERING NOT CHARACTERIZED IN AUTONOMIC SECTION","British Medical Journal., 2(629), 1965","(4-Chloro-2-methylphenoxy)acetic acid",NA
+"7204","rat","LD50","oral","700 mg/kg","GASTROINTESTINAL: GASTRITIS; BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); LIVER: FATTY LIVER DEGERATION","American Journal of Veterinary Research., 15(622), 1954 [PMID:13207589]","(4-Chloro-2-methylphenoxy)acetic acid",NA
+"7204","mouse","LD50","oral","439 mg/kg","NULL","Roczniki Panstwowego Zakladu Higieny., 31(373), 1980 [PMID:7433826]","(4-Chloro-2-methylphenoxy)acetic acid",NA
+"7204","mouse","LDLo","subcutaneous","28 mg/kg","NULL","Pesticide Chemicals Official Compendium, Association of the American Pesticide Control Officials, Inc., 1966., -(711), 1966","(4-Chloro-2-methylphenoxy)acetic acid",NA
+"7204","mouse","LD50","intravenous","28 mg/kg","NULL","Pesticide Chemicals Official Compendium, Association of the American Pesticide Control Officials, Inc., 1966., -(711), 1966","(4-Chloro-2-methylphenoxy)acetic acid",NA
+"7204","quail","LD50","unreported","377 mg/kg","NULL","Farm Chemicals Handbook., -(C191), 1991","(4-Chloro-2-methylphenoxy)acetic acid",NA
+"7204","guinea pig","LD50","oral","700 mg/kg","NULL","Gigiena Truda i Professional'nye Zabolevaniya.  Labor Hygiene and Occupational Diseases., 31(2)(31), 1987","(4-Chloro-2-methylphenoxy)acetic acid",NA
+"7207","rat","LD50","oral","680 mg/kg","NULL","World Review of Pest Control., 9(119), 1970","4-(4-Chloro-2-methylphenoxy)butanoic acid",NA
+"7207","mouse","LD50","oral","800 mg/kg","NULL","Farm Chemicals Handbook., -(C303), 1991","4-(4-Chloro-2-methylphenoxy)butanoic acid",NA
+"72476","mouse","LD50","oral","9600 mg/kg","NULL","Farm Chemicals Handbook., -(C245), 1991","Polyoxin d",NA
+"72476","mouse","LD50","intravenous","100 mg/kg","NULL","CRC Handbook of Antibiotic Compounds, Vols.1- ,  Berdy, J., Boca Raton, FL, CRC Press, 1980, 5(247), 1981","Polyoxin d",NA
+"73281","quail","LD50","oral","2250 mg/kg","NULL","Farm Chemicals Handbook., -(C219), 1991","Nicosulfuron",NA
+"73282","rat","LD50","oral","5050 mg/kg","NULL","Farm Chemicals Handbook., -(C18), 1991","Triasulfuron",NA
+"73282","quail","LD50","oral","2150 mg/kg","NULL","Pesticide Manual., 9(837), 1991","Triasulfuron",NA
+"73670","rat","LD50","oral","3200 mg/kg","NULL","Proceedings-British Crop Protection Conference-Pests and Diseases., -(67), 1981","Clofentezine",NA
+"73670","rat","LD50","skin","1332 mg/kg","NULL","Agrochemicals Handbook, with updates, Hartley, D., and H. Kidd, eds., Nottingham, Royal Soc of Chemistry, 1983-86, A543(1984)","Clofentezine",NA
+"73670","mouse","LD50","oral","3200 mg/kg","NULL","Proceedings-British Crop Protection Conference-Pests and Diseases., -(67), 1981","Clofentezine",NA
+"73670","quail","LD50","oral","750 mg/kg","NULL","Proceedings-British Crop Protection Conference-Pests and Diseases., -(67), 1981","Clofentezine",NA
+"73671","rat","LD50","oral","1300 mg/kg","NULL","Pesticide Manual., 9(664), 1991","Paclobutrazol",NA
+"73671","mouse","LD50","oral","490 mg/kg","NULL","Pesticide Manual., 9(644), 1991","Paclobutrazol",NA
+"73671","rabbit","LD50","oral","840 mg/kg","NULL","Pesticide Manual., 9(644), 1991","Paclobutrazol",NA
+"73671","guinea pig","LD50","oral","400 mg/kg","NULL","Pesticide Manual., 9(644), 1991","Paclobutrazol",NA
+"73671","duck","LD50","oral","7900 mg/kg","NULL","Pesticide Manual., 9(644), 1991","Paclobutrazol",NA
+"73672","rabbit","LD50","skin","200 mg/kg","NULL","Proceedings of the British Crop Protection Conference - Weeds., -(47), 1982","Isoxaben",NA
+"7430","rat","LD50","oral","2400 mg/kg","BEHAVIORAL: TREMOR; BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; BEHAVIORAL: ATAXIA","Office of Toxic Substances Report., OTS","2,6-Dichloro-4-nitroaniline",NA
+"7430","mouse","LD50","oral","1500 mg/kg","NULL","Pesticide Chemicals Official Compendium, Association of the American Pesticide Control Officials, Inc., 1966., -(343), 1966","2,6-Dichloro-4-nitroaniline",NA
+"7430","mouse","LD50","intravenous","56 mg/kg","NULL","U.S. Army Armament Research & Development Command, Chemical Systems Laboratory, NIOSH Exchange Chemicals., NX#03022","2,6-Dichloro-4-nitroaniline",NA
+"7430","mouse","LD50","unreported","4490 mg/kg","BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; BEHAVIORAL: EXCITEMENT; BEHAVIORAL: ATAXIA","Gigiena i Sanitariya.  For English translation, see HYSAAV., 54(11)(4), 1989","2,6-Dichloro-4-nitroaniline",NA
+"7430","guinea pig","LD50","oral","1450 mg/kg","NULL","Pesticide Chemicals Official Compendium, Association of the American Pesticide Control Officials, Inc., 1966., -(343), 1966","2,6-Dichloro-4-nitroaniline",NA
+"7430","mammal (species unspecified)","LD50","unreported","1500 mg/kg","NULL","Chemistry of Pesticides, Melnikov, N.N., New York, Springer-Verlag New York, Inc., 1971, -(87), 1971","2,6-Dichloro-4-nitroaniline",NA
+"784","rat","LD50","oral","1518 mg/kg","BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY)","Toho Igakkai Zasshi.  Journal of Medical Society of Toho University., 23(531), 1976","Hydrogen Peroxide",NA
+"784","man","LDLo","oral","1429 mg/kg","BEHAVIORAL: COMA; GASTROINTESTINAL: CHANGE IN STRUCTURE OR FUNCTION OF ESOPHAGUS; GASTROINTESTINAL: NAUSEA OR VOMITING","Sudebno-Meditsinskaya Ekspertiza.  Forensic Medical Examination., 17(1)(53), 1974","Hydrogen Peroxide",NA
+"784","women","TDLo","oral","1200 mg/kg","GASTROINTESTINAL: GASTRITIS; GASTROINTESTINAL: NAUSEA OR VOMITING","Annals of Emergency Medicine., 21(1391), 1992 [PMID:1416338]","Hydrogen Peroxide",NA
+"784","rabbit","LD50","oral","820 mg/kg","GASTROINTESTINAL: PERITONITIS; BLOOD: PIGMENTED OR NUCLEATED RED BLLOD CELLS; BLOOD: CHANGES IN LEUCOCYTE (WBC) COUNT","Spravochnik po Toksikologii i Gigienicheskim Normativam, -(39), 1999","Hydrogen Peroxide",NA
+"784","women","TDLo","oral","9460 mg/kg","BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; LUNGS, THORAX, OR RESPIRATION: CYANOSIS; LUNGS, THORAX, OR RESPIRATION: RESPIRATORY STIMULATION","Annals of Emergency Medicine., 18(778), 1989 [PMID:2735599]","Hydrogen Peroxide",NA
+"784","child","LDLo","oral","8500 mg/kg","BRAIN AND COVERINGS: OTHER DEGENERATIVE CHANGES; PERIPHERAL NERVE AND SENSATION: SPASTIC PARALYSIS WITH OR WITHOUT SENSORY CHANGE; BLOOD: HEMORRHAGE","Critical Care Medicine., 20(543), 1992 [PMID:1559371]","Hydrogen Peroxide",NA
+"784","rat","LD50","oral","910 mg/kg","GASTROINTESTINAL: PERITONITIS; BLOOD: PIGMENTED OR NUCLEATED RED BLLOD CELLS; BLOOD: CHANGES IN LEUCOCYTE (WBC) COUNT","Spravochnik po Toksikologii i Gigienicheskim Normativam, -(39), 1999","Hydrogen Peroxide",NA
+"784","rat","LD50","oral","376 mg/kg","GASTROINTESTINAL: PERITONITIS; BLOOD: PIGMENTED OR NUCLEATED RED BLLOD CELLS; BLOOD: CHANGES IN LEUCOCYTE (WBC) COUNT","Spravochnik po Toksikologii i Gigienicheskim Normativam, -(39), 1999","Hydrogen Peroxide",NA
+"784","rat","LD50","skin","4060 mg/kg","LUNGS, THORAX, OR RESPIRATION: PULMONARY EMBOLI","Gigiena Truda i Professional'nye Zabolevaniya.  Labor Hygiene and Occupational Diseases., 21(10)(22), 1977","Hydrogen Peroxide",NA
+"784","rat","LD50","subcutaneous","620 mg/kg","NULL","Gigiena i Sanitariya.  For English translation, see HYSAAV., 48(6)(28), 1983","Hydrogen Peroxide",NA
+"784","mouse","LD50","intraperitoneal","880 mg/kg","NULL","Gigiena i Sanitariya.  For English translation, see HYSAAV., 48(6)(28), 1983","Hydrogen Peroxide",NA
+"784","mouse","LD50","subcutaneous","1072 mg/kg","NULL","Gigiena i Sanitariya.  For English translation, see HYSAAV., 48(6)(28), 1983","Hydrogen Peroxide",NA
+"784","rabbit","LDLo","skin","500 mg/kg","BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD","U.S. Army, Chemical Corps Medical Laboratories Research Reports., #75(1951)","Hydrogen Peroxide",NA
+"8158","mouse","LD50","intravenous","224 mg/kg","BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD","Acta Pharmacologica et Toxicologica., 18(141), 1961 [PMID:14482340]","Nonanoic acid",NA
+"8268","rat","LD50","oral","575 mg/kg","NULL","World Review of Pest Control., 9(119), 1970","Dicofol",NA
+"8268","rat","LD50","skin","100 mg/kg","NULL","World Review of Pest Control., 9(119), 1970","Dicofol",NA
+"8268","rat","LD50","intraperitoneal","1150 mg/kg","NULL","Toxicology and Applied Pharmacology., 15(30), 1969 [PMID:5798730]","Dicofol",NA
+"8268","mouse","LD50","oral","420 mg/kg","NULL","Gigiena Truda i Professional'nye Zabolevaniya.  Labor Hygiene and Occupational Diseases., 19(9)(55), 1975","Dicofol",NA
+"8268","rabbit","LD50","oral","1810 mg/kg","BEHAVIORAL: MUSCLE CONTRACTION OR SPASTICITY)","Toxicology and Applied Pharmacology., 1(119), 1959","Dicofol",NA
+"8268","rabbit","LD50","skin","1870 mg/kg","NULL","Guide to the Chemicals Used in Crop Protection., 6(195), 1973","Dicofol",NA
+"8268","guinea pig","LD50","oral","1810 mg/kg","NULL","Wirksubstanzen der Pflanzenschutz und Schadlingsbekampfungsmittel, Perkow, W., Berlin, Verlag Paul Parey, 1971-1976, -(-), 1971/1976","Dicofol",NA
+"8268","chicken","LD50","oral","4365 mg/kg","NULL","Veterinariya.  Veterinary Science., 60(10)(64), 1984","Dicofol",NA
+"8268","mammal (species unspecified)","LD50","unreported","433 mg/kg","NULL","Gigiena i Sanitariya.  For English translation, see HYSAAV., 38(8)(101), 1973","Dicofol",NA
+"8427","rat","LD50","oral","344 mg/kg","NULL","Acute Toxicity Data. Journal of the American College of Toxicology, Part B., 1(177), 1992","Dichlorprop",NA
+"8427","rat","LD50","skin","1880 mg/kg","BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY)","Gigiena i Sanitariya.  For English translation, see HYSAAV., 50(9)(22), 1985","Dichlorprop",NA
+"8427","mouse","LD50","oral","309 mg/kg","NULL","Roczniki Panstwowego Zakladu Higieny., 31(373), 1980 [PMID:7433826]","Dichlorprop",NA
+"8427","mouse","LD50","skin","1400 mg/kg","NULL","Pesticide Index, Frear, E.H., ed., State College, PA, College Science Pub., 1969, 5(76), 1976","Dichlorprop",NA
+"8427","mouse","LD50","subcutaneous","1400 mg/kg","NULL","Prehled Prumyslove Toxikologie; Organicke Latky, Marhold, J., Prague, Czechoslovakia, Avicenum, 1986, -(547), 1986","Dichlorprop",NA
+"8427","guinea pig","LD50","oral","620 mg/kg","BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: MUSCLE CONTRACTION OR SPASTICITY); BEHAVIORAL: COMA","Gigiena i Sanitariya.  For English translation, see HYSAAV., 50(9)(22), 1985","Dichlorprop",NA
+"86102","rat","LD50","oral","3352 mg/kg","BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: ATAXIA; KIDNEY, URETER, AND BLADDER: URINE VOLUME INCREASED","National Technical Information Service., OTS0545183","Tebuconazole",NA
+"86102","rat","LD50","intraperitoneal","395 mg/kg","BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: CHANGES IN MOTOR ACTIVITY (SPECIFIC ASSAY); BEHAVIORAL: ATAXIA","National Technical Information Service., OTS0545183","Tebuconazole",NA
+"86102","mouse","LD50","oral","1615 mg/kg","BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: CHANGES IN MOTOR ACTIVITY (SPECIFIC ASSAY); BEHAVIORAL: ATAXIA","National Technical Information Service., OTS0545183","Tebuconazole",NA
+"86102","chicken","LD50","oral","4488 mg/kg","NULL","Pesticide Manual., 9(785), 1991","Tebuconazole",NA
+"86102","quail","LD50","oral","2912 mg/kg","BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; LUNGS, THORAX, OR RESPIRATION: RESPIRATORY STIMULATION","National Technical Information Service., OTS0545273","Tebuconazole",NA
+"86132","rat","LD50","oral","1020 mg/kg","NULL","Pesticide Manual., 9(215), 1991","Cyproconazole",NA
+"86132","mouse","LD50","oral","352 mg/kg","BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; LUNGS, THORAX, OR RESPIRATION: DYSPNEA","Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 22(263), 1997","Cyproconazole",NA
+"86132","quail","LD50","oral","150 mg/kg","NULL","Pesticide Manual., 9(215), 1991","Cyproconazole",NA
+"86134","rat","LD50","oral","2357 mg/kg","NULL","Pesticide Manual., 9(373), 1991","Fenoxaprop",NA
+"86134","mouse","LD50","oral","4670 mg/kg","NULL","Pesticide Manual., 9(373), 1991","Fenoxaprop",NA
+"86134","quail","LD50","oral","2510 mg/kg","NULL","Pesticide Manual., 9(373), 1991","Fenoxaprop",NA
+"86173","rat","LD50","oral","1453 mg/kg","NULL","Pesticide Manual., 9(277), 1991","Difenoconazole",NA
+"86173","rabbit","LD50","skin","2010 mg/kg","NULL","Pesticide Manual., 9(277), 1991","Difenoconazole",NA
+"86173","duck","LD50","oral","2150 mg/kg","NULL","Pesticide Manual., 9(277), 1991","Difenoconazole",NA
+"8617","rat","LD","oral","500 mg/kg","NULL","National Academy of Sciences, National Research Council, Chemical-Biological Coordination Center, Review., 5(7), 1953","Indole-3-butyric acid",NA
+"8617","mouse","LD50","oral","100 mg/kg","NULL","Agricultural Chemicals, Thomson, W.T., 4 vols., Fresno, CA, Thomson Publications, 1976/77 revision, 3(76), 1976/1977","Indole-3-butyric acid",NA
+"8617","mouse","LD50","intraperitoneal","100 mg/kg","NULL","Agrochemicals Handbook, with updates, Hartley, D., and H. Kidd, eds., Nottingham, Royal Soc of Chemistry, 1983-86, A231(1983)","Indole-3-butyric acid",NA
+"86287518","rat","LD50","oral","410 mg/kg","NULL","Agrochemcicals Japan., (63)(15), 1993","Imidacloprid",NA
+"86287518","mouse","LD50","oral","98 mg/kg","NULL","Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 19(S209), 1994","Imidacloprid",NA
+"86287518","mouse","LD50","intraperitoneal","35 mg/kg","NULL","Pesticide Biochemistry and Physiology., 58(77), 1997","Imidacloprid",NA
+"86356","rat","LD50","oral","136 mg/kg","BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: COMA; GASTROINTESTINAL: HYPERMOTILITY, DIARRHEA","National Technical Information Service., OTS0543600","Fenazaquin",NA
+"86356","mouse","LD50","oral","1789 mg/kg","BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); LUNGS, THORAX, OR RESPIRATION: DYSPNEA; SKIN AND APPENDAGES (SKIN): HAIR: OTHER","National Technical Information Service., OTS0543587","Fenazaquin",NA
+"86369","rat","LD50","oral","2600 mg/kg","NULL","United States Patent Document., #5298502","Sulfentrazone",NA
+"86369","mouse","LD50","oral","700 mg/kg","NULL","United States Patent Document., #5298502","Sulfentrazone",NA
+"86369","mouse","LD","intraperitoneal","100 mg/kg","NULL","United States Patent Document., #5298502","Sulfentrazone",NA
+"91655","rat","LD50","oral","2 mg/kg","BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: FOOD INTAKE (ANIMAL); GASTROINTESTINAL: CHANGES IN STRUCTURE OR FUNCTION OF SALIVARY GLANDS","National Technical Information Service., OTS0536238","Chlorethoxyfos",NA
+"91655","chicken","LD50","oral","14 mg/kg","BEHAVIORAL: TREMOR; BEHAVIORAL: ATAXIA; GASTROINTESTINAL: CHANGES IN STRUCTURE OR FUNCTION OF SALIVARY GLANDS","National Technical Information Service., OTS0530328","Chlorethoxyfos",NA
+"91699","rat","LD50","oral","715 mg/kg","NULL","Pesticide Manual., 9(849), 1991","Triflumizole",NA
+"91699","rat","LD50","intraperitoneal","710 mg/kg","NULL","Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 16(301), 1991","Triflumizole",NA
+"91699","mouse","LD50","oral","510 mg/kg","NULL","Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 16(301), 1991","Triflumizole",NA
+"91699","mouse","LD50","intraperitoneal","530 mg/kg","NULL","Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 16(301), 1991","Triflumizole",NA
+"91699","quail","LD50","oral","2467 mg/kg","NULL","Pesticide Manual., 9(849), 1991","Triflumizole",NA
+"91699","quail","LD50","unreported","2467 mg/kg","NULL","Japan Pesticide Information., (52)(27), 1988","Triflumizole",NA
+"91727","rat","LD50","oral","1140 mg/kg","NULL","Pesticide Manual., 9(427), 1991","Flutriafol",NA
+"91727","mouse","LD50","oral","179 mg/kg","NULL","Defense des Vegetaux., 38(77), 1984","Flutriafol",NA
+"91727","rabbit","LD50","oral","200 mg/kg","NULL","Defense des Vegetaux., 38(77), 1984","Flutriafol",NA
+"91727","guinea pig","LD50","oral","200 mg/kg","NULL","Defense des Vegetaux., 38(77), 1984","Flutriafol",NA
+"91727","mammal (species unspecified)","LD50","oral","5670 mg/kg","NULL","Defense des Vegetaux., 44(262)(28), 1990","Flutriafol",NA
+"91739","rat","LD50","oral","2190 mg/kg","NULL","Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 15(647), 1990","Quinclorac",NA
+"91754","mouse","LD50","oral","205 mg/kg","BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); LUNGS, THORAX, OR RESPIRATION: RESPIRATORY DEPRESSION; SKIN AND APPENDAGES (SKIN): HAIR: OTHER","Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 19(S243), 1994","Pyridaben",NA
+"91754","rat","LD50","oral","570 mg/kg","BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: MUSCLE WEAKNESS; LUNGS, THORAX, OR RESPIRATION: RESPIRATORY DEPRESSION","Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 19(S243), 1994","Pyridaben",NA
+"91757","quail","LD50","oral","2250 mg/kg","NULL","Pesticide Manual., 9(321), 1991","Dithiopyr",NA
+"93315","rat","LD50","intraperitoneal","1719 mg/kg","PERIPHERAL NERVE AND SENSATION: SPASTIC PARALYSIS WITH OR WITHOUT SENSORY CHANGE; GASTROINTESTINAL: HYPERMOTILITY, DIARRHEA","National Technical Information Service., OTS0540509","Acequinocyl",NA
+"93357","rat","LD50","oral","79 mg/kg","NULL","Pesticide Manual., 9(210), 1991","alpha-Cypermethrin",NA
+"93357","rat","LD50","skin","500 mg/kg","NULL","Pesticide Manual., 9(210), 1991","alpha-Cypermethrin",NA
+"93379","mouse","LD50","oral","500 mg/kg","SENSE ORGANS AND SPECIAL SENSES: PTOSIS: EYE; BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: MUSCLE WEAKNESS","National Technical Information Service., OTS0543084","Forchlorfenuron",NA
+"9411","rat","LD50","oral","641 mg/kg","NULL","Fundamental and Applied Toxicology., 7(299), 1986","Bromacil",NA
+"9411","rat","LD50","skin","2500 mg/kg","NULL","Fundamental and Applied Toxicology., 7(299), 1986","Bromacil",NA
+"9411","mouse","LD50","oral","3040 mg/kg","NULL","Journal of Environmental Science and Health, Part B: Pesticides, Food Contaminants, and Agricultural Wastes., 15(867), 1980 [PMID:7002991]","Bromacil",NA
+"9502","rat","LD50","oral","1146 mg/kg","NULL","Fundamental and Applied Toxicology., 7(299), 1986","Linuron",NA
+"9502","rat","LD50","skin","2500 mg/kg","NULL","Fundamental and Applied Toxicology., 7(299), 1986","Linuron",NA
+"9502","mouse","LD50","oral","1500 mg/kg","NULL","Yakkyoku.  Pharmacy., 36(387), 1985","Linuron",NA
+"9502","dog","LD50","oral","500 mg/kg","NULL","Guide to the Chemicals Used in Crop Protection., 6(317), 1973","Linuron",NA
+"9502","rabbit","LD50","oral","2250 mg/kg","NULL","Agrochemicals Handbook, with updates, Hartley, D., and H. Kidd, eds., Nottingham, Royal Soc of Chemistry, 1983-86, A248(1984)","Linuron",NA
+"9502","chicken","LD50","oral","3765 mg/kg","NULL","Veterinariya.  Veterinary Science., 58(7)(63), 1982","Linuron",NA
+"9576412","rat","LD50","oral","245 mg/kg","NULL","Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 17(S261), 1992","Fenpyroximate",NA
+"9576412","mouse","LD50","oral","440 mg/kg","NULL","Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 17(S261), 1992","Fenpyroximate",NA
+"9864","rat","LD50","oral","125 mg/kg","NULL","Merck Index; an Encyclopedia of Chemicals, Drugs, and Biologicals, 11th ed., Rahway, NJ 07065, Merck & Co., Inc. 1989, 11(418), 1989","Cyanamide",NA
+"9864","rat","LD50","skin","84 mg/kg","NULL","Toxicometric Parameters of Industrial Toxic Chemicals Under Single Exposure, Izmerov, N.F., et al., Moscow, Centre of International Projects, GKNT, 1982, -(40), 1982","Cyanamide",NA
+"9864","rat","LDLo","intraperitoneal","200 mg/kg","SENSE ORGANS AND SPECIAL SENSES: MIOSIS (PUPILLARY CONSTRICTION): EYE; BEHAVIORAL: COMA; GASTROINTESTINAL: CHANGES IN STRUCTURE OR FUNCTION OF SALIVARY GLANDS","Proceedings of the Society for Experimental Biology and Medicine., 54(254), 1943","Cyanamide",NA
+"9864","rat","LD50","intravenous","56 mg/kg","NULL","Toxicometric Parameters of Industrial Toxic Chemicals Under Single Exposure, Izmerov, N.F., et al., Moscow, Centre of International Projects, GKNT, 1982, -(40), 1982","Cyanamide",NA
+"9864","rat","LD50","unreported","280 mg/kg","NULL","Toxicology of Drugs and Chemicals, Deichmann, W.B., New York, Academic Press, Inc., 1969, -(190), 1969","Cyanamide",NA
+"9864","mouse","LD50","oral","388 mg/kg","NULL","Toxicometric Parameters of Industrial Toxic Chemicals Under Single Exposure, Izmerov, N.F., et al., Moscow, Centre of International Projects, GKNT, 1982, -(40), 1982","Cyanamide",NA
+"9864","mouse","LD50","intraperitoneal","200 mg/kg","NULL","National Technical Information Service., AD277-689","Cyanamide",NA
+"9864","cat","LD50","oral","100 mg/kg","NULL","Toxicometric Parameters of Industrial Toxic Chemicals Under Single Exposure, Izmerov, N.F., et al., Moscow, Centre of International Projects, GKNT, 1982, -(40), 1982","Cyanamide",NA
+"9864","rabbit","LD50","oral","150 mg/kg","NULL","Toxicometric Parameters of Industrial Toxic Chemicals Under Single Exposure, Izmerov, N.F., et al., Moscow, Centre of International Projects, GKNT, 1982, -(40), 1982","Cyanamide",NA
+"9864","rabbit","LD50","skin","590 mg/kg","NULL","Toxicology of Drugs and Chemicals, Deichmann, W.B., New York, Academic Press, Inc., 1969, -(190), 1969","Cyanamide",NA
+"991","man","TDLo","oral","214 mg/kg","PERIPHERAL NERVE AND SENSATION: SPASTIC PARALYSIS WITH OR WITHOUT SENSORY CHANGE; BEHAVIORAL: CHANGES IN MOTOR ACTIVITY (SPECIFIC ASSAY); BEHAVIORAL: COMA","Journal of Neurology, Neurosurgery and Psychiatry., 56(1135), 1993 [PMID:8410019]","Parathion",NA
+"991","human","LD50","oral","3 mg/kg","NULL","Agrochemicals Handbook, with updates, Hartley, D., and H. Kidd, eds., Nottingham, Royal Soc of Chemistry, 1983-86, A311(1986)","Parathion",NA
+"991","rat","LD50","oral","2 mg/kg","NULL","Toxicology and Applied Pharmacology., 11(546), 1967 [PMID:5586363]","Parathion",NA
+"991","rat","LD50","intraperitoneal","2 mg/kg","NULL","Advances in Pest Control Research., 4(117), 1961","Parathion",NA
+"991","rat","LD50","subcutaneous","9 mg/kg","SENSE ORGANS AND SPECIAL SENSES: LACRIMATION: EYE; BEHAVIORAL: MUSCLE CONTRACTION OR SPASTICITY)","Toksikologiya Novykh Promyshlennykh Khimicheskikh Veshchestv.  Toxicology of New Industrial Chemical Substances.  For English translation, see TNICS*., 7(122), 1965","Parathion",NA
+"991","rat","LD50","intramuscular","6 mg/kg","NULL","Journal of Clinical Investigation., 37(350), 1958 [PMID:13513766]","Parathion",NA
+"991","mouse","LD50","oral","5 mg/kg","NULL","Agricultural and Biological Chemistry., 30(181), 1966","Parathion",NA
+"991","mouse","LD50","skin","19 mg/kg","NULL","Agricultural and Biological Chemistry., 26(257), 1962","Parathion",NA
+"991","mouse","LD50","intraperitoneal","3 mg/kg","NULL","Journal of Agricultural and Food Chemistry., 11(91), 1963","Parathion",NA
+"991","mouse","LD50","subcutaneous","10 mg/kg","NULL","Pharmazie., 37(729), 1982","Parathion",NA
+"991","mouse","LD50","intravenous","13 mg/kg","NULL","Toxicology and Applied Pharmacology., 22(684), 1972 [PMID:5045772]","Parathion",NA
+"991","dog","LD50","oral","3 mg/kg","NULL","Special Publication of the Entomological Society of America., 78-1(33), 1978","Parathion",NA
+"991","dog","LD50","intraperitoneal","12 mg/kg","BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: TREMOR; LUNGS, THORAX, OR RESPIRATION: RESPIRATORY DEPRESSION","Journal of Pharmacology and Experimental Therapeutics., 95(79), 1949","Parathion",NA
+"991","dog","LD50","intravenous","12 mg/kg","SENSE ORGANS AND SPECIAL SENSES: LACRIMATION: EYE; BEHAVIORAL: ATAXIA; LUNGS, THORAX, OR RESPIRATION: RESPIRATORY STIMULATION","JAMA, Journal of the American Medical Association., 144(104), 1950 [PMID:15436303]","Parathion",NA
+"991","cat","LD50","intraperitoneal","3 mg/kg","BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: TREMOR; LUNGS, THORAX, OR RESPIRATION: RESPIRATORY DEPRESSION","Journal of Pharmacology and Experimental Therapeutics., 95(79), 1949","Parathion",NA
+"991","cat","LD50","intravenous","3 mg/kg","SENSE ORGANS AND SPECIAL SENSES: LACRIMATION: EYE; BEHAVIORAL: ATAXIA; LUNGS, THORAX, OR RESPIRATION: RESPIRATORY STIMULATION","JAMA, Journal of the American Medical Association., 144(104), 1950 [PMID:15436303]","Parathion",NA
+"991","rabbit","LD50","oral","10 mg/kg","NULL","Special Publication of the Entomological Society of America., 78-1(33), 1978","Parathion",NA
+"991","rabbit","LD50","skin","15 mg/kg","NULL","Toxicological Information on Cyanamid Insecticides., 8/1966","Parathion",NA
+"991","rabbit","LD50","subcutaneous","30 mg/kg","SENSE ORGANS AND SPECIAL SENSES: LACRIMATION: EYE; BEHAVIORAL: MUSCLE CONTRACTION OR SPASTICITY)","Toksikologiya Novykh Promyshlennykh Khimicheskikh Veshchestv.  Toxicology of New Industrial Chemical Substances.  For English translation, see TNICS*., 7(122), 1965","Parathion",NA
+"991","guinea pig","LD50","oral","8 mg/kg","NULL","Arzneimittel-Forschung. Drug Research., 5(626), 1955 [PMID:13293054]","Parathion",NA
+"991","guinea pig","LD50","skin","45 mg/kg","NULL","Toxicological Information on Cyanamid Insecticides., 8/1966","Parathion",NA
+"991","guinea pig","LD50","intraperitoneal","12 mg/kg","NULL","Arzneimittel-Forschung. Drug Research., 5(626), 1955 [PMID:13293054]","Parathion",NA
+"991","guinea pig","LD50","subcutaneous","10 mg/kg","SENSE ORGANS AND SPECIAL SENSES: LACRIMATION: EYE; BEHAVIORAL: MUSCLE CONTRACTION OR SPASTICITY)","Toksikologiya Novykh Promyshlennykh Khimicheskikh Veshchestv.  Toxicology of New Industrial Chemical Substances.  For English translation, see TNICS*., 7(122), 1965","Parathion",NA
+"991","chicken","LD50","oral","10 mg/kg","NULL","Environmental Quality and Safety., 3(173), 1974","Parathion",NA
+"991","duck","LD50","skin","28 mg/kg","NULL","Toxicology and Applied Pharmacology., 47(451), 1979 [PMID:442090]","Parathion",NA
+"991","horse/donkey","LD50","oral","5 mg/kg","NULL","Wirksubstanzen der Pflanzenschutz und Schadlingsbekampfungsmittel, Perkow, W., Berlin, Verlag Paul Parey, 1971-1976, -(-), 1971/1976","Parathion",NA
+"991","domestic animals - goat/sheep","LDLo","oral","100 mg/kg","BEHAVIORAL: EXCITEMENT; BEHAVIORAL: REGIDITY; LUNGS, THORAX, OR RESPIRATION: DYSPNEA","U.S. Army, Chemical Corps Medical Laboratories Research Reports., #269(1954)","Parathion",NA
+"991","domestic animals - goat/sheep","LDLo","intramuscular","20 mg/kg","SENSE ORGANS AND SPECIAL SENSES: MIOSIS (PUPILLARY CONSTRICTION): EYE; BEHAVIORAL: MUSCLE WEAKNESS; BEHAVIORAL: REGIDITY","U.S. Army, Chemical Corps Medical Laboratories Research Reports., #269(1954)","Parathion",NA
+"991","mammal (species unspecified)","LD50","oral","49 mg/kg","BEHAVIORAL: TREMOR; BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; BEHAVIORAL: ATAXIA","National Technical Information Service., PB288-416","Parathion",NA
+"991","mammal (species unspecified)","LD50","unreported","6 mg/kg","NULL","Chemistry of Pesticides, Melnikov, N.N., New York, Springer-Verlag New York, Inc., 1971, -(323), 1971","Parathion",NA
+"991","frog","LD50","parenteral","967 mg/kg","PERIPHERAL NERVE AND SENSATION: FLACCID PARALYSIS WITHOUT ANESTHESIA (USUALLY NEUROMUSCULAR BLOCKAGE); BEHAVIORAL: ALTERED SLEEP TIME (INCLUDING CHANGE IN RIGHTING REFLEX); LUNGS, THORAX, OR RESPIRATION: OTHER CHANGES","Archives Internationales de Pharmacodynamie et de Therapie., 124(212), 1960 [PMID:13819287]","Parathion",NA
+"991","man","TDLo","oral","2143 mg/kg","BEHAVIORAL: COMA; CARDIAC: PULSE RATE; VASCULAR: SHOCK","Neurology., 31(603), 1981 [PMID:7194975]","Parathion",NA
+"151080","rat","LD50","oral","5000 mg/kg","NULL","USEPA/Office of Pesticide Programs; Biopesticide Registration Action Document - 1-Methylcylclopropene (224459)","1-Methylcyclopropene",NA
+"151080","rabbit","LD50","dermal","2000 mg/kg","NULL","USEPA/Office of Pesticide Programs; Biopesticide Registration Action Document - 1-Methylcylclopropene (224459)","1-Methylcyclopropene",NA
+"24462","rat","LD50","oral","300 mg/kg","NULL","WHO; Environ Health Criteria 200: Copper p.101 (1998)","Cupric sulfate",NA
+"24462","rabbit","LD50","oral","125 mg/kg","NULL","WHO; Environ Health Criteria 200: Copper p.101 (1998)","Cupric sulfate",NA
+"24462","mouse","LD100","oral","50 mg/kg","NULL","WHO; Environ Health Criteria 200: Copper p.101 (1998)","Cupric sulfate",NA
+"13633097","rat","LD50","skin","2000 mg/kg","NULL","Proposal for Harmonised Classification and Labelling for Dimethenamid-P (September, 2012); Available from, as of August 3, 2018:","Dimethenamid-P",NA
+"13633097","rat","LD50","oral","480 mg/kg","NULL","WHO/FAO; Joint Meeting on Pesticide Residues Evaluation for Dimethenamid-P (163515-14-8) p.202 (2005). Available from, as of August 3, 2018: https://www.inchem.org/pages/jmpr.html","Dimethenamid-P",NA
+"5284389","rat","LD50","oral","980 mg/kg","NULL","The Merck Index. 9th ed. Rahway, New Jersey: Merck & Co., Inc., 1976., p. 438","Meptyldinocap",NA
+"56841936","rat","LD50","oral","5000 mg/kg","NULL","USEPA/Office of Pesticide Programs; Registration Eligibility Document - Kaolin (100104). April 2000 Available from, as of June 5, 2007:","Kaolin",NA
+"6861","rat","LD50","oral","1690 mg/kg","NULL","Farm Chemicals Handbook., -(C214), 1991","1-Naphthaleneacetamide",NA
+"2319","rat","LD50","oral","10000 mg/kg","NULL","Farm Chemicals Handbook., -(C123), 1991","Benfluralin",NA
+"2319","mouse","LD50","oral","5000 mg/kg","NULL","Pesticides Symposia; Collection of Papers Presented at the Sixth & Seventh Inter-American Conferences on Toxicology and Occupational Medicine, Miami, FL, Miami, FL, J.L. Halos, 1968-70, 6(263), 1968/1970","Benfluralin",NA
+"2319","dog","LD50","oral","2000 mg/kg","NULL","Pesticide Manual., 9(56), 1991","Benfluralin",NA
+"2319","rabbit","LD50","oral","2000 mg/kg","NULL","Pesticide Manual., 9(56), 1991","Benfluralin",NA
+"2319","chicken","LD50","oral","2000 mg/kg","NULL","Pesticide Manual., 9(56), 1991","Benfluralin",NA
+"2319","quail","LD50","oral","2000 mg/kg","NULL","Pesticide Manual., 9(56), 1991","Benfluralin",NA
+"2319","duck","LD50","oral","2000 mg/kg","NULL","Pesticide Manual., 9(56), 1991","Benfluralin",NA
+"39676","rat","LD50","oral","10000 mg/kg","NULL","Pesticide Manual., 9(859), 1991","Vinclozolin",NA
+"39676","rat","LD50","skin","2000 mg/kg","NULL","Farm Chemicals Handbook., -(C322), 1991","Vinclozolin",NA
+"39676","mouse","LD50","oral","10000 mg/kg","NULL","Defense des Vegetaux., 32(72), 1978","Vinclozolin",NA
+"39676","rabbit","LD50","skin","5000 mg/kg","NULL","Agrochemicals Handbook, with updates, Hartley, D., and H. Kidd, eds., Nottingham, Royal Soc of Chemistry, 1983-86, A417(1983)","Vinclozolin",NA
+"39676","guinea pig","LD50","oral","8000 mg/kg","NULL","Wirksubstanzen der Pflanzenschutz und Schadlingsbekampfungsmittel, Perkow, W., Berlin, Verlag Paul Parey, 1971-1976, -(-), 1971/1976","Vinclozolin",NA
+"47898","rat","LD50","oral","10000 mg/kg","NULL","Farm Chemicals Handbook., -(C209), 1991","Flutolanil",NA
+"47898","rat","LD50","skin","5000 mg/kg","NULL","Japan Pesticide Information., (47)(23), 1985","Flutolanil",NA
+"47898","rat","LD50","intraperitoneal","10000 mg/kg","NULL","Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 13(153), 1988","Flutolanil",NA
+"47898","rat","LD50","subcutaneous","10000 mg/kg","NULL","Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 13(153), 1988","Flutolanil",NA
+"47898","mouse","LD50","oral","10000 mg/kg","NULL","Pesticide Manual., 9(426), 1991","Flutolanil",NA
+"47898","mouse","LD50","intraperitoneal","10000 mg/kg","NULL","Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 13(153), 1988","Flutolanil",NA
+"47898","mouse","LD50","subcutaneous","10000 mg/kg","NULL","Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 13(153), 1988","Flutolanil",NA
+"52998","rabbit","LD50","skin","2000 mg/kg","NULL","Pesticide Manual., 9(774), 1991","Sulfometuron",NA
+"62276","rat","LD50","oral","5000 mg/kg","NULL","Farm Chemicals Handbook., -(C77), 1991","Lactofen",NA
+"62276","rat","LD50","skin","2000 mg/kg","NULL","Farm Chemicals Handbook., -(C77), 1991","Lactofen",NA
+"86138","rat","LD50","oral","2000 mg/kg","NULL","Pesticide Manual., 9(157), 1991","Fenbuconazole",NA
+"86138","rat","LD50","skin","5000 mg/kg","NULL","Pesticide Manual., 9(157), 1991","Fenbuconazole",NA
+"86138","rat","LD50","oral","2000 mg/kg","NULL","Farm Chemicals Handbook., -(C264), 1991","Fenbuconazole",NA
+"86138","rabbit","LD50","skin","5000 mg/kg","NULL","Farm Chemicals Handbook., -(C264), 1991","Fenbuconazole",NA
+"91730","rat","LD50","oral","5000 mg/kg","NULL","Pesticide Manual., 9(591), 1991","Metsulfuron",NA
+"91730","rabbit","LD50","skin","2000 mg/kg","NULL","Pesticide Manual., 9(591), 1991","Metsulfuron",NA
+"91730","duck","LD50","oral","5000 mg/kg","NULL","Pesticide Manual., 9(591), 1991","Metsulfuron",NA
+"91753","rat","LD50","oral","5000 mg/kg","NULL","Pesticide Manual., 9(745), 1991","Pyriproxyfen",NA
+"91753","rat","LD50","skin","2000 mg/kg","NULL","Pesticide Manual., 9(745), 1991","Pyriproxyfen",NA
+"91759","rat","LD50","oral","5000 mg/kg","NULL","Journal of Agricultural and Food Chemistry., 40(1083), 1992","Flumetsulam",NA
+"91759","rabbit","LD50","skin","2000 mg/kg","NULL","Journal of Agricultural and Food Chemistry., 40(1083), 1992","Flumetsulam",NA
+"91779","rat","LD50","oral","5000 mg/kg","NULL","Pesticide Manual., 9(297), 1991","Rimsulfuron",NA
+"91779","rabbit","LD50","skin","2000 mg/kg","NULL","Pesticide Manual., 9(297), 1991","Rimsulfuron",NA
+"92433","rat","LD50","oral","5000 mg/kg","NULL","Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 20(381), 1995","Imazosulfuron",NA
+"92433","rat","LD50","skin","2000 mg/kg","NULL","Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 20(381), 1995","Imazosulfuron",NA
+"92433","mouse","LD50","oral","5000 mg/kg","BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY)","Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 20(381), 1995","Imazosulfuron",NA
+"93539","rat","LD50","oral","5000 mg/kg","NULL","Japan Pesticide Information., (57)(27), 1990","Flazasulfuron",NA
+"93539","rat","LD50","skin","2000 mg/kg","NULL","Japan Pesticide Information., (57)(27), 1990","Flazasulfuron",NA
+"93539","mouse","LD50","oral","5000 mg/kg","NULL","Japan Pesticide Information., (57)(27), 1990","Flazasulfuron",NA
+"93539","quail","LD50","unreported","2000 mg/kg","NULL","Japan Pesticide Information., (57)(27), 1990","Flazasulfuron",NA

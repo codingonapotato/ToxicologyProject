@@ -1,0 +1,1108 @@
+cid,CAS,organism,testtype,route,dose_mg_per_kg,effect,reference,cmpdname
+1004,7664-38-2,man,LDLo,unreported,220,,"Poisoning; Toxicology, Symptoms, Treatments, 2nd ed., Arena, J.M., Springfield, IL, C.C. Thomas, 1970, 2(73), 1970",Phosphoric Acid
+1004,7664-38-2,rat,LD50,oral,1530,"BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); KIDNEY, URETER, AND BLADDER: HEMATURIA; SKIN AND APPENDAGES (SKIN): HAIR: OTHER","BIOFAX Industrial Bio-Test Laboratories, Inc., Data Sheets., 17-4/1970",Phosphoric Acid
+1004,7664-38-2,rabbit,LD50,skin,2740,BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: EXCITEMENT,"BIOFAX Industrial Bio-Test Laboratories, Inc., Data Sheets., 17-4/1970",Phosphoric Acid
+10342051,66230-04-4,rat,LD50,oral,325,,"Farm Chemicals Handbook., -(C287), 1991",Esfenvalerate
+104926,68359-37-5,rat,LD50,oral,900,,"Farm Chemicals Handbook., -(C39), 1991",Cyfluthrin
+104926,68359-37-5,mouse,LD50,oral,300,,"Merck Index; an Encyclopedia of Chemicals, Drugs, and Biologicals, 11th ed., Rahway, NJ 07065, Merck & Co., Inc. 1989, 11(432), 1989",Cyfluthrin
+104926,68359-37-5,dog,LD50,oral,500,,"Pesticide Manual., 9(198), 1991",Cyfluthrin
+104926,68359-37-5,bird - domestic,LD50,oral,250,,"Pesticide Manual., 9(198), 1991",Cyfluthrin
+10788,533-74-4,rat,LD50,oral,320,BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD,"Toxicology and Applied Pharmacology., 9(521), 1966",Dazomet
+10788,533-74-4,rat,LD50,skin,2260,"BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: MUSCLE WEAKNESS; LUNGS, THORAX, OR RESPIRATION: DYSPNEA","Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 17(S327), 1992",Dazomet
+10788,533-74-4,rat,LD50,intraperitoneal,87,BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD,"Toxicology and Applied Pharmacology., 9(521), 1966",Dazomet
+10788,533-74-4,rat,LD50,subcutaneous,470,"BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: MUSCLE WEAKNESS; LUNGS, THORAX, OR RESPIRATION: DYSPNEA","Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 17(S327), 1992",Dazomet
+10788,533-74-4,mouse,LD50,oral,180,BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD,"Toxicology and Applied Pharmacology., 9(521), 1966",Dazomet
+10788,533-74-4,mouse,LD50,skin,2400,"BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: MUSCLE WEAKNESS; LUNGS, THORAX, OR RESPIRATION: DYSPNEA","Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 17(S327), 1992",Dazomet
+10788,533-74-4,mouse,LD50,intraperitoneal,98,"BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: MUSCLE WEAKNESS; LUNGS, THORAX, OR RESPIRATION: DYSPNEA","Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 17(S327), 1992",Dazomet
+10788,533-74-4,mouse,LD50,subcutaneous,248,"BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: MUSCLE WEAKNESS; LUNGS, THORAX, OR RESPIRATION: DYSPNEA","Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 17(S327), 1992",Dazomet
+10788,533-74-4,mouse,LD50,unreported,650,,"Chemistry of Pesticides, Melnikov, N.N., New York, Springer-Verlag New York, Inc., 1971, -(430), 1971",Dazomet
+10788,533-74-4,dog,LD50,intraperitoneal,47,BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD,"Toxicology and Applied Pharmacology., 9(521), 1966",Dazomet
+10788,533-74-4,dog,LDLo,intramuscular,250,"SENSE ORGANS AND SPECIAL SENSES: MYDRIASIS (PUPILLARY DILATION): EYE; VASCULAR: BP ELEVATION NOT CHARACTERIZED IN AUTONOMIC SECTION; GASTROINTESTINAL: HYPERMOTILITY, DIARRHEA","Toxicology and Applied Pharmacology., 9(521), 1966",Dazomet
+10788,533-74-4,rabbit,LD50,oral,120,BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD,"Toxicology and Applied Pharmacology., 9(521), 1966",Dazomet
+10788,533-74-4,rabbit,LD50,intraperitoneal,127,BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD,"Toxicology and Applied Pharmacology., 9(521), 1966",Dazomet
+10788,533-74-4,guinea pig,LD50,oral,160,BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD,"Toxicology and Applied Pharmacology., 9(521), 1966",Dazomet
+1118,7664-93-9,man,LDLo,unreported,135,,"Poisoning; Toxicology, Symptoms, Treatments, 2nd ed., Arena, J.M., Springfield, IL, C.C. Thomas, 1970, 2(73), 1970",Sulfuric Acid
+1118,7664-93-9,rat,LD50,oral,2140,,"American Industrial Hygiene Association Journal., 30(470), 1969 [PMID:5823428]",Sulfuric Acid
+115224,111988-49-9,rat,LD50,oral,444,BEHAVIORAL: TREMOR; GASTROINTESTINAL: DECREASED MOTILITY OR CONSTIPATION; SKIN AND APPENDAGES (SKIN): HAIR: OTHER,"National Technical Information Service., OTS0559690",Thiacloprid
+121494065,1332-68-9,women,LDLo,oral,562,BEHAVIORAL: COMA; CARDIAC: OTHER CHANGES,"Journal of Toxicology, Clinical Toxicology., 35(299), 1997 [PMID:9140325]",Calcium polysulfide
+121494065,1332-68-9,man,TDLo,oral,891,BEHAVIORAL: MUSCLE WEAKNESS; GASTROINTESTINAL: ALTERATION IN GASTRIC SECRETION,"Journal of Toxicology, Clinical Toxicology., 35(299), 1997 [PMID:9140325]",Calcium polysulfide
+12232,624-92-0,mammal (species unspecified),LD50,unreported,138,,"Gigiena Truda i Professional'nye Zabolevaniya.  Labor Hygiene and Occupational Diseases., 16(6)(46), 1972",Dimethyl disulfide
+12901,732-11-6,human,LDLo,oral,50,,"Special Publication of the Entomological Society of America., 74-1(-), 1974",Phosmet
+12901,732-11-6,rat,LD50,skin,1326,,"Toxicometric Parameters of Industrial Toxic Chemicals Under Single Exposure, Izmerov, N.F., et al., Moscow, Centre of International Projects, GKNT, 1982, -(59), 1982",Phosmet
+12901,732-11-6,mouse,LD50,oral,26,"BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: MUSCLE CONTRACTION OR SPASTICITY); LUNGS, THORAX, OR RESPIRATION: DYSPNEA","Hygiene and Sanitation, 34(1-3)(192), 1969",Phosmet
+12901,732-11-6,cat,LD50,unreported,78,,"Gigiena i Sanitariya.  For English translation, see HYSAAV., 35(12)(94), 1970",Phosmet
+12901,732-11-6,rabbit,LD50,skin,3160,,"Agrochemicals Handbook, with updates, Hartley, D., and H. Kidd, eds., Nottingham, Royal Soc of Chemistry, 1983-86, A325(1983)",Phosmet
+12901,732-11-6,guinea pig,LD50,oral,200,"BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: MUSCLE CONTRACTION OR SPASTICITY); LUNGS, THORAX, OR RESPIRATION: DYSPNEA","Hygiene and Sanitation, 34(1-3)(192), 1969",Phosmet
+12901,732-11-6,guinea pig,LD50,unreported,210,,"Gigiena i Sanitariya.  For English translation, see HYSAAV., 35(12)(94), 1970",Phosmet
+12901,732-11-6,chicken,LD50,oral,707,BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD,"Toxicology and Applied Pharmacology., 6(147), 1964",Phosmet
+12901,732-11-6,duck,LD50,oral,1830,,"Down to Earth., 35(25), 1979",Phosmet
+12901,732-11-6,mammal (species unspecified),LD50,unreported,40,,"Chemistry of Pesticides, Melnikov, N.N., New York, Springer-Verlag New York, Inc., 1971, -(370), 1971",Phosmet
+12901,732-11-6,bird - wild,LD50,oral,18,,"Toxicology and Applied Pharmacology., 21(315), 1972 [PMID:5027965]",Phosmet
+12901,732-11-6,rat,LD50,unreported,132,,"Gigiena i Sanitariya.  For English translation, see HYSAAV., 35(12)(94), 1970",Phosmet
+12932,741-58-2,rat,LD50,oral,271,,"Farm Chemicals Handbook., -(C42), 1991",Bensulide
+12932,741-58-2,rat,LD50,skin,3950,,"Pesticide Manual., 9(63), 1991",Bensulide
+12932,741-58-2,rat,LD50,unreported,770,,"Chemistry of Pesticides, Melnikov, N.N., New York, Springer-Verlag New York, Inc., 1971, -(375), 1971",Bensulide
+12932,741-58-2,mouse,LD50,oral,1540,,"Japan Pesticide Information., (27)(11), 1976",Bensulide
+12932,741-58-2,mouse,LD50,intraperitoneal,630,,"Japan Pesticide Information., (27)(11), 1976",Bensulide
+12932,741-58-2,mouse,LD50,subcutaneous,630,,"Japan Pesticide Information., (27)(11), 1976",Bensulide
+12932,741-58-2,quail,LD50,oral,1386,,"Pesticide Manual., 9(63), 1991",Bensulide
+12968,759-94-4,rat,LD50,oral,916,,"National Technical Information Service., PB82-913299",S-Ethyl dipropylthiocarbamate
+12968,759-94-4,rat,LD50,skin,3200,,"Gigiena i Sanitariya.  For English translation, see HYSAAV., 36(2)(29), 1971",S-Ethyl dipropylthiocarbamate
+12968,759-94-4,rat,LD50,unreported,1660,,"Environmental Quality and Safety, Supplement., 3(618), 1975 [PMID:1063688]",S-Ethyl dipropylthiocarbamate
+12968,759-94-4,mouse,LD50,oral,750,,"Hygiene and Sanitation, 36(1-3)(196), 1971",S-Ethyl dipropylthiocarbamate
+12968,759-94-4,mouse,LD50,intraperitoneal,58,,"Journal of Agricultural and Food Chemistry., 25(404), 1977 [PMID:838982]",S-Ethyl dipropylthiocarbamate
+12968,759-94-4,mouse,LD50,intravenous,320,,"U.S. Army Armament Research & Development Command, Chemical Systems Laboratory, NIOSH Exchange Chemicals., NX#03907",S-Ethyl dipropylthiocarbamate
+12968,759-94-4,cat,LD50,oral,112,,"Hygiene and Sanitation, 36(1-3)(196), 1971",S-Ethyl dipropylthiocarbamate
+12968,759-94-4,rabbit,LD50,oral,2640,,"Prehled Prumyslove Toxikologie; Organicke Latky, Marhold, J., Prague, Czechoslovakia, Avicenum, 1986, -(1020), 1986",S-Ethyl dipropylthiocarbamate
+12968,759-94-4,rabbit,LD50,skin,1460,,"World Review of Pest Control., 9(119), 1970",S-Ethyl dipropylthiocarbamate
+12968,759-94-4,mammal (species unspecified),LD50,unreported,1660,,"Gigiena i Sanitariya.  For English translation, see HYSAAV., 45(5)(29), 1980",S-Ethyl dipropylthiocarbamate
+12968,759-94-4,bird - wild,LD50,oral,100,,"Toxicology and Applied Pharmacology., 21(315), 1972 [PMID:5027965]",S-Ethyl dipropylthiocarbamate
+13081,786-19-6,rat,LD50,skin,27,BEHAVIORAL: TREMOR; BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; BEHAVIORAL: EXCITEMENT,"Toxicology and Applied Pharmacology., 2(88), 1960 [PMID:13825957]",Carbophenothion
+13081,786-19-6,rat,LD50,intraperitoneal,6,,"Advances in Pest Control Research., 4(117), 1961",Carbophenothion
+13081,786-19-6,mouse,LD50,oral,218,,"Agricultural Research Service, USDA Information Memorandum., 20(6), 1966",Carbophenothion
+13081,786-19-6,mouse,LD50,intraperitoneal,27,,"Proceedings of the Society for Experimental Biology and Medicine., 129(699), 1968 [PMID:5725078]",Carbophenothion
+13081,786-19-6,rabbit,LD50,oral,1250,,"Special Publication of the Entomological Society of America., 78-1(40), 1978",Carbophenothion
+13081,786-19-6,rabbit,LD50,skin,1270,,"Pesticide Chemicals Official Compendium, Association of the American Pesticide Control Officials, Inc., 1966., -(200), 1966",Carbophenothion
+13081,786-19-6,chicken,LD50,oral,57200,PERIPHERAL NERVE AND SENSATION: SPASTIC PARALYSIS WITH OR WITHOUT SENSORY CHANGE; BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; BEHAVIORAL: ATAXIA,"Toxicology and Applied Pharmacology., 11, 49",Carbophenothion
+13081,786-19-6,domestic animals - goat/sheep,LD50,oral,14,,"Ecotoxicology and Environmental Safety., 2(151), 1978 [PMID:729517]",Carbophenothion
+13081,786-19-6,chicken,LD50,subcutaneous,640,"PERIPHERAL NERVE AND SENSATION: FLACCID PARALYSIS WITHOUT ANESTHESIA (USUALLY NEUROMUSCULAR BLOCKAGE); BEHAVIORAL: FOOD INTAKE (ANIMAL); GASTROINTESTINAL: HYPERMOTILITY, DIARRHEA","Biochemical Pharmacology., 12(1377), 1963 [PMID:14096425]",Carbophenothion
+135491728,99129-21-2,rat,LD50,oral,1360,,"Farm Chemicals Handbook., -(C272), 1991",Clethodim
+135491830,74051-80-2,rat,LD50,oral,3200,,"Farm Chemicals Handbook., -(C274), 1991",Sethoxydim
+135491830,74051-80-2,rat,LD50,intraperitoneal,1493,,"Defense des Vegetaux., 38(213), 1984",Sethoxydim
+135491830,74051-80-2,rat,LD50,intravenous,505,,"Japan Pesticide Information., (41)(18), 1982",Sethoxydim
+135491830,74051-80-2,mouse,LD50,oral,5600,,"Japan Pesticide Information., (41)(18), 1982",Sethoxydim
+135491830,74051-80-2,mouse,LD50,intravenous,485,,"Japan Pesticide Information., (41)(18), 1982",Sethoxydim
+135491830,74051-80-2,rabbit,LD50,oral,4600,,"Defense des Vegetaux., 38(213), 1984",Sethoxydim
+13709,950-37-8,man,TDLo,oral,93,SENSE ORGANS AND SPECIAL SENSES: MIOSIS (PUPILLARY CONSTRICTION): EYE; SENSE ORGANS AND SPECIAL SENSES: LACRIMATION: EYE; BEHAVIORAL: COMA,"Human & Experimental Toxicology., 9(415), 1990 [PMID:2271234]",Methidathion
+13709,950-37-8,rat,LD50,oral,20,,"World Review of Pest Control., 9(119), 1970",Methidathion
+13709,950-37-8,rat,LD50,skin,25,,"World Review of Pest Control., 9(119), 1970",Methidathion
+13709,950-37-8,mouse,LD50,oral,25,,"Bulletin of the Entomological Society of America., 15(122), 1969",Methidathion
+13709,950-37-8,rabbit,LD50,oral,63,,"Agrochemicals Handbook, with updates, Hartley, D., and H. Kidd, eds., Nottingham, Royal Soc of Chemistry, 1983-86, A268(1983)",Methidathion
+13709,950-37-8,rabbit,LD50,skin,196,,Ciba-Geigy Toxicology Data/Indexes.,Methidathion
+13709,950-37-8,guinea pig,LD50,oral,25,,"Agrochemicals Handbook, with updates, Hartley, D., and H. Kidd, eds., Nottingham, Royal Soc of Chemistry, 1983-86, A268(1983)",Methidathion
+13709,950-37-8,chicken,LD50,oral,80,,"Agrochemicals Handbook, with updates, Hartley, D., and H. Kidd, eds., Nottingham, Royal Soc of Chemistry, 1983-86, A268(1983)",Methidathion
+13709,950-37-8,mammal (species unspecified),LD50,oral,25,,"Herba Polonica., 21(53), 1975",Methidathion
+13709,950-37-8,mammal (species unspecified),LD50,unreported,25,,"Chemistry of Pesticides, Melnikov, N.N., New York, Springer-Verlag New York, Inc., 1971, -(372), 1971",Methidathion
+14337,1134-23-2,rat,LD50,oral,1678,,"Fundamental and Applied Toxicology., 7(299), 1986",Cycloate
+14337,1134-23-2,rat,LD50,skin,2467,,"Fundamental and Applied Toxicology., 7(299), 1986",Cycloate
+14337,1134-23-2,rat,LD50,unreported,2325,,"Environmental Quality and Safety, Supplement., 3(618), 1975 [PMID:1063688]",Cycloate
+14337,1134-23-2,mouse,LD50,oral,1275,BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: MUSCLE CONTRACTION OR SPASTICITY); BEHAVIORAL: COMA,"Gigiena i Sanitariya.  For English translation, see HYSAAV., 51(10)(77), 1986",Cycloate
+14337,1134-23-2,mouse,LD50,unreported,2300,,"Tsitologiya i Genetika.  Cytology and Genetics.  For English translation, see CYGEDX., 16(1)(45), 1982",Cycloate
+14337,1134-23-2,guinea pig,LD50,oral,1600,BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: MUSCLE CONTRACTION OR SPASTICITY); BEHAVIORAL: COMA,"Gigiena i Sanitariya.  For English translation, see HYSAAV., 51(10)(77), 1986",Cycloate
+14337,1134-23-2,mammal (species unspecified),LD50,unreported,2300,,"Gigiena i Sanitariya.  For English translation, see HYSAAV., 45(5)(29), 1980",Cycloate
+1486,94-75-7,man,TDLo,oral,5714,"BEHAVIORAL: COMA; CARDIAC: CHANGE IN RATE; LUNGS, THORAX, OR RESPIRATION: RESPIRATORY DEPRESSION","Archives of Toxicology., 66(518), 1992 [PMID:1444815]","2,4-Dichlorophenoxyacetic acid"
+1486,94-75-7,human,LDLo,oral,80,GASTROINTESTINAL: NAUSEA OR VOMITING; BEHAVIORAL: COMA; BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY),"Archives of Pathology., 94(270), 1972 [PMID:5051650]","2,4-Dichlorophenoxyacetic acid"
+1486,94-75-7,rat,LD50,oral,375,,"Farm Chemicals Handbook., -(C174), 1991","2,4-Dichlorophenoxyacetic acid"
+1486,94-75-7,rat,LD50,skin,1500,,"World Review of Pest Control., 9(119), 1970","2,4-Dichlorophenoxyacetic acid"
+1486,94-75-7,rat,LD50,intraperitoneal,666,PERIPHERAL NERVE AND SENSATION: SPASTIC PARALYSIS WITH OR WITHOUT SENSORY CHANGE; BEHAVIORAL: MUSCLE WEAKNESS; BEHAVIORAL: COMA,"Journal of Industrial Hygiene and Toxicology., 29(85), 1947","2,4-Dichlorophenoxyacetic acid"
+1486,94-75-7,mouse,LD50,oral,347,,"Roczniki Panstwowego Zakladu Higieny., 31(373), 1980 [PMID:7433826]","2,4-Dichlorophenoxyacetic acid"
+1486,94-75-7,mouse,LDLo,intraperitoneal,125,,"Toxicology and Applied Pharmacology., 23(288), 1972 [PMID:5074577]","2,4-Dichlorophenoxyacetic acid"
+1486,94-75-7,dog,LD50,oral,100,BEHAVIORAL: STIFFNESS; BEHAVIORAL: COMA,"Archives of Environmental Health., 7(202), 1963","2,4-Dichlorophenoxyacetic acid"
+1486,94-75-7,rabbit,LDLo,oral,800,,"Archives des Maladies Professionnelles de Medecine du Travail et de Securite Sociale., 12(26), 1951 [PMID:14820443]","2,4-Dichlorophenoxyacetic acid"
+1486,94-75-7,rabbit,LD50,skin,1400,BEHAVIORAL: ATAXIA; SKIN AND APPENDAGES (SKIN): PRIMARY IRRITATION: AFTER TOPICAL EXPOSURE,"Quarterly Bulletin--Association of Food and Drug Officials of the United States., 16(3), 1952","2,4-Dichlorophenoxyacetic acid"
+1486,94-75-7,rabbit,LD50,intraperitoneal,400,PERIPHERAL NERVE AND SENSATION: SPASTIC PARALYSIS WITH OR WITHOUT SENSORY CHANGE; BEHAVIORAL: MUSCLE WEAKNESS; BEHAVIORAL: COMA,"Journal of Industrial Hygiene and Toxicology., 29(85), 1947","2,4-Dichlorophenoxyacetic acid"
+1486,94-75-7,rabbit,LD50,intravenous,400,PERIPHERAL NERVE AND SENSATION: SPASTIC PARALYSIS WITH OR WITHOUT SENSORY CHANGE; BEHAVIORAL: MUSCLE WEAKNESS; BEHAVIORAL: COMA,"Journal of Industrial Hygiene and Toxicology., 29(85), 1947","2,4-Dichlorophenoxyacetic acid"
+1486,94-75-7,guinea pig,LD50,intraperitoneal,666,PERIPHERAL NERVE AND SENSATION: SPASTIC PARALYSIS WITH OR WITHOUT SENSORY CHANGE; BEHAVIORAL: MUSCLE WEAKNESS; BEHAVIORAL: COMA,"Journal of Industrial Hygiene and Toxicology., 29(85), 1947","2,4-Dichlorophenoxyacetic acid"
+1486,94-75-7,hamster,LD50,oral,500,,"Toxicology and Applied Pharmacology., 48(A192), 1979","2,4-Dichlorophenoxyacetic acid"
+1486,94-75-7,mammal (species unspecified),LD50,oral,375,,"Science., 165(465), 1969","2,4-Dichlorophenoxyacetic acid"
+1486,94-75-7,guinea pig,LD50,oral,469,,"American Journal of Veterinary Research., 15(622), 1954 [PMID:13207589]","2,4-Dichlorophenoxyacetic acid"
+1486,94-75-7,chicken,LD50,oral,541,GASTROINTESTINAL: GASTRITIS; BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); LIVER: FATTY LIVER DEGERATION,"American Journal of Veterinary Research., 15(622), 1954 [PMID:13207589]","2,4-Dichlorophenoxyacetic acid"
+1486,94-75-7,man,LDLo,oral,93,BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD,"Pharmacological Reviews., 14(225), 1962 [PMID:13883209]","2,4-Dichlorophenoxyacetic acid"
+1489,94-82-6,rat,LD50,oral,700,,"Residue Reviews., 10(97), 1965 [PMID:4865270]","4-(2,4-Dichlorophenoxy)butanoic acid"
+1489,94-82-6,rat,LD50,skin,800,,"World Review of Pest Control., 9(119), 1970","4-(2,4-Dichlorophenoxy)butanoic acid"
+1489,94-82-6,mouse,LDLo,oral,750,,"Gigiena i Sanitariya.  For English translation, see HYSAAV., 29(1)(12), 1964","4-(2,4-Dichlorophenoxy)butanoic acid"
+15331,1596-84-5,rat,LD50,oral,8400,,"Farm Chemicals Handbook., -(C94), 1991",Daminozide
+15331,1596-84-5,mouse,LD50,oral,6300,,"Materialy Nauchnoi Konferentsii Kaunasskogo Meditsinskogo Inst., 22nd, 1972, Materials of the Scientific Conference of Kaunas Medical Institute, Vaichyuvenas, V.A., ed., Kaunas, USSR, Kaunasskii Meditsinskii Institut, 1973, 22(126), 1973",Daminozide
+15331,1596-84-5,mouse,LD50,intraperitoneal,1325,,"Materialy Nauchnoi Konferentsii Kaunasskogo Meditsinskogo Inst., 22nd, 1972, Materials of the Scientific Conference of Kaunas Medical Institute, Vaichyuvenas, V.A., ed., Kaunas, USSR, Kaunasskii Meditsinskii Institut, 1973, 22(126), 1973",Daminozide
+15331,1596-84-5,mammal (species unspecified),LD50,unreported,8400,,"Chemistry of Pesticides, Melnikov, N.N., New York, Springer-Verlag New York, Inc., 1971, -(127), 1971",Daminozide
+153909,101200-48-0,quail,LD50,oral,2250,,"Pesticide Manual., 9(840), 1991",Tribenuron-methyl
+15531,1689-84-5,rat,LD50,skin,2,,"Pesticide Manual., 9(100), 1991",Bromoxynil
+15531,1689-84-5,mouse,LD50,oral,110,,"Guide to the Chemicals Used in Crop Protection., 6(55), 1973",Bromoxynil
+15531,1689-84-5,mouse,LD50,intravenous,56,,"U.S. Army Armament Research & Development Command, Chemical Systems Laboratory, NIOSH Exchange Chemicals., NX#02212",Bromoxynil
+15531,1689-84-5,dog,LD50,oral,100,,"Agrochemicals Handbook, with updates, Hartley, D., and H. Kidd, eds., Nottingham, Royal Soc of Chemistry, 1983-86, A045(1983)",Bromoxynil
+15531,1689-84-5,rabbit,LD50,oral,260,,"Wirksubstanzen der Pflanzenschutz und Schadlingsbekampfungsmittel, Perkow, W., Berlin, Verlag Paul Parey, 1971-1976, -(-), 1971/1976",Bromoxynil
+15531,1689-84-5,rabbit,LD50,skin,3660,,"Pesticide Manual., 9(100), 1991",Bromoxynil
+15531,1689-84-5,guinea pig,LD50,oral,63,,"Guide to the Chemicals Used in Crop Protection., 6(55), 1973",Bromoxynil
+15531,1689-84-5,chicken,LD50,oral,240,,"Pesticide Manual., 9(100), 1991",Bromoxynil
+15531,1689-84-5,duck,LD50,oral,200,,"Down to Earth., 35(25), 1979",Bromoxynil
+15531,1689-84-5,mammal (species unspecified),LD50,unreported,190,,"Chemistry of Pesticides, Melnikov, N.N., New York, Springer-Verlag New York, Inc., 1971, -(150), 1971",Bromoxynil
+15531,1689-84-5,bird - wild,LD50,oral,50,,"Pesticide Manual., 9(100), 1991",Bromoxynil
+15531,1689-84-5,rat,LD50,oral,190,,"World Review of Pest Control., 9(119), 1970",Bromoxynil
+15553,1702-17-6,rat,LD50,oral,4300,,"Agrochemicals Handbook, with updates, Hartley, D., and H. Kidd, eds., Nottingham, Royal Soc of Chemistry, 1983-86, A433(1985)",Clopyralid
+15553,1702-17-6,rat,LD50,intraperitoneal,900,,"Defense des Vegetaux., 31(387), 1977",Clopyralid
+15553,1702-17-6,duck,LD50,oral,1465,,"Pesticide Manual., 9(182), 1991",Clopyralid
+15910,1897-45-6,rat,LD50,skin,2500,,"Fundamental and Applied Toxicology., 7(299), 1986",Chlorothalonil
+15910,1897-45-6,mouse,LD50,oral,3700,,"Hokkaidoritsu Eisei Kenkyushoho.  Report of the Hokkaido Institute of Public Health., 30(53), 1980",Chlorothalonil
+15939,4685-14-7,man,LDLo,oral,171,"LUNGS, THORAX, OR RESPIRATION: FIBROSIS, FOCAL (PNEUMOCONIOSIS); GASTROINTESTINAL: CHANGE IN STRUCTURE OR FUNCTION OF ESOPHAGUS; GASTROINTESTINAL: ULCERATION OR BLEEDING FROM STOMACH","Journal of Toxicology, Clinical Toxicology., 26(35), 1988 [PMID:3385847]",Paraquat
+15939,4685-14-7,man,LDLo,oral,1690,"LUNGS, THORAX, OR RESPIRATION: RESPIRATORY DEPRESSION; GASTROINTESTINAL: ULCERATION OR BLEEDING FROM STOMACH; KIDNEY, URETER, AND BLADDER: RENAL FUNCTION TESTS DEPRESSED","Journal of Toxicology, Clinical Toxicology., 26(35), 1988 [PMID:3385847]",Paraquat
+15939,4685-14-7,rat,LD50,oral,100,,"Iyakuhin Kenkyu.  Study of Medical Supplies., 10(520), 1979",Paraquat
+15939,4685-14-7,rat,LD50,unreported,250,BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; BEHAVIORAL: CHANGES IN MOTOR ACTIVITY (SPECIFIC ASSAY),"Gigiena Naselennykh Mest.  Hygiene in Populated Places., 17(37), 1978",Paraquat
+15939,4685-14-7,mouse,LD50,oral,120,,"General Pharmacology., 14(541), 1983 [PMID:6642196]",Paraquat
+15939,4685-14-7,mouse,LD50,unreported,198,BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; BEHAVIORAL: CHANGES IN MOTOR ACTIVITY (SPECIFIC ASSAY),"Gigiena Naselennykh Mest.  Hygiene in Populated Places., 17(37), 1978",Paraquat
+15939,4685-14-7,dog,LD50,oral,25,,"Iyakuhin Kenkyu.  Study of Medical Supplies., 10(520), 1979",Paraquat
+15939,4685-14-7,cat,LD50,oral,35,,"Iyakuhin Kenkyu.  Study of Medical Supplies., 10(520), 1979",Paraquat
+15939,4685-14-7,rabbit,LD50,skin,236,,"Pesticide Manual., 9(646), 1991",Paraquat
+15939,4685-14-7,guinea pig,LD50,oral,30,,"Iyakuhin Kenkyu.  Study of Medical Supplies., 10(520), 1979",Paraquat
+15939,4685-14-7,chicken,LD50,oral,262,,"Pesticide Manual., 9(646), 1991",Paraquat
+15939,4685-14-7,mammal (species unspecified),LD50,oral,70,,"Pesticide Manual., 9(646), 1991",Paraquat
+15939,4685-14-7,man,LDLo,oral,343,"GASTROINTESTINAL: CHANGE IN STRUCTURE OR FUNCTION OF ESOPHAGUS; GASTROINTESTINAL: ULCERATION OR BLEEDING FROM STOMACH; KIDNEY, URETER, AND BLADDER: RENAL FUNCTION TESTS DEPRESSED","Journal of Toxicology, Clinical Toxicology., 26(35), 1988 [PMID:3385847]",Paraquat
+15939,4685-14-7,man,LDLo,oral,200,"LUNGS, THORAX, OR RESPIRATION: RESPIRATORY DEPRESSION; KIDNEY, URETER, AND BLADDER: RENAL FUNCTION TESTS DEPRESSED","Medical Journal of Australia., 158(28), 1993 [PMID:8417286]",Paraquat
+15965,1918-02-01,rat,LD50,oral,8200,,"Down to Earth., 35(25), 1979",Picloram
+16248,2032-65-7,rat,LD50,oral,20,,"Farm Chemicals Handbook., -(C199), 1991",Methiocarb
+16248,2032-65-7,rat,LD50,skin,350,,"Pesticide Chemicals Official Compendium, Association of the American Pesticide Control Officials, Inc., 1966., -(105), 1966",Methiocarb
+16248,2032-65-7,rat,LD50,unreported,100,,"Chemistry of Pesticides, Melnikov, N.N., New York, Springer-Verlag New York, Inc., 1971, -(194), 1971",Methiocarb
+16248,2032-65-7,mouse,LD50,intraperitoneal,16,,"Toxicology and Applied Pharmacology., 6(402), 1964",Methiocarb
+16248,2032-65-7,mouse,LD50,subcutaneous,940,,"Toho Igakkai Zasshi.  Journal of Medical Society of Toho University., 17(60), 1970",Methiocarb
+16248,2032-65-7,guinea pig,LD50,oral,40,,"Wirksubstanzen der Pflanzenschutz und Schadlingsbekampfungsmittel, Perkow, W., Berlin, Verlag Paul Parey, 1971-1976, -(-), 1971/1976",Methiocarb
+16248,2032-65-7,pigeon,LD50,oral,13,,"Toxicology and Applied Pharmacology., 21(315), 1972 [PMID:5027965]",Methiocarb
+16248,2032-65-7,chicken,LD50,oral,179,BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD,"Toxicology and Applied Pharmacology., 7(606), 1965 [PMID:5839395]",Methiocarb
+16248,2032-65-7,duck,LD50,oral,13,,"Toxicology and Applied Pharmacology., 21(315), 1972 [PMID:5027965]",Methiocarb
+16248,2032-65-7,bird - wild,LD50,skin,100,,"Toxicology and Applied Pharmacology., 26(154), 1973 [PMID:4748134]",Methiocarb
+16562,2164-17-2,rat,LD50,oral,1450,,"Farmakologiya i Toksikologiya, 35(352), 1972 [PMID:5047307]",Fluometuron
+16562,2164-17-2,rat,LD50,intraperitoneal,685,,"Proceedings of the European Society of Toxicology., 17(351), 1976",Fluometuron
+16562,2164-17-2,mouse,LD50,oral,900,"BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: COMA; LUNGS, THORAX, OR RESPIRATION: RESPIRATORY STIMULATION","Ciba-Geigy Toxicology Data/Indexes., -(-), 1977",Fluometuron
+16562,2164-17-2,mouse,LD50,intraperitoneal,552,,"Proceedings of the European Society of Toxicology., 17(351), 1976",Fluometuron
+16562,2164-17-2,mouse,LD50,unreported,850,,"Chemistry of Pesticides, Melnikov, N.N., New York, Springer-Verlag New York, Inc., 1971, -(233), 1971",Fluometuron
+16562,2164-17-2,rabbit,LD50,oral,2500,,"Toxicometric Parameters of Industrial Toxic Chemicals Under Single Exposure, Izmerov, N.F., et al., Moscow, Centre of International Projects, GKNT, 1982, -(116), 1982",Fluometuron
+16562,2164-17-2,guinea pig,LD50,oral,810,,"Toxicometric Parameters of Industrial Toxic Chemicals Under Single Exposure, Izmerov, N.F., et al., Moscow, Centre of International Projects, GKNT, 1982, -(116), 1982",Fluometuron
+16683004,13356-08-6,rat,LD50,oral,2630,,"Agricultural Chemicals, Thomson, W.T., 4 vols., Fresno, CA, Thomson Publications, 1976/77 revision, 1(17), 1977",Fenbutatin oxide
+16683004,13356-08-6,mouse,LD50,oral,1450,,"Pesticide Manual., 9(364), 1991",Fenbutatin oxide
+16683004,13356-08-6,dog,LD50,oral,1500,,"Pesticide Manual., 9(364), 1991",Fenbutatin oxide
+16686,2227-17-0,rat,LD50,oral,1200,,"Agricultural Research Service, USDA Information Memorandum., 20(13), 1966",Dienochlor
+16686,2227-17-0,rat,LD50,unreported,3100,,"Chemistry of Pesticides, Melnikov, N.N., New York, Springer-Verlag New York, Inc., 1971, -(55), 1971",Dienochlor
+16686,2227-17-0,mouse,LD50,oral,16900,,"Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 15(511), 1990",Dienochlor
+16686,2227-17-0,quail,LD50,oral,705,,"Pesticide Manual., 9(271), 1991",Dienochlor
+17110,2439-10-03,rat,LD50,oral,660,"BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); GASTROINTESTINAL: HYPERMOTILITY, DIARRHEA; GASTROINTESTINAL: OTHER CHANGES","Toxicology and Applied Pharmacology., 3(127), 1961 [PMID:13761521]",Dodine
+17110,2439-10-03,rabbit,LD50,oral,535,,"Toxicometric Parameters of Industrial Toxic Chemicals Under Single Exposure, Izmerov, N.F., et al., Moscow, Centre of International Projects, GKNT, 1982, -(64), 1982",Dodine
+17110,2439-10-03,rabbit,LD50,skin,2100,"GASTROINTESTINAL: ULCERATION OR BLEEDING FROM STOMACH; BLOOD: HEMORRHAGE; SKIN AND APPENDAGES (SKIN): DERMATITIS, OTHER: AFTER SYSTEMIC EXPOSURE","Toxicology and Applied Pharmacology., 3(127), 1961 [PMID:13761521]",Dodine
+17110,2439-10-03,guinea pig,LD50,oral,176,,"Toxicometric Parameters of Industrial Toxic Chemicals Under Single Exposure, Izmerov, N.F., et al., Moscow, Centre of International Projects, GKNT, 1982, -(64), 1982",Dodine
+17110,2439-10-03,quail,LD50,oral,788,,"Pesticide Manual., 9(326), 1991",Dodine
+17110,2439-10-03,duck,LD50,oral,1142,,"Pesticide Manual., 9(326), 1991",Dodine
+17110,2439-10-03,mouse,LD50,oral,266,,"Toxicometric Parameters of Industrial Toxic Chemicals Under Single Exposure, Izmerov, N.F., et al., Moscow, Centre of International Projects, GKNT, 1982, -(64), 1982",Dodine
+17432,2593-15-9,rat,LD50,oral,1077,,"Pesticide Index, Frear, E.H., ed., State College, PA, College Science Pub., 1969, 5(110), 1976",Etridiazole
+17432,2593-15-9,dog,LD50,oral,5000,,"Toxicology and Applied Pharmacology., 19(400), 1971",Etridiazole
+17432,2593-15-9,rabbit,LD50,oral,779,,"Toxicology and Applied Pharmacology., 56(164), 1980 [PMID:7466816]",Etridiazole
+17432,2593-15-9,rabbit,LD50,skin,1700,,"Farm Chemicals Handbook., -(C131), 1991",Etridiazole
+19649,57-92-1,human,TDLo,oral,400,SENSE ORGANS AND SPECIAL SENSES: CHANGES IN VESTIBULAR FUNCTIONS: EAR,"Revue Medicale de la Suisse Romande., 73(854), 1953 [PMID:13135116]",Streptomycin
+19649,57-92-1,human,TDLo,intraperitoneal,143,"VASCULAR: BP LOWERING NOT CHARACTERIZED IN AUTONOMIC SECTION; LUNGS, THORAX, OR RESPIRATION: RESPIRATORY DEPRESSION; LUNGS, THORAX, OR RESPIRATION: OTHER CHANGES","British Medical Journal., 1(556), 1961",Streptomycin
+19649,57-92-1,human,TDLo,parenteral,28,BLOOD: EOSINOPHILIA,"Revue Medicale de la Suisse Romande., 73(820), 1953 [PMID:13135114]",Streptomycin
+19649,57-92-1,rat,LDLo,subcutaneous,600,,"Antibiotics: Origin, Nature, and Properties, Korzyoski, T., et al., eds., Washington, DC, American Soc. for Microbiology, 1978, 1(570), 1978",Streptomycin
+19649,57-92-1,rat,LDLo,intravenous,175,,"Antibiotics: Origin, Nature, and Properties, Korzyoski, T., et al., eds., Washington, DC, American Soc. for Microbiology, 1978, 1(570), 1978",Streptomycin
+19649,57-92-1,mouse,LD50,oral,500,,"Yakkyoku.  Pharmacy., 38(1493), 1987",Streptomycin
+19649,57-92-1,mouse,LD50,subcutaneous,520,,"British Journal of Pharmacology and Chemotherapy., 15(496), 1960 [PMID:13681273]",Streptomycin
+19649,57-92-1,mouse,LD50,unreported,90,,"Arzneimittel-Forschung. Drug Research., 5(213), 1955 [PMID:14389152]",Streptomycin
+19649,57-92-1,dog,LDLo,subcutaneous,300,,"Antibiotics: Origin, Nature, and Properties, Korzyoski, T., et al., eds., Washington, DC, American Soc. for Microbiology, 1978, 1(570), 1978",Streptomycin
+19649,57-92-1,monkey,LDLo,subcutaneous,400,,"Antibiotics: Origin, Nature, and Properties, Korzyoski, T., et al., eds., Washington, DC, American Soc. for Microbiology, 1978, 1(570), 1978",Streptomycin
+19649,57-92-1,cat,LDLo,subcutaneous,600,,"Antibiotics: Origin, Nature, and Properties, Korzyoski, T., et al., eds., Washington, DC, American Soc. for Microbiology, 1978, 1(570), 1978",Streptomycin
+19649,57-92-1,cat,LDLo,intravenous,150,,"Antibiotics: Origin, Nature, and Properties, Korzyoski, T., et al., eds., Washington, DC, American Soc. for Microbiology, 1978, 1(570), 1978",Streptomycin
+19649,57-92-1,rabbit,LDLo,subcutaneous,600,,"Antibiotics: Origin, Nature, and Properties, Korzyoski, T., et al., eds., Washington, DC, American Soc. for Microbiology, 1978, 1(570), 1978",Streptomycin
+19649,57-92-1,rabbit,LDLo,intravenous,175,,"Naturwissenschaften., 43(183), 1956",Streptomycin
+19649,57-92-1,guinea pig,LDLo,subcutaneous,600,,"Antibiotics: Origin, Nature, and Properties, Korzyoski, T., et al., eds., Washington, DC, American Soc. for Microbiology, 1978, 1(570), 1978",Streptomycin
+19649,57-92-1,mouse,LD50,intraperitoneal,525,,"Strahlentherapie., 127(245), 1965 [PMID:5834417]",Streptomycin
+1982,30560-19-1,rat,LD50,oral,700,,"United States Patent Document., #3716600",Acephate
+1982,30560-19-1,rat,LD50,skin,2500,,"Fundamental and Applied Toxicology., 7(299), 1986",Acephate
+1982,30560-19-1,mouse,LD50,oral,233,,"Zhonghua Yufangyixue Zazhi.  Chinese Journal of Preventive Medicine., 14(226), 1980 [PMID:7238189]",Acephate
+1982,30560-19-1,dog,LDLo,oral,681,,"Guide to the Chemicals Used in Crop Protection., 6(1), 1973",Acephate
+1982,30560-19-1,chicken,LD50,oral,800,,"Neurotoxicology., 11(483), 1990 [PMID:2284053]",Acephate
+1982,30560-19-1,chicken,LD50,unreported,568,,"Defense des Vegetaux., 28(231), 1974",Acephate
+1982,30560-19-1,duck,LD50,oral,350,,"Pesticide Index, Frear, E.H., ed., State College, PA, College Science Pub., 1969, 5(4), 1976",Acephate
+1982,30560-19-1,bird - wild,LD50,oral,140,,"Pesticide Manual., 9(4), 1991",Acephate
+1982,30560-19-1,mammal (species unspecified),LD50,oral,321,,"Archives of Environmental Contamination and Toxicology., 13(483), 1984 [PMID:6380419]",Acephate
+1982,30560-19-1,bird - domestic,LD50,oral,106,"BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; BEHAVIORAL: ATAXIA; LUNGS, THORAX, OR RESPIRATION: DYSPNEA","Archives of Environmental Contamination and Toxicology., 10(185), 1981 [PMID:7224670]",Acephate
+1988,34256-82-1,rat,LD50,oral,763,,"Problemi na Khigienata.  Problems in Hygiene., 15(96), 1990 [PMID:2099469]",Acetochlor
+1988,34256-82-1,rat,LD50,intraperitoneal,1200,"BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; LUNGS, THORAX, OR RESPIRATION: DYSPNEA","Gigiena Truda i Professional'nye Zabolevaniya.  Labor Hygiene and Occupational Diseases., 29(12)(53), 1985",Acetochlor
+1988,34256-82-1,mouse,LD50,oral,1550,"BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; LUNGS, THORAX, OR RESPIRATION: DYSPNEA","Gigiena Truda i Professional'nye Zabolevaniya.  Labor Hygiene and Occupational Diseases., 29(12)(53), 1985",Acetochlor
+1988,34256-82-1,rabbit,LD50,oral,600,,"Gigiena i Sanitariya.  For English translation, see HYSAAV., 53(5)(84), 1988",Acetochlor
+1988,34256-82-1,rabbit,LDLo,skin,1260,BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: FOOD INTAKE (ANIMAL); LIVER: OTHER CHANGES,"National Technical Information Service., OTS0536766",Acetochlor
+2078,15972-60-8,rat,LD50,oral,930,,"Toxicology and Industrial Health., 3(383), 1987 [PMID:3686540]",Alachlor
+2078,15972-60-8,rat,LD50,skin,1200,,"Yakkyoku.  Pharmacy., 38(89), 1987",Alachlor
+2078,15972-60-8,rat,LDLo,intraperitoneal,600,LIVER: OTHER CHANGES,"Toxicologist., 48(392), 1999",Alachlor
+2078,15972-60-8,mouse,LD50,oral,462,,"Gigiena Truda i Professional'nye Zabolevaniya.  Labor Hygiene and Occupational Diseases., 21(12)(30), 1977",Alachlor
+2078,15972-60-8,rabbit,LD50,oral,1740,,"Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 24(75), 1999",Alachlor
+2078,15972-60-8,rabbit,LD50,skin,3500,,"Guide to the Chemicals Used in Crop Protection., 6(3), 1973",Alachlor
+2078,15972-60-8,mammal (species unspecified),LD50,unreported,1200,,"Chemistry of Pesticides, Melnikov, N.N., New York, Springer-Verlag New York, Inc., 1971, -(126), 1971",Alachlor
+21307,5234-68-4,rat,LD50,oral,430,BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: MUSCLE CONTRACTION OR SPASTICITY),"Gigiena Truda i Professional'nye Zabolevaniya.  Labor Hygiene and Occupational Diseases., 23(2)(55), 1979",Carboxin
+21307,5234-68-4,rat,LD50,skin,1050,,"Gigiena Truda i Professional'nye Zabolevaniya.  Labor Hygiene and Occupational Diseases., 23(2)(55), 1979",Carboxin
+21307,5234-68-4,mouse,LD50,oral,3200,BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: MUSCLE CONTRACTION OR SPASTICITY),"Gigiena Truda i Professional'nye Zabolevaniya.  Labor Hygiene and Occupational Diseases., 23(2)(55), 1979",Carboxin
+21307,5234-68-4,mammal (species unspecified),LD50,unreported,3200,,"Chemistry of Pesticides, Melnikov, N.N., New York, Springer-Verlag New York, Inc., 1971, -(423), 1971",Carboxin
+21873022,81405-85-8,rabbit,LD50,oral,4500,,"Weeds and Weed Control., 28(1), 1987",Imazamethabenz
+21954,123-33-1,rat,LD50,oral,3800,,"World Review of Pest Control., 9(119), 1970",Maleic hydrazide
+22188,5902-51-2,rat,LD50,parenteral,7500,,"Defense des Vegetaux., 26(5), 1972",Terbacil
+22188,5902-51-2,rat,LD50,oral,1700,"BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); LUNGS, THORAX, OR RESPIRATION: DYSPNEA; SKIN AND APPENDAGES (SKIN): HAIR: OTHER","National Technical Information Service., OTS0570807",Terbacil
+2328,25057-89-0,rat,LD50,oral,1100,,"Guide to the Chemicals Used in Crop Protection., 6(36), 1973",Bentazone
+2328,25057-89-0,rat,LD50,skin,2500,,"Wirksubstanzen der Pflanzenschutz und Schadlingsbekampfungsmittel, Perkow, W., Berlin, Verlag Paul Parey, 1971-1976, -(-), 1971/1976",Bentazone
+2328,25057-89-0,rat,LD50,parenteral,1100,,"Defense des Vegetaux., 26(5), 1972",Bentazone
+2328,25057-89-0,mouse,LD50,oral,1130,,"Yakkyoku.  Pharmacy., 37(319), 1986",Bentazone
+2328,25057-89-0,dog,LD50,oral,450,,"Pesticide Science., 3(242a), 1972",Bentazone
+2328,25057-89-0,cat,LD50,oral,500,,"Guide to the Chemicals Used in Crop Protection., 6(36), 1973",Bentazone
+2328,25057-89-0,rabbit,LD50,oral,750,,"Wirksubstanzen der Pflanzenschutz und Schadlingsbekampfungsmittel, Perkow, W., Berlin, Verlag Paul Parey, 1971-1976, -(-), 1971/1976",Bentazone
+2328,25057-89-0,quail,LD50,oral,720,,"Guide to the Chemicals Used in Crop Protection., 6(36), 1973",Bentazone
+23664719,2163-80-6,rat,LD50,oral,700,,"Farm Chemicals Handbook., -(C211), 1991",Monosodium methanearsonate
+23664719,2163-80-6,rabbit,LD50,oral,102,"BEHAVIORAL: MUSCLE WEAKNESS; GASTROINTESTINAL: HYPERMOTILITY, DIARRHEA; KIDNEY, URETER, AND BLADDER: URINE VOLUME DECREASED","Bulletin of Environmental Contamination and Toxicology., 40(119), 1988 [PMID:3345356]",Monosodium methanearsonate
+23664719,2163-80-6,rabbit,LD50,skin,2500,,"Farm Chemicals Handbook., -(C211), 1991",Monosodium methanearsonate
+23664719,2163-80-6,cattle,LD50,oral,230,,"Bulletin of Environmental Contamination and Toxicology., 40(119), 1988 [PMID:3345356]",Monosodium methanearsonate
+23664719,2163-80-6,mammal (species unspecified),LD50,unreported,50,,"Chemistry of Pesticides, Melnikov, N.N., New York, Springer-Verlag New York, Inc., 1971, -(260), 1971",Monosodium methanearsonate
+23664719,2163-80-6,mouse,LD50,oral,300,,"Bulletin of Environmental Contamination and Toxicology., 22(143), 1979 [PMID:465771]",Monosodium methanearsonate
+23665571,143-18-0,rat,LC50,inhalation,5610,,"Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 24(424), 1999",Potassium oleate
+23978,7440-50-8,rabbit,LDLo,subcutaneous,375,"LIVER: HEPATITIS (HEPATOCELLULAR NECROSIS), ZONAL; LIVER: OTHER CHANGES; KIDNEY, URETER, AND BLADDER: OTHER CHANGES","American Journal of Pathology., 1(117), 1925",Copper
+23994,7440-66-6,duck,LDLo,oral,388,AUTONOMIC NERVOUS SYSTEM: OTHER (DIRECT) PARASYMPATHOMIMETIC; BEHAVIORAL: ATAXIA; BLOOD: CHANGES IN LEUCOCYTE (WBC) COUNT,"Journal of Wildlife Diseases., 36(111), 2000 [PMID:10682752]",Zinc
+24462,7758-98-7,man,LDLo,oral,857,GASTROINTESTINAL: NAUSEA OR VOMITING,"Archiv fuer Toxikologie., 17(20), 1958",Cupric Sulfate
+24462,7758-98-7,child,TDLo,oral,150,"KIDNEY, URETER, AND BLADDER: CHANGES IN TUBULES (INCLUDING ACUTE RENAL FAILURE, ACUTE TUBULAR NECROSIS); BLOOD: OTHER HEMOLYSIS WITH OR WITHOUT ANEMIA","American Journal of Diseases of Children., 131(149), 1977 [PMID:835530]",Cupric Sulfate
+24462,7758-98-7,human,LDLo,oral,50,"BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); KIDNEY, URETER, AND BLADDER: CHANGES IN TUBULES (INCLUDING ACUTE RENAL FAILURE, ACUTE TUBULAR NECROSIS); BLOOD: HEMORRHAGE","JAMA, Journal of the American Medical Association., 235(801), 1976",Cupric Sulfate
+24462,7758-98-7,rat,LD50,oral,300,,"Antifungal Compounds, Siegel, M.R., and H.D. Sisler, eds., 2 vols., New York, Marcel Dekker 1977, 1(507), 1977",Cupric Sulfate
+24462,7758-98-7,rat,LD50,intraperitoneal,20,BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD,"Indian Journal of Pharmacology., 23(153), 1991",Cupric Sulfate
+24462,7758-98-7,rat,LD50,subcutaneous,43,,"Proceedings of the European Society of Toxicology., 16(252), 1975",Cupric Sulfate
+24462,7758-98-7,rat,LD50,unreported,520,,"Gigiena Truda i Professional'nye Zabolevaniya.  Labor Hygiene and Occupational Diseases., 26(6)(21), 1982",Cupric Sulfate
+24462,7758-98-7,mouse,LD50,oral,369,BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD,"Indian Journal of Pharmacology., 23(153), 1991",Cupric Sulfate
+24462,7758-98-7,rabbit,LD50,intravenous,10,"BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; BEHAVIORAL: FOOD INTAKE (ANIMAL); GASTROINTESTINAL: HYPERMOTILITY, DIARRHEA","Journal of Industrial Hygiene and Toxicology., 31(301), 1949",Cupric Sulfate
+24462,7758-98-7,guinea pig,LDLo,intravenous,2,,"Environmental Quality and Safety, Supplement., 1(1), 1975 [PMID:1057514]",Cupric Sulfate
+24462,7758-98-7,frog,LDLo,intravenous,25,,"Handbook of Toxicology, 4 vols., Philadelphia, W.B. Saunders Co., 1956-59, 1(76), 1955",Cupric Sulfate
+24462,7758-98-7,human,TDLo,oral,11,"GASTROINTESTINAL: GASTRITIS; GASTROINTESTINAL: HYPERMOTILITY, DIARRHEA; GASTROINTESTINAL: NAUSEA OR VOMITING","Lancet., 2(700), 1960 [PMID:13750037]",Cupric Sulfate
+24743,13684-56-5,rat,LD50,oral,9600,,"Agricultural Chemicals, Thomson, W.T., 4 vols., Fresno, CA, Thomson Publications, 1976/77 revision, 2(92), 1977",Desmedipham
+24743,13684-56-5,mouse,LD50,oral,500,,"Pesticide Manual., 9(237), 1991",Desmedipham
+24743,13684-56-5,quail,LD50,oral,2480,,"Wirksubstanzen der Pflanzenschutz und Schadlingsbekampfungsmittel, Perkow, W., Berlin, Verlag Paul Parey, 1971-1976, -(-), 1971/1976",Desmedipham
+24744,13684-63-4,rat,LD50,skin,500,,"World Review of Pest Control., 9(119), 1970",Phenmedipham
+24744,13684-63-4,rat,LD50,unreported,800,,"Gigiena Truda i Professional'nye Zabolevaniya.  Labor Hygiene and Occupational Diseases., 26(6)(21), 1982",Phenmedipham
+25670,13071-79-9,quail,LD50,oral,15,"BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; BEHAVIORAL: ATAXIA; LUNGS, THORAX, OR RESPIRATION: DYSPNEA","Ecotoxicology and Environmental Safety., 8(551), 1984 [PMID:6510327]",Terbufos
+27189,15299-99-7,rabbit,LD50,skin,4640,,"Pesticide & Toxic Chemical News., 8(22), 1980",Napropamide
+2728,101-21-3,rat,LD50,oral,1200,"SENSE ORGANS AND SPECIAL SENSES: OTHER: EYE; BEHAVIORAL: ATAXIA; LUNGS, THORAX, OR RESPIRATION: RESPIRATORY DEPRESSION","Archives of Environmental Health., 19(621), 1969 [PMID:5350433]",Chlorpropham
+2728,101-21-3,rat,LD50,intraperitoneal,700,,"Comptes Rendus des Seances de la Societe de Biologie et de Ses Filiales., 175(496), 1981 [PMID:6457673]",Chlorpropham
+2728,101-21-3,rat,LD50,unreported,3350,,"Environmental Quality and Safety, Supplement., 3(618), 1975 [PMID:1063688]",Chlorpropham
+2728,101-21-3,mouse,LD50,oral,3650,,"Food Additives and Contaminants., 16(173), 1999 [PMID:10560570]",Chlorpropham
+2728,101-21-3,mouse,LD50,intraperitoneal,2600,,"Comptes Rendus des Seances de la Societe de Biologie et de Ses Filiales., 175(496), 1981 [PMID:6457673]",Chlorpropham
+2730,2921-88-2,man,TDLo,oral,300,PERIPHERAL NERVE AND SENSATION: PARESTHESIS; BEHAVIORAL: MUSCLE WEAKNESS; BEHAVIORAL: COMA,"Archives of Toxicology., 59(176), 1986 [PMID:2434058]",Chlorpyrifos
+2730,2921-88-2,rat,LD50,oral,82,,"Toxicology and Applied Pharmacology., 14(515), 1969 [PMID:5787520]",Chlorpyrifos
+2730,2921-88-2,rat,LD50,skin,202,,"Toxicology and Applied Pharmacology., 14(515), 1969 [PMID:5787520]",Chlorpyrifos
+2730,2921-88-2,rat,LD50,unreported,150,,"Chemistry of Pesticides, Melnikov, N.N., New York, Springer-Verlag New York, Inc., 1971, -(339), 1971",Chlorpyrifos
+2730,2921-88-2,mouse,LD50,oral,60,,"Journal of Environmental Science and Health, Part B: Pesticides, Food Contaminants, and Agricultural Wastes., 13(11), 1978 [PMID:75904]",Chlorpyrifos
+2730,2921-88-2,mouse,LD50,skin,120,,"Yakkyoku.  Pharmacy., 38(745), 1987",Chlorpyrifos
+2730,2921-88-2,guinea pig,LD50,oral,504,,"Farm Chemicals Handbook., -(C74), 1991",Chlorpyrifos
+2730,2921-88-2,guinea pig,LDLo,subcutaneous,100,,"Journal of Economic Entomology., 60(733), 1967",Chlorpyrifos
+2730,2921-88-2,pigeon,LD50,oral,10,,"ASTM Special Technical Publication., (680)(157), 1979",Chlorpyrifos
+2730,2921-88-2,duck,LD50,oral,76,,"Toxicology and Applied Pharmacology., 20(57), 1971 [PMID:5110827]",Chlorpyrifos
+2730,2921-88-2,mammal (species unspecified),LD50,unreported,163,,"Journal of Agricultural and Food Chemistry., 27(712), 1979",Chlorpyrifos
+2730,2921-88-2,bird - wild,LD50,oral,5,,"Toxicology and Applied Pharmacology., 21(315), 1972 [PMID:5027965]",Chlorpyrifos
+2730,2921-88-2,mouse,LD50,intraperitoneal,192,,"Toxicology and Applied Pharmacology., 65(144), 1982 [PMID:6183791]",Chlorpyrifos
+27982,16672-87-0,rat,LD50,oral,3400,,"Zhurnal Eksperimental'noi i Klinicheskoi Meditsiny.  Journal of Experimental and Clinical Medicine., 20(274), 1980",Ethephon
+27982,16672-87-0,mouse,LD50,oral,2850,,"Pharmazie., 32(181), 1977",Ethephon
+27982,16672-87-0,mouse,LD50,intraperitoneal,1500,,"Journal of Agricultural and Food Chemistry., 39(380), 1991",Ethephon
+27982,16672-87-0,rabbit,LD50,skin,5730,,"Wirksubstanzen der Pflanzenschutz und Schadlingsbekampfungsmittel, Perkow, W., Berlin, Verlag Paul Parey, 1971-1976, -(-), 1971/1976",Ethephon
+27982,16672-87-0,guinea pig,LD50,oral,4200,"BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: MUSCLE CONTRACTION OR SPASTICITY); LUNGS, THORAX, OR RESPIRATION: OTHER CHANGES","Gigiena i Sanitariya.  For English translation, see HYSAAV., 48(8)(79), 1983",Ethephon
+27982,16672-87-0,quail,LD50,oral,1072,,"Pesticide Manual., 9(341), 1991",Ethephon
+27982,16672-87-0,mammal (species unspecified),LD50,unreported,4200,,"Chemistry of Pesticides, Melnikov, N.N., New York, Springer-Verlag New York, Inc., 1971, -(384), 1971",Ethephon
+2912,52315-07-8,rat,LD50,skin,1600,,"Agrochemicals Handbook, with updates, Hartley, D., and H. Kidd, eds., Nottingham, Royal Soc of Chemistry, 1983-86, A110(1984)",Cypermethrin
+2912,52315-07-8,rat,LD50,intraperitoneal,404,BEHAVIORAL: TREMOR; BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; BEHAVIORAL: EXCITEMENT,"Weisheng Dulixue Zazhi.  Journal of Health Toxicology., 3(184), 1989",Cypermethrin
+2912,52315-07-8,rat,LDLo,intravenous,6,BEHAVIORAL: TREMOR; BEHAVIORAL: CHANGES IN MOTOR ACTIVITY (SPECIFIC ASSAY); BEHAVIORAL: MUSCLE CONTRACTION OR SPASTICITY),"Archives of Toxicology., 45(325), 1980 [PMID:7447703]",Cypermethrin
+2912,52315-07-8,rat,LD50,unreported,400,,"Gigiena i Sanitariya.  For English translation, see HYSAAV., 49(10)(70), 1984",Cypermethrin
+2912,52315-07-8,mouse,LD50,intraperitoneal,25,,"Indian Journal of Pharmacology., 22(42), 1990",Cypermethrin
+2912,52315-07-8,rabbit,LD50,oral,1500,BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; GASTROINTESTINAL: CHANGES IN STRUCTURE OR FUNCTION OF SALIVARY GLANDS,"Journal of Environmental Biology., 11(331), 1990",Cypermethrin
+2912,52315-07-8,rabbit,LD50,skin,2400,,"Pesticide Manual., 9(208), 1991",Cypermethrin
+2912,52315-07-8,guinea pig,LD50,oral,500,,"Defense des Vegetaux., 34(3), 1980",Cypermethrin
+2912,52315-07-8,hamster,LD50,oral,400,,"Defense des Vegetaux., 34(3), 1980",Cypermethrin
+2912,52315-07-8,mammal (species unspecified),LD50,skin,2355,,"Gigiena i Sanitariya.  For English translation, see HYSAAV., 56(4)(83), 1991",Cypermethrin
+29393,19044-88-3,rat,LD50,oral,10000,,"Agricultural Chemicals, Thomson, W.T., 4 vols., Fresno, CA, Thomson Publications, 1976/77 revision, 2(44), 1977",Oryzalin
+29732,19666-30-9,rat,LD50,oral,3500,,"Agricultural Chemicals, Thomson, W.T., 4 vols., Fresno, CA, Thomson Publications, 1976/77 revision, 2(205), 1977",Oxadiazon
+29732,19666-30-9,rat,LD50,skin,5200,,"Nippon Yakurigaku Zasshi.  Japanese Journal of Pharmacology., 69(2)(48P), 1973",Oxadiazon
+3017,333-41-5,human,TDLo,oral,214,BEHAVIORAL: CHANGES IN MOTOR ACTIVITY (SPECIFIC ASSAY); BEHAVIORAL: MUSCLE WEAKNESS; SKIN AND APPENDAGES (SKIN): SWEATING: OTHER,"Clinical Toxicology., 12(435), 1978 [PMID:657758]",Diazinon
+3017,333-41-5,rat,LD50,oral,66,,"Down to Earth., 35(25), 1979",Diazinon
+3017,333-41-5,rat,LD50,skin,180,,"Proceedings of the Annual Meeting of the New Jersey Mosquito Extermination Association., -(155), 1957",Diazinon
+3017,333-41-5,rat,LD50,intratracheal,210,,"JAT, Journal of Applied Toxicology., 19(133), 1999 [PMID:10215185]",Diazinon
+3017,333-41-5,rat,LD50,unreported,250,,"Rinsho Shinkeigaku.  Clinical Neurology., 23(101), 1983",Diazinon
+3017,333-41-5,mouse,LD50,oral,17,,"Shokuhin Eiseigaku Zasshi.  Food Hygiene Journal., 24(268), 1983",Diazinon
+3017,333-41-5,mouse,LD50,skin,2750,,"Journal of Toxicology and Environmental Health., 9(491), 1982 [PMID:7097799]",Diazinon
+3017,333-41-5,mouse,LD50,intraperitoneal,33,,"Toxicology and Applied Pharmacology., 2(495), 1960 [PMID:13750404]",Diazinon
+3017,333-41-5,mouse,LD50,subcutaneous,58,,"Osaka Igaku Zasshi., 71(6099), 1959",Diazinon
+3017,333-41-5,mouse,LD50,intravenous,180,,"U.S. Army Armament Research & Development Command, Chemical Systems Laboratory, NIOSH Exchange Chemicals., NX#00023",Diazinon
+3017,333-41-5,rabbit,LD50,oral,143,,"Yakkyoku.  Pharmacy., 31(459), 1980",Diazinon
+3017,333-41-5,rabbit,LD50,skin,3600,,"Agrochemicals Handbook, with updates, Hartley, D., and H. Kidd, eds., Nottingham, Royal Soc of Chemistry, 1983-86, A131(1983)",Diazinon
+3017,333-41-5,pig,LD50,oral,320,,"Yakkyoku.  Pharmacy., 31(459), 1980",Diazinon
+3017,333-41-5,pig,LD50,skin,633,,"Yakkyoku.  Pharmacy., 31(459), 1980",Diazinon
+3017,333-41-5,guinea pig,LD50,oral,250,,"Wirksubstanzen der Pflanzenschutz und Schadlingsbekampfungsmittel, Perkow, W., Berlin, Verlag Paul Parey, 1971-1976, -(-), 1971/1976",Diazinon
+3017,333-41-5,mammal (species unspecified),LD50,unreported,76,,"Chemistry of Pesticides, Melnikov, N.N., New York, Springer-Verlag New York, Inc., 1971, -(338), 1971",Diazinon
+3017,333-41-5,bird - wild,LD50,oral,2,,"Toxicology and Applied Pharmacology., 21(315), 1972 [PMID:5027965]",Diazinon
+3017,333-41-5,rat,LD50,intraperitoneal,65,,"Arzneimittel-Forschung. Drug Research., 5(436), 1955 [PMID:13276245]",Diazinon
+3030,1918-00-9,rat,LD50,oral,1039,,"Fundamental and Applied Toxicology., 7(299), 1986",Dicamba
+3030,1918-00-9,mouse,LD50,oral,1190,,"Hygiene and Sanitation, 35(7-9)(14), 1970",Dicamba
+3030,1918-00-9,mouse,LD50,unreported,700,,"Tsitologiya i Genetika.  Cytology and Genetics.  For English translation, see CYGEDX., 16(1)(45), 1982",Dicamba
+3031,1194-65-6,rat,LD50,oral,2710,,"Residue Reviews., 10(97), 1965 [PMID:4865270]","2,6-Dichlorobenzonitrile"
+3031,1194-65-6,rat,LD50,unreported,500,,"Chemistry of Pesticides, Melnikov, N.N., New York, Springer-Verlag New York, Inc., 1971, -(145), 1971","2,6-Dichlorobenzonitrile"
+3031,1194-65-6,mouse,LD50,oral,2056,,"Pesticide Index, Frear, E.H., ed., State College, PA, College Science Pub., 1969, 5(73), 1976","2,6-Dichlorobenzonitrile"
+3031,1194-65-6,mouse,LD,skin,200,SENSE ORGANS AND SPECIAL SENSES: DEVIATED NASAL SEPTUM: OLFACTION; SENSE ORGANS AND SPECIAL SENSES: OTHER CHANGES: OLFACTION,"Neurotoxicology., 15(287), 1994 [PMID:7991217]","2,6-Dichlorobenzonitrile"
+3031,1194-65-6,mouse,LD50,intraperitoneal,360,,"Farmaco, Edizione Scientifica., 41(41), 1986 [PMID:3956718]","2,6-Dichlorobenzonitrile"
+3031,1194-65-6,rabbit,LD50,oral,270,BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); LIVER: OTHER CHANGES,"Food and Cosmetics Toxicology., 6(261), 1968 [PMID:4233583]","2,6-Dichlorobenzonitrile"
+3031,1194-65-6,rabbit,LD50,skin,1350,,"Guide to the Chemicals Used in Crop Protection., 6(177), 1973","2,6-Dichlorobenzonitrile"
+3031,1194-65-6,guinea pig,LD50,oral,681,,"Pesticide Chemicals Official Compendium, Association of the American Pesticide Control Officials, Inc., 1966., -(337), 1966","2,6-Dichlorobenzonitrile"
+3032791,23564-05-8,rat,LD50,oral,6640,SENSE ORGANS AND SPECIAL SENSES: CHANGE IN OLFACTORY NERVE: OLFACTION; SENSE ORGANS AND SPECIAL SENSES: LACRIMATION: EYE; BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD,"Toxicology and Applied Pharmacology., 23(606), 1972 [PMID:4644695]",Thiophanate-methyl
+3032791,23564-05-8,rat,LD50,intraperitoneal,1140,SENSE ORGANS AND SPECIAL SENSES: CHANGE IN OLFACTORY NERVE: OLFACTION; SENSE ORGANS AND SPECIAL SENSES: LACRIMATION: EYE; BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD,"Toxicology and Applied Pharmacology., 23(606), 1972 [PMID:4644695]",Thiophanate-methyl
+3032791,23564-05-8,mouse,LD50,oral,3400,SENSE ORGANS AND SPECIAL SENSES: CHANGE IN OLFACTORY NERVE: OLFACTION; BEHAVIORAL: TREMOR; BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD,"Toxicology and Applied Pharmacology., 23(606), 1972 [PMID:4644695]",Thiophanate-methyl
+3032791,23564-05-8,mouse,LD50,intraperitoneal,790,SENSE ORGANS AND SPECIAL SENSES: CHANGE IN OLFACTORY NERVE: OLFACTION; BEHAVIORAL: TREMOR; BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD,"Toxicology and Applied Pharmacology., 23(606), 1972 [PMID:4644695]",Thiophanate-methyl
+3032791,23564-05-8,rabbit,LD50,oral,2270,SENSE ORGANS AND SPECIAL SENSES: MYDRIASIS (PUPILLARY DILATION): EYE; BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD,"Toxicology and Applied Pharmacology., 23(606), 1972 [PMID:4644695]",Thiophanate-methyl
+3032791,23564-05-8,guinea pig,LD50,oral,3640,SENSE ORGANS AND SPECIAL SENSES: MYDRIASIS (PUPILLARY DILATION): EYE; BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD,"Toxicology and Applied Pharmacology., 23(606), 1972 [PMID:4644695]",Thiophanate-methyl
+30332,20859-73-8,women,TDLo,oral,60,"VASCULAR: OTHER CHANGES; LUNGS, THORAX, OR RESPIRATION: DYSPNEA; GASTROINTESTINAL: GASTRITIS","Human Toxicology., 7(343), 1988 [PMID:3410483]",Aluminum phosphide
+30332,20859-73-8,man,TDLo,oral,21,VASCULAR: OTHER CHANGES; GASTROINTESTINAL: GASTRITIS,"Human Toxicology., 7(343), 1988 [PMID:3410483]",Aluminum phosphide
+30332,20859-73-8,women,LDLo,oral,180,"CARDIAC: PULSE RATE INCREASE WITHOUT FALL IN BP; LIVER: JAUNDICE, OTHER OR UNCLASSIFIED; KIDNEY, URETER, AND BLADDER: CHANGES IN TUBULES (INCLUDING ACUTE RENAL FAILURE, ACUTE TUBULAR NECROSIS)","Human Toxicology., 7(343), 1988 [PMID:3410483]",Aluminum phosphide
+30332,20859-73-8,man,LDLo,oral,86,BEHAVIORAL: COMA; VASCULAR: OTHER CHANGES; GASTROINTESTINAL: NAUSEA OR VOMITING,"Human Toxicology., 7(343), 1988 [PMID:3410483]",Aluminum phosphide
+30479,21087-64-9,rat,LD50,oral,1100,,"Farm Chemicals Handbook., -(C204), 1991",Metribuzin
+30479,21087-64-9,rat,LD50,intraperitoneal,239,,"Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 12(127), 1987",Metribuzin
+30479,21087-64-9,rat,LD50,subcutaneous,814,,"Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 12(127), 1987",Metribuzin
+30479,21087-64-9,mouse,LD50,oral,564,,"Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 12(127), 1987",Metribuzin
+30479,21087-64-9,mouse,LD50,intraperitoneal,210,BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY),"Pesticide Biochemistry and Physiology., 23(123), 1984",Metribuzin
+30479,21087-64-9,mouse,LD50,subcutaneous,367,,"Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 12(127), 1987",Metribuzin
+30479,21087-64-9,cat,LD50,oral,500,,"Agrochemicals Handbook, with updates, Hartley, D., and H. Kidd, eds., Nottingham, Royal Soc of Chemistry, 1983-86, A280(1983)",Metribuzin
+30479,21087-64-9,guinea pig,LD50,oral,250,,"Wirksubstanzen der Pflanzenschutz und Schadlingsbekampfungsmittel, Perkow, W., Berlin, Verlag Paul Parey, 1971-1976, -(-), 1971/1976",Metribuzin
+30479,21087-64-9,quail,LD50,oral,164,,"Pesticide Manual., 8(573), 1987",Metribuzin
+30479,21087-64-9,quail,LD50,unreported,168,,"Farm Chemicals Handbook., -(C204), 1991",Metribuzin
+30692,21564-17-0,rat,LD50,oral,679,SENSE ORGANS AND SPECIAL SENSES: MYDRIASIS (PUPILLARY DILATION): EYE; BEHAVIORAL: TREMOR; SKIN AND APPENDAGES (SKIN): HAIR: OTHER,"Acute Toxicity Data. Journal of the American College of Toxicology, Part B., 1(207), 1992",2-(Thiocyanomethylthio)benzothiazole
+30692,21564-17-0,rabbit,LD50,skin,642,,"Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 12(343), 1987",2-(Thiocyanomethylthio)benzothiazole
+30692,21564-17-0,rat,LD50,oral,1590,,"Buckman Laboratories, Inc., TCMTB(1981)",2-(Thiocyanomethylthio)benzothiazole
+30692,21564-17-0,rabbit,LD50,skin,200,,"Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 12(343), 1987",2-(Thiocyanomethylthio)benzothiazole
+30692,21564-17-0,duck,LD50,oral,1310,,"Buckman Laboratories, Inc., TCMTB(1981)",2-(Thiocyanomethylthio)benzothiazole
+30692,21564-17-0,rat,LD50,oral,2538,,"Buckman Laboratories, Inc., 14FEB1980",2-(Thiocyanomethylthio)benzothiazole
+30692,21564-17-0,rat,LD50,intraperitoneal,73,,"Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 12(343), 1987",2-(Thiocyanomethylthio)benzothiazole
+30692,21564-17-0,rat,LD50,subcutaneous,1300,,"Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 12(343), 1987",2-(Thiocyanomethylthio)benzothiazole
+30692,21564-17-0,mouse,LD50,oral,445,,"Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 12(343), 1987",2-(Thiocyanomethylthio)benzothiazole
+30692,21564-17-0,mouse,LD50,intraperitoneal,143,,"Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 12(343), 1987",2-(Thiocyanomethylthio)benzothiazole
+30692,21564-17-0,mouse,LD50,subcutaneous,205,,"Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 12(343), 1987",2-(Thiocyanomethylthio)benzothiazole
+3082,60-51-5,man,TDLo,oral,286,"PERIPHERAL NERVE AND SENSATION: FASCICULATIONS; BEHAVIORAL: COMA; LUNGS, THORAX, OR RESPIRATION: DYSPNEA","Intensive Care Medicine., 12(110), 1986 [PMID:3700838]",Dimethoate
+3082,60-51-5,human,LD50,oral,30,,"Guide to the Chemicals Used in Crop Protection., 6(209), 1973",Dimethoate
+3082,60-51-5,man,TDLo,oral,300,BEHAVIORAL: COMA; CARDIAC: PULSE RATE; VASCULAR: BP LOWERING NOT CHARACTERIZED IN AUTONOMIC SECTION,"Journal of Toxicology, Clinical Toxicology., 24(69), 1986 [PMID:2871196]",Dimethoate
+3082,60-51-5,man,TDLo,oral,357,"BRAIN AND COVERINGS: OTHER DEGENERATIVE CHANGES; CARDIAC: CARDIOMYOPATHY INCLUDING INFARCTION; KIDNEY, URETER, AND BLADDER: CHANGES IN TUBULES (INCLUDING ACUTE RENAL FAILURE, ACUTE TUBULAR NECROSIS)","Journal of Toxicology, Clinical Toxicology., 32(61), 1994 [PMID:8308950]",Dimethoate
+3082,60-51-5,rat,LD50,oral,60,,"Yakkyoku.  Pharmacy., 30(623), 1979",Dimethoate
+3082,60-51-5,rat,LD50,skin,353,,"British Journal of Industrial Medicine., 26(59), 1969 [PMID:5777792]",Dimethoate
+3082,60-51-5,rat,LD50,intraperitoneal,100,"SENSE ORGANS AND SPECIAL SENSES: LACRIMATION: EYE; LUNGS, THORAX, OR RESPIRATION: DYSPNEA; GASTROINTESTINAL: CHANGES IN STRUCTURE OR FUNCTION OF SALIVARY GLANDS","British Journal of Industrial Medicine., 21(52), 1964 [PMID:14106136]",Dimethoate
+3082,60-51-5,rat,LD50,subcutaneous,350,"SENSE ORGANS AND SPECIAL SENSES: LACRIMATION: EYE; LUNGS, THORAX, OR RESPIRATION: DYSPNEA; GASTROINTESTINAL: CHANGES IN STRUCTURE OR FUNCTION OF SALIVARY GLANDS","British Journal of Industrial Medicine., 21(52), 1964 [PMID:14106136]",Dimethoate
+3082,60-51-5,rat,LD50,intravenous,450,"SENSE ORGANS AND SPECIAL SENSES: LACRIMATION: EYE; LUNGS, THORAX, OR RESPIRATION: DYSPNEA; GASTROINTESTINAL: CHANGES IN STRUCTURE OR FUNCTION OF SALIVARY GLANDS","British Journal of Industrial Medicine., 21(52), 1964 [PMID:14106136]",Dimethoate
+3082,60-51-5,rat,LD50,unreported,215,,"Yakkyoku.  Pharmacy., 28(225), 1977",Dimethoate
+3082,60-51-5,mouse,LD50,oral,60,"SENSE ORGANS AND SPECIAL SENSES: LACRIMATION: EYE; LUNGS, THORAX, OR RESPIRATION: DYSPNEA; GASTROINTESTINAL: CHANGES IN STRUCTURE OR FUNCTION OF SALIVARY GLANDS","British Journal of Industrial Medicine., 21(52), 1964 [PMID:14106136]",Dimethoate
+3082,60-51-5,mouse,LD50,intraperitoneal,45,"SENSE ORGANS AND SPECIAL SENSES: LACRIMATION: EYE; LUNGS, THORAX, OR RESPIRATION: DYSPNEA; GASTROINTESTINAL: CHANGES IN STRUCTURE OR FUNCTION OF SALIVARY GLANDS","British Journal of Industrial Medicine., 21(52), 1964 [PMID:14106136]",Dimethoate
+3082,60-51-5,mouse,LD50,unreported,158,,"Rinsho Shinkeigaku.  Clinical Neurology., 23(101), 1983",Dimethoate
+3082,60-51-5,dog,LD50,oral,400,,"Special Publication of the Entomological Society of America., 78-1(31), 1978",Dimethoate
+3082,60-51-5,cat,LD50,oral,100,BEHAVIORAL: EXCITEMENT,"Gigiena i Sanitariya.  For English translation, see HYSAAV., 28(3)(21), 1963",Dimethoate
+3082,60-51-5,rabbit,LD50,oral,300,,"Special Publication of the Entomological Society of America., 78-1(31), 1978",Dimethoate
+3082,60-51-5,guinea pig,LD50,oral,350,,"Pesticide Chemicals Official Compendium, Association of the American Pesticide Control Officials, Inc., 1966., -(395), 1966",Dimethoate
+3082,60-51-5,guinea pig,LD50,skin,965,,"Toxicology and Applied Pharmacology., 3(210), 1961 [PMID:13784573]",Dimethoate
+3082,60-51-5,guinea pig,LD10,intraperitoneal,390,,"Toxicology and Applied Pharmacology., 8(259), 1966 [PMID:5956878]",Dimethoate
+3082,60-51-5,hamster,LD50,intraperitoneal,160,,"Archives of Toxicology., 58(152), 1986 [PMID:3964078]",Dimethoate
+3082,60-51-5,hamster,LD50,subcutaneous,60,"SENSE ORGANS AND SPECIAL SENSES: LACRIMATION: EYE; LUNGS, THORAX, OR RESPIRATION: DYSPNEA; GASTROINTESTINAL: CHANGES IN STRUCTURE OR FUNCTION OF SALIVARY GLANDS","British Journal of Industrial Medicine., 21(52), 1964 [PMID:14106136]",Dimethoate
+3082,60-51-5,chicken,LD50,oral,25,,"Journal of Agricultural and Food Chemistry., 11(91), 1963",Dimethoate
+3082,60-51-5,quail,LD50,oral,25,,"Journal of Agricultural and Food Chemistry., 29(772), 1981 [PMID:7276382]",Dimethoate
+3082,60-51-5,duck,LD50,oral,42,,"Down to Earth., 35(25), 1979",Dimethoate
+3082,60-51-5,mouse,LD50,subcutaneous,60,"SENSE ORGANS AND SPECIAL SENSES: LACRIMATION: EYE; LUNGS, THORAX, OR RESPIRATION: DYSPNEA; GASTROINTESTINAL: CHANGES IN STRUCTURE OR FUNCTION OF SALIVARY GLANDS","British Journal of Industrial Medicine., 21(52), 1964 [PMID:14106136]",Dimethoate
+3082,60-51-5,hamster,LD50,oral,200,"SENSE ORGANS AND SPECIAL SENSES: LACRIMATION: EYE; LUNGS, THORAX, OR RESPIRATION: DYSPNEA; GASTROINTESTINAL: CHANGES IN STRUCTURE OR FUNCTION OF SALIVARY GLANDS","British Journal of Industrial Medicine., 21(52), 1964 [PMID:14106136]",Dimethoate
+31070,22224-92-6,rat,LD50,oral,8,,"Bulletin of the Entomological Society of America., 15(116), 1969",Fenamiphos
+31070,22224-92-6,rat,LD50,skin,80,,"Farm Chemicals Handbook., -(C216), 1991",Fenamiphos
+31070,22224-92-6,dog,LD50,oral,10,,"Pesticide Index, Frear, E.H., ed., State College, PA, College Science Pub., 1969, 5(112), 1976",Fenamiphos
+31070,22224-92-6,cat,LD50,oral,10,,"Wirksubstanzen der Pflanzenschutz und Schadlingsbekampfungsmittel, Perkow, W., Berlin, Verlag Paul Parey, 1971-1976, -(-), 1971/1976",Fenamiphos
+31070,22224-92-6,rabbit,LD50,oral,10,,"Documentation of the Threshold Limit Values for Substances in Workroom Air, Supplements. For publisher information, see 85INA8., 4(191), 1982",Fenamiphos
+31070,22224-92-6,rabbit,LD50,skin,178,,"Documentation of the Threshold Limit Values for Substances in Workroom Air, Supplements. For publisher information, see 85INA8., 4(191), 1982",Fenamiphos
+31070,22224-92-6,chicken,LD50,oral,12,,"Pesticide Manual., 9(361), 1991",Fenamiphos
+31070,22224-92-6,quail,LD50,oral,1,"BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; BEHAVIORAL: ATAXIA; LUNGS, THORAX, OR RESPIRATION: DYSPNEA","Ecotoxicology and Environmental Safety., 8(551), 1984 [PMID:6510327]",Fenamiphos
+31070,22224-92-6,duck,LD50,skin,24,,"Toxicology and Applied Pharmacology., 47(451), 1979 [PMID:442090]",Fenamiphos
+31099,22259-30-9,rat,LD50,oral,20,,"World Review of Pest Control., 9(119), 1970",Formetanate
+31099,22259-30-9,rat,LD50,skin,5600,,"Defense des Vegetaux., 28(43), 1974",Formetanate
+31099,22259-30-9,mouse,LD50,oral,18,,"Agrochemicals Handbook, with updates, Hartley, D., and H. Kidd, eds., Nottingham, Royal Soc of Chemistry, 1983-86, A216(1983)",Formetanate
+31099,22259-30-9,dog,LD50,oral,19,,"Agrochemicals Handbook, with updates, Hartley, D., and H. Kidd, eds., Nottingham, Royal Soc of Chemistry, 1983-86, A216(1983)",Formetanate
+31099,22259-30-9,rabbit,LD50,skin,10200,,"Defense des Vegetaux., 28(43), 1974",Formetanate
+3120,330-54-1,rat,LD50,oral,1017,BEHAVIORAL: GENERAL ANESTHETIC; BEHAVIORAL: ATAXIA,"Journal of Agricultural and Food Chemistry., 18(1104), 1970 [PMID:5483048]",Diuron
+3120,330-54-1,rat,LD50,unreported,3400,,"Chemistry of Pesticides, Melnikov, N.N., New York, Springer-Verlag New York, Inc., 1971, -(231), 1971",Diuron
+3120,330-54-1,mouse,LD50,intraperitoneal,500,,"National Technical Information Service., AD277-689",Diuron
+32154,23950-58-5,rat,LD50,oral,3350,,"Defense des Vegetaux., 26(192), 1972",Propyzamide
+32154,23950-58-5,rabbit,LDLo,skin,3160,,"Defense des Vegetaux., 26(192), 1972",Propyzamide
+3224,115-29-7,man,LDLo,oral,260,"BRAIN AND COVERINGS: CHANGES IN SURFACE EEG; BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; LUNGS, THORAX, OR RESPIRATION: FIBROSIS, FOCAL (PNEUMOCONIOSIS)","Journal of Toxicology, Clinical Toxicology., 36(345), 1998 [PMID:9711201]",Endosulfan
+3224,115-29-7,man,TDLo,oral,86,"BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; BEHAVIORAL: COMA; LUNGS, THORAX, OR RESPIRATION: CYANOSIS","Journal of Toxicology, Clinical Toxicology., 26(265), 1988 [PMID:3418779]",Endosulfan
+3224,115-29-7,rat,LD50,oral,18,,"Agricultural Research Service, USDA Information Memorandum., 20(9), 1966",Endosulfan
+3224,115-29-7,rat,LD50,skin,34,,"Toxicometric Parameters of Industrial Toxic Chemicals Under Single Exposure, Izmerov, N.F., et al., Moscow, Centre of International Projects, GKNT, 1982, -(72), 1982",Endosulfan
+3224,115-29-7,rat,LD50,intraperitoneal,8,BEHAVIORAL: CHANGES IN MOTOR ACTIVITY (SPECIFIC ASSAY); GASTROINTESTINAL: NAUSEA OR VOMITING; GASTROINTESTINAL: CONTRACTION (ISOLATED TISSUE),"Residue Reviews., 22(1), 1968 [PMID:4868139]",Endosulfan
+3224,115-29-7,rat,LD50,unreported,40,,"Chemistry of Pesticides, Melnikov, N.N., New York, Springer-Verlag New York, Inc., 1971, -(267), 1971",Endosulfan
+3224,115-29-7,mouse,LD50,unreported,32,,"Tsitologiya i Genetika.  Cytology and Genetics.  For English translation, see CYGEDX., 16(1)(45), 1982",Endosulfan
+3224,115-29-7,cat,LD50,oral,2,,"Wirksubstanzen der Pflanzenschutz und Schadlingsbekampfungsmittel, Perkow, W., Berlin, Verlag Paul Parey, 1971-1976, -(-), 1971/1976",Endosulfan
+3224,115-29-7,rabbit,LD50,oral,28,BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: EXCITEMENT; BEHAVIORAL: MUSCLE CONTRACTION OR SPASTICITY),"Veterinariya.  Veterinary Science., 59(12)(64), 1983",Endosulfan
+3224,115-29-7,rabbit,LD50,subcutaneous,360,BEHAVIORAL: CHANGES IN MOTOR ACTIVITY (SPECIFIC ASSAY); GASTROINTESTINAL: NAUSEA OR VOMITING; GASTROINTESTINAL: CONTRACTION (ISOLATED TISSUE),"Residue Reviews., 22(1), 1968 [PMID:4868139]",Endosulfan
+3224,115-29-7,hamster,LD50,oral,118,,"European Journal of Toxicology and Environmental Hygiene., 7(159), 1974 [PMID:4140096]",Endosulfan
+3224,115-29-7,hamster,LD50,intraperitoneal,80,,"Archives of Toxicology., 58(152), 1986 [PMID:3964078]",Endosulfan
+3224,115-29-7,duck,LD50,oral,33,,"Down to Earth., 35(25), 1979",Endosulfan
+3224,115-29-7,domestic animals - goat/sheep,LD50,oral,26,BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: EXCITEMENT; BEHAVIORAL: MUSCLE CONTRACTION OR SPASTICITY),"Veterinariya.  Veterinary Science., 59(12)(64), 1983",Endosulfan
+3224,115-29-7,mammal (species unspecified),LD50,skin,147,BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: MUSCLE CONTRACTION OR SPASTICITY),"Veterinariya.  Veterinary Science., 59(12)(64), 1983",Endosulfan
+3224,115-29-7,bird - wild,LD50,oral,35,,"Toxicology and Applied Pharmacology., 21(315), 1972 [PMID:5027965]",Endosulfan
+3224,115-29-7,mouse,LD50,intraperitoneal,7,"BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; LUNGS, THORAX, OR RESPIRATION: RESPIRATORY DEPRESSION; LUNGS, THORAX, OR RESPIRATION: RESPIRATORY STIMULATION","Bulletin of Environmental Contamination and Toxicology., 15(708), 1976 [PMID:938763]",Endosulfan
+3224,115-29-7,rabbit,LD50,skin,90,"SENSE ORGANS AND SPECIAL SENSES: OTHER: EYE; SKIN AND APPENDAGES (SKIN): DERMATITIS, IRRITATIVE: AFTER SYSTEMIC EXPOSURE","Journal of Occupational Medicine., 9(35), 1967 [PMID:5226634]",Endosulfan
+3286,563-12-2,rat,LD50,oral,13,,"Pharmaceutical Journal., 185(361), 1960",Ethion
+3286,563-12-2,rat,LD50,skin,62,,"Toxicology and Applied Pharmacology., 14(515), 1969 [PMID:5787520]",Ethion
+3286,563-12-2,rat,LD50,intraperitoneal,26,,"Proceedings of the Society for Experimental Biology and Medicine., 129(699), 1968 [PMID:5725078]",Ethion
+3286,563-12-2,rat,LD50,unreported,55,,"Chemistry of Pesticides, Melnikov, N.N., New York, Springer-Verlag New York, Inc., 1971, -(367), 1971",Ethion
+3286,563-12-2,mouse,LD50,oral,40,,"Wirksubstanzen der Pflanzenschutz und Schadlingsbekampfungsmittel, Perkow, W., Berlin, Verlag Paul Parey, 1971-1976, -(-), 1971/1976",Ethion
+3286,563-12-2,mouse,LD50,intraperitoneal,35,,"Proceedings of the Society for Experimental Biology and Medicine., 129(699), 1968 [PMID:5725078]",Ethion
+3286,563-12-2,guinea pig,LD50,oral,40,,"Wirksubstanzen der Pflanzenschutz und Schadlingsbekampfungsmittel, Perkow, W., Berlin, Verlag Paul Parey, 1971-1976, -(-), 1971/1976",Ethion
+3286,563-12-2,guinea pig,LD50,skin,915,,"Wirksubstanzen der Pflanzenschutz und Schadlingsbekampfungsmittel, Perkow, W., Berlin, Verlag Paul Parey, 1971-1976, -(-), 1971/1976",Ethion
+3286,563-12-2,bird - wild,LD50,oral,45,,"Toxicology and Applied Pharmacology., 21(315), 1972 [PMID:5027965]",Ethion
+3289,13194-48-4,rat,LD50,skin,60,,"World Review of Pest Control., 9(119), 1970",Ethoprophos
+3289,13194-48-4,rabbit,LD50,oral,55,,"Pesticide Manual., 9(349), 1991",Ethoprophos
+3289,13194-48-4,chicken,LD50,skin,3,,"Toxicologist., 5(26), 1985",Ethoprophos
+3289,13194-48-4,duck,LD50,skin,11,,"Toxicology and Applied Pharmacology., 47(451), 1979 [PMID:442090]",Ethoprophos
+3289,13194-48-4,rat,LD50,oral,34,,"Agricultural Research Service, USDA Information Memorandum., 20(26), 1966",Ethoprophos
+33112,25606-41-1,rat,LD50,skin,3900,,"Pesticide Manual., 8(704), 1987",Filex
+33112,25606-41-1,mouse,LD50,oral,1568,,"Farm Chemicals Handbook., -(C250), 1991",Filex
+33112,25606-41-1,rabbit,LD50,skin,3900,,"Pesticide Manual., 9(714), 1991",Filex
+33112,25606-41-1,duck,LD50,oral,6300,,"Pesticide Manual., 9(714), 1991",Filex
+33112,25606-41-1,bird - wild,LD50,oral,3050,,"Pesticide Manual., 9(714), 1991",Filex
+33360,26225-79-6,rat,LD50,oral,1130,,"National Technical Information Service., PB85-143766",Ethofumesate
+33360,26225-79-6,rat,LD50,skin,1440,,"Agrochemicals Handbook, with updates, Hartley, D., and H. Kidd, eds., Nottingham, Royal Soc of Chemistry, 1983-86, A184(1984)",Ethofumesate
+33360,26225-79-6,mouse,LD50,oral,1600,,"Agrochemicals Handbook, with updates, Hartley, D., and H. Kidd, eds., Nottingham, Royal Soc of Chemistry, 1983-86, A184(1984)",Ethofumesate
+33775,27314-13-2,quail,LD50,unreported,1250,,"Farm Chemicals Handbook., -(C221), 1991",Norflurazon
+33775,27314-13-2,duck,LD50,unreported,1250,,"Farm Chemicals Handbook., -(C221), 1991",Norflurazon
+3391107,124495-18-7,mouse,LD50,oral,500,BEHAVIORAL: MUSCLE WEAKNESS,"National Technical Information Service., OTS0545018",Quinoxyfen
+34192,28249-77-6,rat,LD50,oral,920,,"Japan Pesticide Information., (40)(32), 1982",Thiobencarb
+34192,28249-77-6,rat,LD50,skin,2900,,"Pesticide Manual., 9(815), 1991",Thiobencarb
+34192,28249-77-6,mouse,LD50,oral,560,,"Guide to the Chemicals Used in Crop Protection., 6(37), 1973",Thiobencarb
+34192,28249-77-6,mouse,LD50,intraperitoneal,1338,,"Japan Pesticide Information., (19)(21), 1974",Thiobencarb
+34192,28249-77-6,chicken,LD50,oral,673,,"Japan Pesticide Information., (19)(21), 1974",Thiobencarb
+34192,28249-77-6,quail,LD50,oral,7800,,"Agrochemicals Handbook, with updates, Hartley, D., and H. Kidd, eds., Nottingham, Royal Soc of Chemistry, 1983-86, A573(1985)",Thiobencarb
+34469,29091-21-2,rat,LD50,oral,15380,,"Agricultural Chemicals, Thomson, W.T., 4 vols., Fresno, CA, Thomson Publications, 1976/77 revision, 2(48), 1977",Prodiamine
+3496,1071-83-6,man,LDLo,oral,2143,"VASCULAR: BP LOWERING NOT CHARACTERIZED IN AUTONOMIC SECTION; LUNGS, THORAX, OR RESPIRATION: FIBROSIS (INTERSTITIAL); LUNGS, THORAX, OR RESPIRATION: FIBROSING ALVEOLITIS","Journal of Toxicology, Clinical Toxicology., 29(91), 1991 [PMID:2005670]",Glyphosate
+3496,1071-83-6,rat,LD50,oral,4873,"BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; LUNGS, THORAX, OR RESPIRATION: RESPIRATORY STIMULATION","Toxicology and Applied Pharmacology., 45(319), 1978",Glyphosate
+3496,1071-83-6,rat,LD50,intraperitoneal,235,"BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; LUNGS, THORAX, OR RESPIRATION: RESPIRATORY STIMULATION","Toxicology Letters., 1000(Sp",Glyphosate
+3496,1071-83-6,mouse,LD50,oral,1568,"BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; LUNGS, THORAX, OR RESPIRATION: RESPIRATORY STIMULATION","Toxicology and Applied Pharmacology., 45(319), 1978",Glyphosate
+3496,1071-83-6,mouse,LD50,intraperitoneal,130,"BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; LUNGS, THORAX, OR RESPIRATION: RESPIRATORY STIMULATION","Toxicology Letters., 1000(Sp",Glyphosate
+3496,1071-83-6,rabbit,LD50,oral,3800,,"Pesticide & Toxic Chemical News., 7(6), 1978",Glyphosate
+3496,1071-83-6,rabbit,LD50,skin,7940,,"Agrochemicals Handbook, with updates, Hartley, D., and H. Kidd, eds., Nottingham, Royal Soc of Chemistry, 1983-86, A222(1984)",Glyphosate
+3496,1071-83-6,quail,LD50,oral,4640,,"Pesticide Manual., 9(459), 1991",Glyphosate
+3496,1071-83-6,man,TDLo,oral,1214,"CARDIAC: CHANGE IN RATE; VASCULAR: BP LOWERING NOT CHARACTERIZED IN AUTONOMIC SECTION; GASTROINTESTINAL: HYPERMOTILITY, DIARRHEA","Human & Experimental Toxicology., 10(103), 1991 [PMID:1675099]",Glyphosate
+36565,33629-47-9,rat,LD50,oral,2500,,"Proceedings, Southern Weed Science Society., 24(58), 1971",Butralin
+36565,33629-47-9,rabbit,LD50,skin,200,,"Farm Chemicals Handbook., -(C55), 1991",Butralin
+36565,33629-47-9,mammal (species unspecified),LD50,oral,12600,,"Defense des Vegetaux., 32(125), 1978",Butralin
+37123,35367-38-5,rat,LD50,oral,4640,,"Prehled Prumyslove Toxikologie; Organicke Latky, Marhold, J., Prague, Czechoslovakia, Avicenum, 1986, -(968), 1986",Diflubenzuron
+37123,35367-38-5,rat,LD50,intraperitoneal,7500,,"Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 17(S159), 1992",Diflubenzuron
+37123,35367-38-5,rat,LD50,subcutaneous,3400,,"Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 17(S159), 1992",Diflubenzuron
+37123,35367-38-5,mouse,LD50,oral,4640,,"Special Publication of the Entomological Society of America., 78-1(20), 1978",Diflubenzuron
+37123,35367-38-5,mouse,LD50,skin,6200,,"Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 17(S159), 1992",Diflubenzuron
+37123,35367-38-5,mouse,LD50,intraperitoneal,2150,,"Prehled Prumyslove Toxikologie; Organicke Latky, Marhold, J., Prague, Czechoslovakia, Avicenum, 1986, -(968), 1986",Diflubenzuron
+37123,35367-38-5,mouse,LD50,unreported,4600,,"Tsitologiya i Genetika.  Cytology and Genetics.  For English translation, see CYGEDX., 16(1)(45), 1982",Diflubenzuron
+37175,35554-44-0,rat,LD50,oral,227,BEHAVIORAL: MUSCLE WEAKNESS; BEHAVIORAL: ATAXIA; SKIN AND APPENDAGES (SKIN): HAIR: OTHER,"Arzneimittel-Forschung. Drug Research., 31(309), 1981 [PMID:7194648]",Enilconazole
+37175,35554-44-0,rat,LD50,skin,4200,,"Pesticide Manual., 9(482), 1991",Enilconazole
+37175,35554-44-0,rat,LD50,intraperitoneal,155,BEHAVIORAL: MUSCLE WEAKNESS; BEHAVIORAL: ATAXIA; SKIN AND APPENDAGES (SKIN): HAIR: OTHER,"Arzneimittel-Forschung. Drug Research., 31(309), 1981 [PMID:7194648]",Enilconazole
+37175,35554-44-0,dog,LD50,oral,640,"GASTROINTESTINAL: HYPERMOTILITY, DIARRHEA","Arzneimittel-Forschung. Drug Research., 31(309), 1981 [PMID:7194648]",Enilconazole
+37175,35554-44-0,rabbit,LD50,skin,4200,,"Agrochemicals Handbook, with updates, Hartley, D., and H. Kidd, eds., Nottingham, Royal Soc of Chemistry, 1983-86, A230(1983)",Enilconazole
+37517,36734-19-7,rat,LD50,oral,3500,,"Pesticide Manual., 9(501), 1991",Iprodione
+37517,36734-19-7,rat,LDLo,skin,2500,,"Defense des Vegetaux., 30(124), 1976",Iprodione
+37517,36734-19-7,rat,LD50,intraperitoneal,1700,,"Defense des Vegetaux., 30(124), 1976",Iprodione
+37517,36734-19-7,quail,LD50,oral,930,,"Pesticide Manual., 9(501), 1991",Iprodione
+37517,36734-19-7,duck,LD50,oral,10400,,"Pesticide Manual., 9(501), 1991",Iprodione
+3830,525-79-1,mouse,LD50,intraperitoneal,450,,"Nippon Yakurigaku Zasshi.  Japanese Journal of Pharmacology., 61(2)(43S), 1965",Kinetin
+38479,40487-42-1,rat,LD50,oral,1050,,"Agrochemicals Handbook, with updates, Hartley, D., and H. Kidd, eds., Nottingham, Royal Soc of Chemistry, 1983-86, A314(1984)",Pendimethalin
+38479,40487-42-1,rat,LD50,intraperitoneal,500,BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: CHANGES IN MOTOR ACTIVITY (SPECIFIC ASSAY),"Indian Journal of Experimental Biology., 25(463), 1987 [PMID:3436644]",Pendimethalin
+38479,40487-42-1,mouse,LD50,oral,1340,,"Pesticide Manual., 9(656), 1991",Pendimethalin
+38479,40487-42-1,rabbit,LD50,skin,2260,,"Farm Chemicals Handbook., -(C254), 1991",Pendimethalin
+38479,40487-42-1,mouse,LD50,intraperitoneal,220,BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: CHANGES IN MOTOR ACTIVITY (SPECIFIC ASSAY),"Indian Journal of Experimental Biology., 25(463), 1987 [PMID:3436644]",Pendimethalin
+38687,40843-25-2,rat,LD50,oral,563,,"Pesticide Manual., 9(262), 1991",Diclofop
+39327,42874-03-3,dog,LD50,oral,5,,"Pesticide Manual., 9(643), 1991",Oxyfluorfen
+39385,43121-43-3,rat,LD50,oral,363,,"Defense des Vegetaux., 31(97), 1977",Triadimefon
+39385,43121-43-3,dog,LD50,oral,500,,"Pesticide Manual., 9(831), 1991",Triadimefon
+39385,43121-43-3,rabbit,LD50,oral,500,,"Wirksubstanzen der Pflanzenschutz und Schadlingsbekampfungsmittel, Perkow, W., Berlin, Verlag Paul Parey, 1971-1976, -(-), 1971/1976",Triadimefon
+39385,43121-43-3,quail,LD50,oral,1750,,"Pesticide Manual., 9(831), 1991",Triadimefon
+39965,51235-04-2,rat,LD50,oral,1690,,"Agricultural Chemicals, Thomson, W.T., 4 vols., Fresno, CA, Thomson Publications, 1976/77 revision, 2(135), 1977",Hexazinone
+39965,51235-04-2,rat,LD50,skin,5278,,"Farm Chemicals Handbook., -(C163), 1991",Hexazinone
+39965,51235-04-2,rat,LD50,intraperitoneal,530,BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; BEHAVIORAL: ATAXIA,"Fundamental and Applied Toxicology., 4(603), 1984",Hexazinone
+39965,51235-04-2,rabbit,LD50,skin,5278,,"Pesticide Manual., 9(472), 1991",Hexazinone
+39965,51235-04-2,guinea pig,LD50,oral,860,,"Pesticide & Toxic Chemical News., 9(21), 1980",Hexazinone
+39965,51235-04-2,quail,LD50,oral,2258,,"Prehled Prumyslove Toxikologie; Organicke Latky, Marhold, J., Prague, Czechoslovakia, Avicenum, 1986, -(881), 1986",Hexazinone
+39965,51235-04-2,quail,LD50,intraperitoneal,2258,BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; BEHAVIORAL: ATAXIA,"Fundamental and Applied Toxicology., 4(603), 1984",Hexazinone
+4004,121-75-5,man,LDLo,oral,471,"BEHAVIORAL: COMA; VASCULAR: BP LOWERING NOT CHARACTERIZED IN AUTONOMIC SECTION; LUNGS, THORAX, OR RESPIRATION: DYSPNEA","Archiv fuer Toxikologie., 23(11), 1967",Malathion
+4004,121-75-5,women,LDLo,oral,246,"VASCULAR: BP LOWERING NOT CHARACTERIZED IN AUTONOMIC SECTION; LUNGS, THORAX, OR RESPIRATION: CHRONIC PULMONARY EDEMA; SKIN AND APPENDAGES (SKIN): DERMATITIS, OTHER: AFTER SYSTEMIC EXPOSURE","Archives of Environmental Health., 33(240), 1978 [PMID:568457]",Malathion
+4004,121-75-5,rat,LD50,oral,290,,"Toxicometric Parameters of Industrial Toxic Chemicals Under Single Exposure, Izmerov, N.F., et al., Moscow, Centre of International Projects, GKNT, 1982, -(56), 1982",Malathion
+4004,121-75-5,rat,LD50,skin,4444,,"Proceedings of the Annual Meeting of the New Jersey Mosquito Extermination Association., -(155), 1957",Malathion
+4004,121-75-5,rat,LD50,intraperitoneal,250,,"Arzneimittel-Forschung. Drug Research., 22(1926), 1972 [PMID:4679066]",Malathion
+4004,121-75-5,rat,LD50,subcutaneous,400,SENSE ORGANS AND SPECIAL SENSES: LACRIMATION: EYE; BEHAVIORAL: MUSCLE CONTRACTION OR SPASTICITY),"Toksikologiya Novykh Promyshlennykh Khimicheskikh Veshchestv.  Toxicology of New Industrial Chemical Substances.  For English translation, see TNICS*., 7(122), 1965",Malathion
+4004,121-75-5,rat,LD50,intravenous,50,,"Arzneimittel-Forschung. Drug Research., 5(626), 1955 [PMID:13293054]",Malathion
+4004,121-75-5,rat,LD50,unreported,450,,"Gigiena i Sanitariya.  For English translation, see HYSAAV., 50(3)(4), 1985",Malathion
+4004,121-75-5,mouse,LD50,oral,190,,"Toxicometric Parameters of Industrial Toxic Chemicals Under Single Exposure, Izmerov, N.F., et al., Moscow, Centre of International Projects, GKNT, 1982, -(56), 1982",Malathion
+4004,121-75-5,mouse,LD50,skin,2330,,"Agricultural and Biological Chemistry., 27(684), 1963",Malathion
+4004,121-75-5,mouse,LD50,intraperitoneal,193,,"Proceedings of the Society for Experimental Biology and Medicine., 129(699), 1968 [PMID:5725078]",Malathion
+4004,121-75-5,mouse,LD50,subcutaneous,221,,"Osaka Igaku Zasshi., 71(6099), 1959",Malathion
+4004,121-75-5,mouse,LD50,intravenous,184,,"Bratislavske Lekarske Listy., 38(151), 1958",Malathion
+4004,121-75-5,mouse,LD50,unreported,375,,"Gigiena i Sanitariya.  For English translation, see HYSAAV., 50(3)(4), 1985",Malathion
+4004,121-75-5,dog,LD50,intraperitoneal,1857,,"Toxicology and Applied Pharmacology., 15(244), 1969 [PMID:5798729]",Malathion
+4004,121-75-5,rabbit,LDLo,oral,1200,"LUNGS, THORAX, OR RESPIRATION: RESPIRATORY STIMULATION","U.S. Army, Environmental Hygiene Agency Reports., 99-002-74/1976",Malathion
+4004,121-75-5,rabbit,LD50,skin,4100,,"Pesticide Index, Frear, E.H., ed., State College, PA, College Science Pub., 1969, 5(142), 1976",Malathion
+4004,121-75-5,rabbit,LD50,subcutaneous,280,SENSE ORGANS AND SPECIAL SENSES: LACRIMATION: EYE; BEHAVIORAL: MUSCLE CONTRACTION OR SPASTICITY),"Toksikologiya Novykh Promyshlennykh Khimicheskikh Veshchestv.  Toxicology of New Industrial Chemical Substances.  For English translation, see TNICS*., 7(122), 1965",Malathion
+4004,121-75-5,guinea pig,LD50,skin,6700,,"Toxicological Information on Cyanamid Insecticides., 8/1966",Malathion
+4004,121-75-5,guinea pig,LD50,intraperitoneal,271,,"Naunyn-Schmiedeberg's Archiv fuer Experimentelle Pathologie und Pharmakologie., 236(202), 1959",Malathion
+4004,121-75-5,guinea pig,LD50,subcutaneous,450,SENSE ORGANS AND SPECIAL SENSES: LACRIMATION: EYE; BEHAVIORAL: MUSCLE CONTRACTION OR SPASTICITY),"Toksikologiya Novykh Promyshlennykh Khimicheskikh Veshchestv.  Toxicology of New Industrial Chemical Substances.  For English translation, see TNICS*., 7(122), 1965",Malathion
+4004,121-75-5,hamster,LD50,intraperitoneal,2400,,"Archives of Toxicology., 58(152), 1986 [PMID:3964078]",Malathion
+4004,121-75-5,chicken,LD50,oral,600,BEHAVIORAL: FOOD INTAKE (ANIMAL),"Indian Journal of Experimental Biology., 9(455), 1971 [PMID:5147170]",Malathion
+4004,121-75-5,domestic animals - goat/sheep,LD50,oral,500,,"Wirksubstanzen der Pflanzenschutz und Schadlingsbekampfungsmittel, Perkow, W., Berlin, Verlag Paul Parey, 1971-1976, -(-), 1971/1976",Malathion
+4004,121-75-5,cattle,LD50,oral,53,PERIPHERAL NERVE AND SENSATION: FASCICULATIONS; BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; BEHAVIORAL: REGIDITY,"Indian Veterinary Journal., 56(650), 1979",Malathion
+4004,121-75-5,cattle,LD50,unreported,53,BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; BEHAVIORAL: EXCITEMENT; BEHAVIORAL: CHANGES IN MOTOR ACTIVITY (SPECIFIC ASSAY),"Indian Journal of Animal Sciences., 49(314), 1979",Malathion
+4004,121-75-5,mammal (species unspecified),LD50,unreported,500,,"Chemistry of Pesticides, Melnikov, N.N., New York, Springer-Verlag New York, Inc., 1971, -(357), 1971",Malathion
+4004,121-75-5,bird - wild,LD50,oral,400,,"Archives of Environmental Contamination and Toxicology., 12(355), 1983 [PMID:6882015]",Malathion
+4004,121-75-5,guinea pig,LD50,oral,570,,"Arzneimittel-Forschung. Drug Research., 5(626), 1955 [PMID:13293054]",Malathion
+40087,51707-55-2,rat,LD50,oral,5350,BEHAVIORAL: EXCITEMENT,"Gigiena i Sanitariya.  For English translation, see HYSAAV., 49(1)(72), 1984",Thidiazuron
+40087,51707-55-2,rat,LD50,intraperitoneal,4200,,"Farm Chemicals Handbook., -(C118), 1991",Thidiazuron
+40087,51707-55-2,mouse,LD50,oral,3740,BEHAVIORAL: EXCITEMENT,"Gigiena i Sanitariya.  For English translation, see HYSAAV., 49(1)(72), 1984",Thidiazuron
+40087,51707-55-2,rabbit,LD50,oral,7100,BEHAVIORAL: EXCITEMENT,"Gigiena i Sanitariya.  For English translation, see HYSAAV., 49(1)(72), 1984",Thidiazuron
+40087,51707-55-2,guinea pig,LD50,oral,2813,BEHAVIORAL: EXCITEMENT,"Gigiena i Sanitariya.  For English translation, see HYSAAV., 49(1)(72), 1984",Thidiazuron
+40326,52645-53-1,rat,LD50,subcutaneous,6600,BEHAVIORAL: TREMOR; BEHAVIORAL: ATAXIA,"Bochu Kagaku.  Scientific Pest Control., 41(143), 1976",Permethrin
+40326,52645-53-1,rat,LD,intravenous,270,,"Nature., 246(169), 1973 [PMID:4586114]",Permethrin
+40326,52645-53-1,rat,LD50,unreported,537,BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; BEHAVIORAL: ATAXIA; BEHAVIORAL: COMA,"Gigiena i Sanitariya.  For English translation, see HYSAAV., 53(9)(69), 1988",Permethrin
+40326,52645-53-1,mouse,LD50,oral,424,,"Ecotoxicology and Environmental Safety., 18(27), 1989 [PMID:2776687]",Permethrin
+40326,52645-53-1,mouse,LD50,intraperitoneal,429,,"Ecotoxicology and Environmental Safety., 18(27), 1989 [PMID:2776687]",Permethrin
+40326,52645-53-1,mouse,LD50,intravenous,31,,"Toxicology and Applied Pharmacology., 66(153), 1982 [PMID:7164094]",Permethrin
+40326,52645-53-1,mouse,LD50,unreported,680,BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; BEHAVIORAL: ATAXIA; BEHAVIORAL: COMA,"Gigiena i Sanitariya.  For English translation, see HYSAAV., 53(9)(69), 1988",Permethrin
+40326,52645-53-1,quail,LD50,oral,13500,,"Defense des Vegetaux., 32(168), 1978",Permethrin
+40326,52645-53-1,duck,LD50,oral,11300,,"Defense des Vegetaux., 32(168), 1978",Permethrin
+40326,52645-53-1,rat,LD,intravenous,270,BEHAVIORAL: TREMOR; BEHAVIORAL: REGIDITY; BEHAVIORAL: AGGRESSION,"Archives of Toxicology., 45(325), 1980 [PMID:7447703]",Permethrin
+40326,52645-53-1,mouse,LD50,oral,214,BEHAVIORAL: TREMOR; BEHAVIORAL: ATAXIA,"Bochu Kagaku.  Scientific Pest Control., 41(143), 1976",Permethrin
+40326,52645-53-1,mouse,LD50,intraperitoneal,925,,"Journal of Agricultural and Food Chemistry., 25(9), 1977",Permethrin
+40326,52645-53-1,man,TDLo,oral,2270,"BEHAVIORAL: COMA; GASTROINTESTINAL: HYPERMOTILITY, DIARRHEA","Journal of Toxicology, Clinical Toxicology., 36(57), 1998 [PMID:9541045]",Permethrin
+40326,52645-53-1,rat,LD50,oral,383,,"National Technical Information Service., AD-A047-284",Permethrin
+40326,52645-53-1,rat,LD50,skin,1750,,"Gigiena i Sanitariya.  For English translation, see HYSAAV., 53(9)(69), 1988",Permethrin
+40326,52645-53-1,rat,LD,intravenous,270,BEHAVIORAL: TREMOR; BEHAVIORAL: REGIDITY; BEHAVIORAL: AGGRESSION,"Archives of Toxicology., 45(325), 1980 [PMID:7447703]",Permethrin
+40585,52918-63-5,rat,LD50,skin,800,,"Journal of Environmental Pathology and Toxicology., 2(3)(751), 1979",Deltamethrin
+40585,52918-63-5,mouse,LD50,oral,20,"BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; KIDNEY, URETER, AND BLADDER: URINE VOLUME INCREASED","Journal of Environmental Biology., 12(45), 1991",Deltamethrin
+40585,52918-63-5,mouse,LD50,intraperitoneal,10,,"EHP, Environmental Health Perspectives., 21(285), 1977 [PMID:612453]",Deltamethrin
+40585,52918-63-5,duck,LD50,oral,4640,,"Pesticide Manual., 9(232), 1991",Deltamethrin
+4130,298-00-0,rat,LD50,skin,67,,"World Review of Pest Control., 4(36), 1965",Methyl parathion
+4130,298-00-0,rat,LD50,subcutaneous,6,,"Journal of Economic Entomology., 50(356), 1957",Methyl parathion
+4130,298-00-0,rat,LD50,intravenous,9,,"National Technical Information Service., PB277-077",Methyl parathion
+4130,298-00-0,rat,LD50,unreported,10,,"Nippon Yakurigaku Zasshi.  Japanese Journal of Pharmacology., 74(41P), 1978",Methyl parathion
+4130,298-00-0,mouse,LD50,subcutaneous,18,,"Bratislavske Lekarske Listy., 38(151), 1958",Methyl parathion
+4130,298-00-0,mouse,LD50,intracrebral,47,,"Pesticide Biochemistry and Physiology., 8(302), 1978",Methyl parathion
+4130,298-00-0,mouse,LD50,unreported,23,,"Bulletin of the World Health Organization., 44(31), 1971 [PMID:5315349]",Methyl parathion
+4130,298-00-0,dog,LD50,oral,90,GASTROINTESTINAL: NAUSEA OR VOMITING,"Proceedings of the European Society of Toxicology., 16(273), 1975",Methyl parathion
+4130,298-00-0,rabbit,LD50,oral,420,,"National Technical Information Service., PB241-840",Methyl parathion
+4130,298-00-0,rabbit,LD50,skin,300,,"Quarterly Bulletin--Association of Food and Drug Officials of the United States., 16(3), 1952",Methyl parathion
+4130,298-00-0,guinea pig,LD50,oral,1270,,"National Technical Information Service., PB241-840",Methyl parathion
+4130,298-00-0,guinea pig,LD50,intravenous,50,,"National Technical Information Service., PB241-840",Methyl parathion
+4130,298-00-0,duck,LD50,oral,10,,"Down to Earth., 35(25), 1979",Methyl parathion
+4130,298-00-0,duck,LD50,skin,54,,"Toxicology and Applied Pharmacology., 47(451), 1979 [PMID:442090]",Methyl parathion
+4130,298-00-0,mammal (species unspecified),LD50,oral,57,"BEHAVIORAL: TREMOR; BEHAVIORAL: ATAXIA; LUNGS, THORAX, OR RESPIRATION: DYSPNEA","National Technical Information Service., PB288-416",Methyl parathion
+4130,298-00-0,mammal (species unspecified),LD50,unreported,25,,"Chemistry of Pesticides, Melnikov, N.N., New York, Springer-Verlag New York, Inc., 1971, -(327), 1971",Methyl parathion
+4130,298-00-0,bird - wild,LD50,oral,5,,"Journal de Toxicologie Clinique et Experimentale., 6(3)(175), 1986",Methyl parathion
+4130,298-00-0,mouse,LD50,skin,1200,,"Journal of Toxicology and Environmental Health., 9(491), 1982 [PMID:7097799]",Methyl parathion
+41381,55283-68-6,dog,LD50,oral,200,,"Pesticide Manual., 9(340), 1991",Ethalfluralin
+41381,55283-68-6,cat,LD50,oral,200,,"Pesticide Manual., 9(340), 1991",Ethalfluralin
+41381,55283-68-6,quail,LD50,oral,200,,"Pesticide Manual., 9(340), 1991",Ethalfluralin
+41381,55283-68-6,duck,LD50,oral,200,,"Pesticide Manual., 9(340), 1991",Ethalfluralin
+41428,55335-06-3,rat,LD50,oral,630,,"Farm Chemicals Handbook., -(C310), 1991",Triclopyr
+41428,55335-06-3,rabbit,LD50,oral,550,,"Pesticide Manual., 9(844), 1991",Triclopyr
+41428,55335-06-3,guinea pig,LD50,oral,310,,"Pesticide Manual., 9(844), 1991",Triclopyr
+41428,55335-06-3,duck,LD50,oral,1693,,"Down to Earth., 35(25), 1979",Triclopyr
+4169,51218-45-2,rat,LD50,oral,2200,,"Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 14(103), 1989",Metolachlor
+4169,51218-45-2,rat,LD50,skin,3170,,"Materialy Sesji Naukowej Instytutu Ochrony Roslin, 18(341), 1979",Metolachlor
+4169,51218-45-2,rat,LD50,intraperitoneal,620,,"Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 14(103), 1989",Metolachlor
+4169,51218-45-2,rat,LD50,unreported,3170,,"Agrokhimiya. Agricultural Chemistry., (5)(138), 1980",Metolachlor
+4169,51218-45-2,mouse,LD50,oral,1150,,"Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 14(103), 1989",Metolachlor
+4169,51218-45-2,mouse,LD50,intraperitoneal,410,,"Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 14(103), 1989",Metolachlor
+4169,51218-45-2,mouse,LD50,subcutaneous,2400,,"Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 14(103), 1989",Metolachlor
+4169,51218-45-2,duck,LD50,oral,2510,,"Farm Chemicals Handbook., -(C203), 1991",Metolachlor
+42586,57837-19-1,rat,LD50,oral,566,,"Journal of Hygiene, Epidemiology, Microbiology, and Immunology., 35(375), 1991 [PMID:1804868]",Metalaxyl
+42586,57837-19-1,rat,LD50,skin,3100,,"Pesticide Manual., 9(554), 1991",Metalaxyl
+43079,59756-60-4,dog,LD50,oral,500,,"Pesticide Manual., 9(418), 1991",Fluridone
+43079,59756-60-4,cat,LD50,oral,250,,"Pesticide Manual., 9(418), 1991",Fluridone
+43079,59756-60-4,rabbit,LD50,skin,500,,"Pesticide Manual., 9(418), 1991",Fluridone
+43226,60168-88-9,rat,LD50,oral,2500,,"Defense des Vegetaux., 34(17), 1980",Fenarimol
+43226,60168-88-9,mouse,LD50,oral,4500,,"Defense des Vegetaux., 34(17), 1980",Fenarimol
+43226,60168-88-9,dog,LD50,oral,200,,"Pesticide Manual., 9(362), 1991",Fenarimol
+43226,60168-88-9,bird - wild,LD50,oral,200,,"Pesticide Manual., 9(362), 1991",Fenarimol
+43234,60207-90-1,rat,LD50,oral,1517,,"Proceedings-British Crop Protection Conference-Pests and Diseases., -(508), 1979",Propiconazole
+44073,50594-66-6,rat,LD50,oral,1370,,"Pesticide Manual., 9(6), 1991",Acifluorfen
+44073,50594-66-6,mouse,LD50,oral,1370,,"Pesticide Manual., 9(6), 1991",Acifluorfen
+44073,50594-66-6,rabbit,LD50,skin,3680,,"Pesticide Manual., 9(6), 1991",Acifluorfen
+44073,50594-66-6,quail,LD50,oral,325,,"Pesticide Manual., 9(6), 1991",Acifluorfen
+44073,50594-66-6,duck,LD50,oral,2821,,"Pesticide Manual., 9(6), 1991",Acifluorfen
+4420,300-76-5,rat,LD50,oral,92,"BEHAVIORAL: TREMOR; GASTROINTESTINAL: CHANGES IN STRUCTURE OR FUNCTION OF SALIVARY GLANDS; GASTROINTESTINAL: HYPERMOTILITY, DIARRHEA","Acute Toxicity Data. Journal of the American College of Toxicology, Part B., 1(90), 1990",Naled
+4420,300-76-5,rat,LD50,skin,800,,"World Review of Pest Control., 9(119), 1970",Naled
+4420,300-76-5,rat,LD50,intraperitoneal,35,,"Bulletin of Environmental Contamination and Toxicology., 19(113), 1978 [PMID:75750]",Naled
+4420,300-76-5,mouse,LD50,oral,222,SENSE ORGANS AND SPECIAL SENSES: OTHER: EYE; BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; GASTROINTESTINAL: CHANGES IN STRUCTURE OR FUNCTION OF SALIVARY GLANDS,"Bulletin of Environmental Contamination and Toxicology., 19(113), 1978 [PMID:75750]",Naled
+4420,300-76-5,mouse,LD50,skin,600,,"Japan Pesticide Information., (8)(24), 1971",Naled
+4420,300-76-5,mouse,LD50,intraperitoneal,84,,"Toxicometric Parameters of Industrial Toxic Chemicals Under Single Exposure, Izmerov, N.F., et al., Moscow, Centre of International Projects, GKNT, 1982, -(56), 1982",Naled
+4420,300-76-5,rabbit,LD50,skin,1100,,"Pesticide Index, Frear, E.H., ed., State College, PA, College Science Pub., 1969, 5(161), 1976",Naled
+4420,300-76-5,duck,LD50,oral,52,,"Down to Earth., 35(25), 1979",Naled
+4420,300-76-5,mammal (species unspecified),LD50,oral,430,,"Herba Polonica., 21(53), 1975",Naled
+4618,301-12-2,rat,LD50,oral,30,,"Naunyn-Schmiedeberg's Archiv fuer Experimentelle Pathologie und Pharmakologie., 234(352), 1958 [PMID:13600403]",Oxydemeton-methyl
+4618,301-12-2,rat,LD50,skin,100,,"World Review of Pest Control., 9(119), 1970",Oxydemeton-methyl
+4618,301-12-2,rat,LD50,intraperitoneal,20,,"Guide to the Chemicals Used in Crop Protection., 6(385), 1973",Oxydemeton-methyl
+4618,301-12-2,rat,LD50,intravenous,47,BEHAVIORAL: GENERAL ANESTHETIC,"Biochemical Journal., 67(187), 1957 [PMID:13471532]",Oxydemeton-methyl
+4618,301-12-2,rat,LD50,unreported,65,,"Chemistry of Pesticides, Melnikov, N.N., New York, Springer-Verlag New York, Inc., 1971, -(348), 1971",Oxydemeton-methyl
+4618,301-12-2,mouse,LD50,oral,10,,"Organophosphorus Pesticides: Organic and Biological Chemistry, Eto, M., Cleveland, OH, CRC Press, Inc.,  1974, -(197), 1974",Oxydemeton-methyl
+4618,301-12-2,mouse,LD50,intraperitoneal,8,,"Toxicology and Applied Pharmacology., 4(621), 1962 [PMID:13888059]",Oxydemeton-methyl
+4618,301-12-2,guinea pig,LD50,oral,120,,"Pesticide Chemicals Official Compendium, Association of the American Pesticide Control Officials, Inc., 1966., -(721), 1966",Oxydemeton-methyl
+4618,301-12-2,guinea pig,LD50,intraperitoneal,30,,"Toxicology and Applied Pharmacology., 4(621), 1962 [PMID:13888059]",Oxydemeton-methyl
+4618,301-12-2,pigeon,LD50,oral,15,,"Toxicology and Applied Pharmacology., 20(57), 1971 [PMID:5110827]",Oxydemeton-methyl
+4618,301-12-2,chicken,LD50,oral,80,BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD,"Toxicology and Applied Pharmacology., 6(147), 1964",Oxydemeton-methyl
+4618,301-12-2,quail,LD50,oral,84,,"Toxicology and Applied Pharmacology., 20(57), 1971 [PMID:5110827]",Oxydemeton-methyl
+4618,301-12-2,duck,LD50,oral,54,,"Toxicology and Applied Pharmacology., 20(57), 1971 [PMID:5110827]",Oxydemeton-methyl
+4618,301-12-2,bird - wild,LD50,oral,42,,"Toxicology and Applied Pharmacology., 20(57), 1971 [PMID:5110827]",Oxydemeton-methyl
+47326,39515-41-8,rat,LD50,skin,870,,"Pesticide Manual., 9(377), 1991",Fenpropathrin
+47326,39515-41-8,rat,LD50,intraperitoneal,180,,"Japan Pesticide Information., (38)(21), 1981",Fenpropathrin
+47326,39515-41-8,rat,LD50,subcutaneous,900,,"Japan Pesticide Information., (38)(21), 1981",Fenpropathrin
+47326,39515-41-8,mouse,LD50,oral,58,,"Japan Pesticide Information., (38)(21), 1981",Fenpropathrin
+47326,39515-41-8,mouse,LD50,skin,740,,"Japan Pesticide Information., (38)(21), 1981",Fenpropathrin
+47326,39515-41-8,mouse,LD50,intraperitoneal,210,,"Japan Pesticide Information., (38)(21), 1981",Fenpropathrin
+47326,39515-41-8,mouse,LD50,subcutaneous,900,,"Japan Pesticide Information., (38)(21), 1981",Fenpropathrin
+47326,39515-41-8,rabbit,LD50,oral,510,,"Japan Pesticide Information., (38)(21), 1981",Fenpropathrin
+47326,39515-41-8,duck,LD50,oral,1089,,"Pesticide Manual., 9(377), 1991",Fenpropathrin
+47326,39515-41-8,rat,LD50,oral,74,,"JAT, Journal of Applied Toxicology., 17(353), 1997 [PMID:9418941]",Fenpropathrin
+47326,39515-41-8,rat,LD50,oral,18,,"Pesticide Science., 8(579), 1977",Fenpropathrin
+47491,64902-72-3,rat,LD50,oral,9366,,"Gigiena i Sanitariya.  For English translation, see HYSAAV., 52(10)(17), 1987",Chlorsulfuron
+47491,64902-72-3,rat,LD50,oral,5545,,"Journal of Agricultural and Food Chemistry., 29(416), 1981",Chlorsulfuron
+47491,64902-72-3,dog,LD,oral,2500,"BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); GASTROINTESTINAL: HYPERMOTILITY, DIARRHEA","National Technical Information Service., OTS0570808",Chlorsulfuron
+47491,64902-72-3,rabbit,LD50,skin,3400,,"Farm Chemicals Handbook., -(C154), 1991",Chlorsulfuron
+47866,66215-27-8,rat,LD50,oral,3387,,"Pesticide Manual., 9(217), 1991",Cyromazine
+47866,66215-27-8,rat,LD50,skin,3100,,"Pesticide Manual., 9(217), 1991",Cyromazine
+47866,66215-27-8,quail,LD50,oral,1785,,"Pesticide Manual., 9(217), 1991",Cyromazine
+47866,66215-27-8,domestic animals - goat/sheep,LDLo,oral,500,PERIPHERAL NERVE AND SENSATION: FASCICULATIONS; BEHAVIORAL: ATAXIA,"National Technical Information Service., OTS0538005",Cyromazine
+4790,298-02-2,rat,LD50,oral,1,,"Down to Earth., 35(25), 1979",Phorate
+4790,298-02-2,rabbit,LD50,skin,99,,"Farm Chemicals Handbook., -(C236), 1991",Phorate
+4790,298-02-2,guinea pig,LD50,skin,20,,"Pesticide Chemicals Official Compendium, Association of the American Pesticide Control Officials, Inc., 1966., -(895), 1966",Phorate
+4790,298-02-2,quail,LD50,oral,7,"BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; BEHAVIORAL: ATAXIA; LUNGS, THORAX, OR RESPIRATION: DYSPNEA","Ecotoxicology and Environmental Safety., 8(551), 1984 [PMID:6510327]",Phorate
+4790,298-02-2,duck,LD50,skin,203,,"Toxicology and Applied Pharmacology., 47(451), 1979 [PMID:442090]",Phorate
+4790,298-02-2,bird - wild,LD50,oral,1,,"Toxicology and Applied Pharmacology., 21(315), 1972 [PMID:5027965]",Phorate
+4929,7287-19-6,rat,LD50,oral,2100,"AUTONOMIC NERVOUS SYSTEM: OTHER (DIRECT) PARASYMPATHOMIMETIC; LUNGS, THORAX, OR RESPIRATION: OTHER CHANGES; GASTROINTESTINAL: OTHER CHANGES","Gigiena i Sanitariya.  For English translation, see HYSAAV., 34(3)(94), 1969",Prometryn
+4929,7287-19-6,rat,LD50,skin,3100,,"Pesticide Manual., 9(711), 1991",Prometryn
+4929,7287-19-6,mouse,LD50,oral,2138,"BEHAVIORAL: MUSCLE WEAKNESS; LUNGS, THORAX, OR RESPIRATION: RESPIRATORY DEPRESSION; KIDNEY, URETER, AND BLADDER: URINE VOLUME INCREASED","Gigiena i Sanitariya.  For English translation, see HYSAAV., 33(2)(12), 1968",Prometryn
+4929,7287-19-6,rabbit,LD50,skin,3100,,"Farm Chemicals Handbook., -(C250), 1991",Prometryn
+4929,7287-19-6,mammal (species unspecified),LD50,unreported,1800,,"Gigiena i Sanitariya.  For English translation, see HYSAAV., 44(6)(81), 1979",Prometryn
+4933,709-98-8,rat,LD50,oral,367,,"Khigiena i Zdraveopazvane.  Hygiene and Sanitation., 27(451), 1984",Propanil
+4933,709-98-8,rat,LD50,unreported,1300,,"Chemistry of Pesticides, Melnikov, N.N., New York, Springer-Verlag New York, Inc., 1971, -(124), 1971",Propanil
+4933,709-98-8,mouse,LD50,oral,360,,"Gigiena Truda i Professional'nye Zabolevaniya.  Labor Hygiene and Occupational Diseases., 21(12)(30), 1977",Propanil
+4933,709-98-8,dog,LD50,oral,1217,BRAIN AND COVERINGS: RECORDINGS FROM SPECIFIC AREAS OF CNS,"Toxicology and Applied Pharmacology., 23(650), 1972 [PMID:4674812]",Propanil
+4933,709-98-8,rabbit,LD50,skin,4830,,"Agrochemicals Handbook, with updates, Hartley, D., and H. Kidd, eds., Nottingham, Royal Soc of Chemistry, 1983-86, A343(1983)",Propanil
+4933,709-98-8,rabbit,LD50,unreported,500,,"Chemistry of Pesticides, Melnikov, N.N., New York, Springer-Verlag New York, Inc., 1971, -(124), 1971",Propanil
+4933,709-98-8,mammal (species unspecified),LD50,oral,2527,"BEHAVIORAL: ALTERED SLEEP TIME (INCLUDING CHANGE IN RIGHTING REFLEX); BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); LUNGS, THORAX, OR RESPIRATION: DYSPNEA","National Technical Information Service., PB288-416",Propanil
+4936,2312-35-8,rat,LD50,oral,1480,,"Toxicology and Applied Pharmacology., 14(515), 1969 [PMID:5787520]",Propargite
+4936,2312-35-8,rat,LD50,skin,250,,"World Review of Pest Control., 9(119), 1970",Propargite
+4936,2312-35-8,mouse,LD50,unreported,780,,"Tsitologiya i Genetika.  Cytology and Genetics.  For English translation, see CYGEDX., 16(1)(45), 1982",Propargite
+4936,2312-35-8,rabbit,LD50,skin,10300,,"Agrochemicals Handbook, with updates, Hartley, D., and H. Kidd, eds., Nottingham, Royal Soc of Chemistry, 1983-86, A589(1985)",Propargite
+4937,139-40-2,rat,LD50,oral,3840,,"Toxicometric Parameters of Industrial Toxic Chemicals Under Single Exposure, Izmerov, N.F., et al., Moscow, Centre of International Projects, GKNT, 1982, -(35), 1982",Propazine
+4937,139-40-2,rat,LD50,skin,3100,,"Pesticide Manual., 9(721), 1991",Propazine
+4937,139-40-2,rat,LD50,subcutaneous,395,,"Farmakologiya i Toksikologiya, 42(163), 1979 [PMID:437085]",Propazine
+4937,139-40-2,mouse,LD50,oral,3180,,"Toxicometric Parameters of Industrial Toxic Chemicals Under Single Exposure, Izmerov, N.F., et al., Moscow, Centre of International Projects, GKNT, 1982, -(35), 1982",Propazine
+4937,139-40-2,rabbit,LD50,skin,10200,,"Ciba-Geigy Toxicology Data/Indexes., -(-), 1977",Propazine
+4937,139-40-2,guinea pig,LD50,oral,1200,,"Toxicometric Parameters of Industrial Toxic Chemicals Under Single Exposure, Izmerov, N.F., et al., Moscow, Centre of International Projects, GKNT, 1982, -(35), 1982",Propazine
+50367,69327-76-0,rat,LD50,oral,2198,,"Pesticide Manual., 9(105), 1991",Buprofezin
+50465,69377-81-7,rat,LD50,oral,2405,,"Agrochemicals Handbook, with updates, Hartley, D., and H. Kidd, eds., Nottingham, Royal Soc of Chemistry, 1983-86, A791(1986)",Fluroxypyr
+50465,69377-81-7,rat,LD50,intraperitoneal,458,,"Proceedings of the British Crop Protection Conference - Weeds., -(939), 1985",Fluroxypyr
+5125,78-48-8,rat,LD50,skin,168,,"World Review of Pest Control., 9(119), 1970",Tribufos
+5125,78-48-8,rat,LD50,intraperitoneal,210,BEHAVIORAL: REGIDITY; BEHAVIORAL: IRRITABILITY; GASTROINTESTINAL: CHANGES IN STRUCTURE OR FUNCTION OF SALIVARY GLANDS,"AMA Archives of Industrial Health., 20(161), 1959",Tribufos
+5125,78-48-8,mouse,LD50,oral,77,,"Prehled Prumyslove Toxikologie; Organicke Latky, Marhold, J., Prague, Czechoslovakia, Avicenum, 1986, -(1188), 1986",Tribufos
+5125,78-48-8,mouse,LD50,intraperitoneal,285,,"Biochemical Pharmacology., 12(73), 1963 [PMID:14019076]",Tribufos
+5125,78-48-8,rabbit,LD50,oral,242,"SENSE ORGANS AND SPECIAL SENSES: LACRIMATION: EYE; BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; KIDNEY, URETER, AND BLADDER: INCONTINENCE","Gigiena Truda i Professional'nye Zabolevaniya.  Labor Hygiene and Occupational Diseases., 11(4)(11), 1967",Tribufos
+5125,78-48-8,rabbit,LD50,skin,97,,"Toxicometric Parameters of Industrial Toxic Chemicals Under Single Exposure, Izmerov, N.F., et al., Moscow, Centre of International Projects, GKNT, 1982, -(44), 1982",Tribufos
+5125,78-48-8,guinea pig,LD50,oral,140,,"Toxicometric Parameters of Industrial Toxic Chemicals Under Single Exposure, Izmerov, N.F., et al., Moscow, Centre of International Projects, GKNT, 1982, -(44), 1982",Tribufos
+5125,78-48-8,guinea pig,LD50,intraperitoneal,150,BEHAVIORAL: REGIDITY; BEHAVIORAL: IRRITABILITY; GASTROINTESTINAL: CHANGES IN STRUCTURE OR FUNCTION OF SALIVARY GLANDS,"AMA Archives of Industrial Health., 20(161), 1959",Tribufos
+5125,78-48-8,mammal (species unspecified),LD50,unreported,170,,"Chemistry of Pesticides, Melnikov, N.N., New York, Springer-Verlag New York, Inc., 1971, -(376), 1971",Tribufos
+5125,78-48-8,rat,LD50,oral,150,,"Toxicology and Applied Pharmacology., 14(515), 1969 [PMID:5787520]",Tribufos
+51556,72178-02-0,rat,LD50,oral,1250,,"Pesticide Manual., 9(433), 1991",Fomesafen
+51605,72490-01-8,rat,LD50,oral,16800,,"Farm Chemicals Handbook., -(C137), 1991",Fenoxycarb
+516902,7775-09-09,women,TDLo,oral,800,"LUNGS, THORAX, OR RESPIRATION: OTHER CHANGES; BLOOD: OTHER HEMOLYSIS WITH OR WITHOUT ANEMIA; BLOOD: METHEMOGLOBINEMIA-CARBOXYHEMOGLOBIN","Toxicology of Drugs and Chemicals, Deichmann, W.B., New York, Academic Press, Inc., 1969, -(539), 1969",Sodium chlorate
+516902,7775-09-09,man,TDLo,oral,286,"LUNGS, THORAX, OR RESPIRATION: CYANOSIS; BLOOD: CHANGES IN CELL COUNT (UNSPECIFIED); BLOOD: METHEMOGLOBINEMIA-CARBOXYHEMOGLOBIN","Clinical Toxicology., 15(185), 1979 [PMID:509884]",Sodium chlorate
+516902,7775-09-09,human,LDLo,unreported,214,,"Guide to the Chemicals Used in Crop Protection., 6(461), 1973",Sodium chlorate
+516902,7775-09-09,child,LD50,unreported,185,,"Guide to the Chemicals Used in Crop Protection., 6(461), 1973",Sodium chlorate
+516902,7775-09-09,rat,LD50,oral,1200,,"Pharmaceutical Journal., 185(361), 1960",Sodium chlorate
+516902,7775-09-09,mouse,LD50,oral,8350,,"Uzbekskii Biologicheskii Zhurnal.  Uzbek Biological Journal., (1)(40), 1986",Sodium chlorate
+516902,7775-09-09,mouse,LD50,intraperitoneal,596,,"Comptes Rendus Hebdomadaires des Seances, Academie des Sciences., 257(791), 1963",Sodium chlorate
+516902,7775-09-09,dog,LDLo,oral,700,,"Abdernalden's Handbuch der Biologischen Arbeitsmethoden., 4(1289), 1935",Sodium chlorate
+516902,7775-09-09,cat,LDLo,oral,1350,,"Pesticide Chemicals Official Compendium, Association of the American Pesticide Control Officials, Inc., 1966., -(1013), 1966",Sodium chlorate
+516902,7775-09-09,rabbit,LD50,oral,7200,,"Gigiena Truda i Professional'nye Zabolevaniya.  Labor Hygiene and Occupational Diseases., 31(1)(49), 1987",Sodium chlorate
+516902,7775-09-09,rat,LD50,oral,4330,,"Farm Chemicals Handbook., -(C244), 1991",Sodium chlorate
+5216,122-34-9,rat,LD50,oral,971,,"Fundamental and Applied Toxicology., 7(299), 1986",Simazine
+5216,122-34-9,mouse,LD50,intravenous,100,,"U.S. Army Armament Research & Development Command, Chemical Systems Laboratory, NIOSH Exchange Chemicals., NX#04003",Simazine
+5216,122-34-9,rat,LD50,unreported,1390,,"Gigiena Truda i Professional'nye Zabolevaniya.  Labor Hygiene and Occupational Diseases., 7(5)(54), 1963",Simazine
+5216,122-34-9,rabbit,LD50,skin,10200,,"Yakkyoku.  Pharmacy., 37(427), 1986",Simazine
+5216,122-34-9,mammal (species unspecified),LD50,oral,2014,BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: MUSCLE CONTRACTION OR SPASTICITY); SKIN AND APPENDAGES (SKIN): HAIR: OTHER,"National Technical Information Service., PB288-416",Simazine
+5216,122-34-9,mammal (species unspecified),LD50,unreported,1400,,"Gigiena i Sanitariya.  For English translation, see HYSAAV., 44(6)(81), 1979",Simazine
+5281875,67485-29-4,rat,LD50,oral,1131,,"Farm Chemicals Handbook., -(C167), 1991",Hydramethylnon
+5281875,67485-29-4,quail,LD50,oral,1828,,"Farm Chemicals Handbook., -(C167), 1991",Hydramethylnon
+5281875,67485-29-4,duck,LD50,oral,2510,,"Pesticide Manual., 9(475), 1991",Hydramethylnon
+5284484,9006-42-2,mammal (species unspecified),LD50,unreported,3290,,"Gigiena i Sanitariya.  For English translation, see HYSAAV., 45(5)(29), 1980",Zineb
+5284484,9006-42-2,rat,LD50,oral,2850,,"Vrachebnoe Delo.  Medical Practice., (9)(130), 1975 [PMID:54994]",Zineb
+5284484,9006-42-2,rat,LD50,unreported,3250,,"Environmental Quality and Safety, Supplement., 3(618), 1975 [PMID:1063688]",Zineb
+5284484,9006-42-2,mouse,LD50,oral,2630,,"Veterinariya.  Veterinary Science., 56(6)(59), 1980",Zineb
+5284484,9006-42-2,rabbit,LD50,oral,620,,"Veterinariya.  Veterinary Science., 56(6)(59), 1980",Zineb
+5284484,9006-42-2,guinea pig,LD50,oral,2400,,"Pesticide Chemicals Official Compendium, Association of the American Pesticide Control Officials, Inc., 1966., -(923), 1966",Zineb
+5284484,9006-42-2,guinea pig,LD50,unreported,3750,,"Gigiena Truda i Professional'nye Zabolevaniya.  Labor Hygiene and Occupational Diseases., 32(2)(33), 1988",Zineb
+5284484,9006-42-2,chicken,LD50,oral,7660,,"Veterinariya.  Veterinary Science., 56(6)(59), 1980",Zineb
+5353758,16752-77-5,rat,LD50,skin,1600,,"World Review of Pest Control., 9(119), 1970",Methomyl
+5353758,16752-77-5,mouse,LD50,oral,10,,"Journal of Agricultural and Food Chemistry., 26(550), 1978 [PMID:659709]",Methomyl
+5353758,16752-77-5,dog,LD50,oral,20,,"Documentation of the Threshold Limit Values and Biological Exposure Indices, 5th ed., Cincinnati, OH, American Conference of Governmental Industrial Hygienists, Inc., 1986, 6(906), 1991",Methomyl
+5353758,16752-77-5,monkey,LDLo,oral,40,,"Toxicology and Applied Pharmacology., 40(1), 1977 [PMID:867425]",Methomyl
+5353758,16752-77-5,rabbit,LD50,skin,5880,,"Farm Chemicals Handbook., -(C199), 1991",Methomyl
+5353758,16752-77-5,guinea pig,LDLo,oral,15,,"Toxicology and Applied Pharmacology., 40(1), 1977 [PMID:867425]",Methomyl
+5353758,16752-77-5,pigeon,LD50,oral,10,,"ASTM Special Technical Publication., (680)(157), 1979",Methomyl
+5353758,16752-77-5,chicken,LD50,oral,28,"BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; LUNGS, THORAX, OR RESPIRATION: DYSPNEA; SENSE ORGANS AND SPECIAL SENSES: LACRIMATION: EYE","Toxicology and Applied Pharmacology., 40(1), 1977 [PMID:867425]",Methomyl
+5353758,16752-77-5,duck,LD50,oral,15,,Shell Chemical Company.,Methomyl
+5353758,16752-77-5,bird - wild,LD50,oral,10,,"Toxicology and Applied Pharmacology., 21(315), 1972 [PMID:5027965]",Methomyl
+5353758,16752-77-5,rat,LD50,subcutaneous,9,,"Toxicology and Applied Pharmacology., 25(569), 1973 [PMID:4741778]",Methomyl
+5364079,57966-95-7,rat,LD50,oral,1100,,"Farm Chemicals Handbook., -(C90), 1991",Cymoxanil
+5364079,57966-95-7,rat,LD50,intraperitoneal,166,"SENSE ORGANS AND SPECIAL SENSES: LACRIMATION: EYE; SENSE ORGANS AND SPECIAL SENSES: OTHER: EYE; LUNGS, THORAX, OR RESPIRATION: DYSPNEA","National Technical Information Service., OTS0555067",Cymoxanil
+5364079,57966-95-7,dog,LDLo,oral,1500,"BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; GASTROINTESTINAL: HYPERMOTILITY, DIARRHEA","National Technical Information Service., OTS0570815",Cymoxanil
+5364079,57966-95-7,guinea pig,LD50,oral,1096,,"Pesticide Manual., 9(206), 1991",Cymoxanil
+5371560,141-66-2,rat,LD50,oral,13,,"Agricultural Research Service, USDA Information Memorandum., 20(6), 1966",Dicrotophos
+5371560,141-66-2,rat,LD50,skin,42,,"World Review of Pest Control., 9(119), 1970",Dicrotophos
+5371560,141-66-2,rat,LD50,unreported,22,,"Chemistry of Pesticides, Melnikov, N.N., New York, Springer-Verlag New York, Inc., 1971, -(314), 1971",Dicrotophos
+5371560,141-66-2,mouse,LD50,oral,11,,"Guide to the Chemicals Used in Crop Protection., 6(196), 1973",Dicrotophos
+5371560,141-66-2,rabbit,LD50,skin,168,,"Guide to the Chemicals Used in Crop Protection., 6(196), 1973",Dicrotophos
+5371560,141-66-2,pigeon,LD50,oral,2,,"Toxicology and Applied Pharmacology., 20(57), 1971 [PMID:5110827]",Dicrotophos
+5371560,141-66-2,quail,LD50,oral,4,,"Toxicology and Applied Pharmacology., 20(57), 1971 [PMID:5110827]",Dicrotophos
+5371560,141-66-2,bird - wild,LD50,oral,1,,"ASTM Special Technical Publication., (680)(157), 1979",Dicrotophos
+5383,34014-18-1,rat,LD50,oral,644,BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: FOOD INTAKE (ANIMAL); BEHAVIORAL: ATAXIA,"Food and Cosmetics Toxicology., 12(461), 1974 [PMID:4459242]",Tebuthiuron
+5383,34014-18-1,rat,LD50,intraperitoneal,480,"BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; BEHAVIORAL: ATAXIA; LUNGS, THORAX, OR RESPIRATION: DYSPNEA","Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 17(S35), 1992",Tebuthiuron
+5383,34014-18-1,rat,LD50,subcutaneous,500,"BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; BEHAVIORAL: ATAXIA; LUNGS, THORAX, OR RESPIRATION: DYSPNEA","Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 17(S35), 1992",Tebuthiuron
+5383,34014-18-1,mouse,LD50,oral,579,BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: FOOD INTAKE (ANIMAL); BEHAVIORAL: ATAXIA,"Food and Cosmetics Toxicology., 12(461), 1974 [PMID:4459242]",Tebuthiuron
+5383,34014-18-1,mouse,LD50,intraperitoneal,505,"BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; BEHAVIORAL: ATAXIA; LUNGS, THORAX, OR RESPIRATION: DYSPNEA","Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 17(S35), 1992",Tebuthiuron
+5383,34014-18-1,mouse,LD50,subcutaneous,545,"BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; BEHAVIORAL: ATAXIA; LUNGS, THORAX, OR RESPIRATION: DYSPNEA","Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 17(S35), 1992",Tebuthiuron
+5383,34014-18-1,dog,LD50,oral,500,,"Pesticide Manual., 9(787), 1991",Tebuthiuron
+5383,34014-18-1,cat,LD50,oral,200,,"Pesticide Manual., 9(787), 1991",Tebuthiuron
+5383,34014-18-1,rabbit,LD50,oral,286,BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: FOOD INTAKE (ANIMAL); BEHAVIORAL: ATAXIA,"Food and Cosmetics Toxicology., 12(461), 1974 [PMID:4459242]",Tebuthiuron
+5383,34014-18-1,chicken,LD50,oral,500,,"Pesticide Manual., 9(787), 1991",Tebuthiuron
+5383,34014-18-1,quail,LD50,oral,500,,"Pesticide Manual., 9(787), 1991",Tebuthiuron
+5383,34014-18-1,duck,LD50,oral,500,,"Pesticide Manual., 9(787), 1991",Tebuthiuron
+5430,148-79-8,rat,LD50,oral,2080,BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: ATAXIA,"Science Reports of the Research Institutes, Tohoku University, Series C: Medicine., 36(1-4)(10), 1989",Thiabendazole
+5430,148-79-8,mouse,LD50,oral,1300,,"Gigiena i Sanitariya.  For English translation, see HYSAAV., 55(10)(28), 1990",Thiabendazole
+5430,148-79-8,rabbit,LD50,oral,3850,,"Wirksubstanzen der Pflanzenschutz und Schadlingsbekampfungsmittel, Perkow, W., Berlin, Verlag Paul Parey, 1971-1976, -(-), 1971/1976",Thiabendazole
+5430,148-79-8,domestic animals - goat/sheep,LD50,oral,400,,"Veterinarno-Meditsinski Nauki.  Veterinary Science., 19(3)(99), 1982",Thiabendazole
+5455,137-26-8,rat,LD50,oral,560,,"Toxicology and Applied Pharmacology., 11(546), 1967 [PMID:5586363]",Thiram
+5455,137-26-8,rat,LD50,intraperitoneal,138,BEHAVIORAL: CHANGES IN MOTOR ACTIVITY (SPECIFIC ASSAY),"Journal de Pharmacologie., 9(35), 1978",Thiram
+5455,137-26-8,rat,LD50,subcutaneous,646,,"Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 15(507), 1990",Thiram
+5455,137-26-8,rat,LD50,unreported,740,,"Kobunshi Kako.  Polymer Applications., 26(358), 1977",Thiram
+5455,137-26-8,mouse,LD50,oral,1250,BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); SKIN AND APPENDAGES (SKIN): HAIR: OTHER,"Gigiena Truda i Professional'nye Zabolevaniya.  Labor Hygiene and Occupational Diseases., 6(7)(28), 1962",Thiram
+5455,137-26-8,mouse,LD50,intraperitoneal,70,,"Drugs in Japan, 6(566), 1982",Thiram
+5455,137-26-8,mouse,LD50,subcutaneous,1109,,"Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 15(507), 1990",Thiram
+5455,137-26-8,mouse,LD50,unreported,1150,,"Kobunshi Kako.  Polymer Applications., 26(358), 1977",Thiram
+5455,137-26-8,cat,LDLo,oral,230,BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; BEHAVIORAL: ATAXIA; BEHAVIORAL: ANALGESIA,"Journal of Pharmacology and Experimental Therapeutics., 17(349), 1921",Thiram
+5455,137-26-8,rabbit,LD50,oral,210,,"Kobunshi Kako.  Polymer Applications., 26(358), 1977",Thiram
+5455,137-26-8,rabbit,LD50,unreported,210,,"Veterinariya.  Veterinary Science., 54(2)(70), 1978",Thiram
+5455,137-26-8,chicken,LD50,unreported,840,,"Veterinariya.  Veterinary Science., 54(2)(70), 1978",Thiram
+5455,137-26-8,domestic animals - goat/sheep,LD50,unreported,225,,"Veterinariya.  Veterinary Science., 54(2)(70), 1978",Thiram
+5455,137-26-8,mammal (species unspecified),LD50,unreported,400,,"Gigiena i Sanitariya.  For English translation, see HYSAAV., 45(5)(29), 1980",Thiram
+5455,137-26-8,bird - wild,LD50,oral,300,,"Archives of Environmental Contamination and Toxicology., 12(355), 1983 [PMID:6882015]",Thiram
+54675779,2058-46-0,women,TDLo,oral,24,BLOOD: THROMBOCYTOPENIA,"American Journal of Hematology., 43(333), 1993 [PMID:8372829]",Oxytetracycline
+54675779,2058-46-0,man,TDLo,oral,114,"BLOOD: HEMORRHAGE; SKIN AND APPENDAGES (SKIN): DERMATITIS, OTHER: AFTER SYSTEMIC EXPOSURE","JAMA, Journal of the American Medical Association., 231(734), 1975 [PMID:1172865]",Oxytetracycline
+54675779,2058-46-0,infant,TDLo,parenteral,136,MUSCULOSKELETAL: CHANGES IN TEETH AND SUPPORTING STRUCTURES,"Lancet., 1(827), 1962 [PMID:14004715]",Oxytetracycline
+54675779,2058-46-0,rat,LD50,oral,4800,,"Antibiotics: Origin, Nature, and Properties, Korzyoski, T., et al., eds., Washington, DC, American Soc. for Microbiology, 1978, 1(501), 1978",Oxytetracycline
+54675779,2058-46-0,rat,LD50,intravenous,260,,"Antibiotics: Origin, Nature, and Properties, Korzyoski, T., et al., eds., Washington, DC, American Soc. for Microbiology, 1978, 1(501), 1978",Oxytetracycline
+54675779,2058-46-0,mouse,LD50,oral,2240,,"Arzneimittel-Forschung. Drug Research., 5(1), 1955 [PMID:14351064]",Oxytetracycline
+54675779,2058-46-0,mouse,LD50,intraperitoneal,5706,,"Antibiotiki., 20(793), 1975",Oxytetracycline
+54675779,2058-46-0,mouse,LD50,subcutaneous,700,,"CRC Handbook of Antibiotic Compounds, Vols.1- ,  Berdy, J., Boca Raton, FL, CRC Press, 1980, 3(44), 1980",Oxytetracycline
+54675779,2058-46-0,mouse,LD50,intravenous,140,,"Arzneimittel-Forschung. Drug Research., 5(1), 1955 [PMID:14351064]",Oxytetracycline
+54675779,2058-46-0,dog,LDLo,intravenous,220,"BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: FOOD INTAKE (ANIMAL); LUNGS, THORAX, OR RESPIRATION: OTHER CHANGES","Antibiotics and Chemotherapy, 3(1015), 1953",Oxytetracycline
+54675779,2058-46-0,guinea pig,LDLo,intraperitoneal,2250,,"Antibiotiki., 20(793), 1975",Oxytetracycline
+54738,81334-34-1,quail,LD50,oral,2150,,"Pesticide Manual., 9(487), 1991",Imazapyr
+54738,81334-34-1,duck,LD50,oral,2150,,"Pesticide Manual., 9(487), 1991",Imazapyr
+54739,81335-37-7,rat,LD50,oral,4073,,"Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 24(245), 1999",Imazaquin
+54739,81335-37-7,mouse,LD50,oral,1752,,"Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 24(245), 1999",Imazaquin
+54739,81335-37-7,quail,LD50,oral,2150,,"Pesticide Manual., 9(488), 1991",Imazaquin
+54739,81335-37-7,duck,LD50,oral,2150,,"Pesticide Manual., 9(488), 1991",Imazaquin
+54740,81335-77-5,quail,LD50,oral,2150,,"Pesticide Manual., 9(489), 1991",Imazethapyr
+54740,81335-77-5,duck,LD50,oral,2150,,"Pesticide Manual., 9(489), 1991",Imazethapyr
+54778,81777-89-1,rat,LD50,oral,1369,,"Pesticide Manual., 9(178), 1991",Clomazone
+54778,81777-89-1,quail,LD50,oral,2510,,"Pesticide Manual., 9(178), 1991",Clomazone
+54778,81777-89-1,duck,LD50,oral,2510,,"Pesticide Manual., 9(178), 1991",Clomazone
+5543,2303-17-5,rat,LD50,unreported,1471,,"Environmental Quality and Safety, Supplement., 3(618), 1975 [PMID:1063688]",Triallate
+5543,2303-17-5,mouse,LD50,oral,930,BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: EXCITEMENT; BEHAVIORAL: MUSCLE CONTRACTION OR SPASTICITY),"Gigiena i Sanitariya.  For English translation, see HYSAAV., 33(7)(37), 1968",Triallate
+5543,2303-17-5,mouse,LD50,unreported,832,,"Tsitologiya i Genetika.  Cytology and Genetics.  For English translation, see CYGEDX., 16(1)(45), 1982",Triallate
+5543,2303-17-5,rabbit,LD50,skin,2225,,"Pesticide Index, Frear, E.H., ed., State College, PA, College Science Pub., 1969, 5(226), 1976",Triallate
+5543,2303-17-5,quail,LD50,oral,2251,,"Pesticide Manual., 9(835), 1991",Triallate
+5543,2303-17-5,rat,LD50,oral,800,,"Agrochemicals Handbook, with updates, Hartley, D., and H. Kidd, eds., Nottingham, Royal Soc of Chemistry, 1983-86, A403(1984)",Triallate
+5543,2303-17-5,rat,LDLo,skin,3500,,"Gigiena i Sanitariya.  For English translation, see HYSAAV., 33(7)(37), 1968",Triallate
+5569,1582-09-8,rat,LD50,oral,1930,SENSE ORGANS AND SPECIAL SENSES: MYDRIASIS (PUPILLARY DILATION): EYE; BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); SKIN AND APPENDAGES (SKIN): HAIR: OTHER,"Food and Chemical Toxicology., 30(1031), 1992 [PMID:1473797]",Trifluralin
+5569,1582-09-8,mouse,LD50,oral,3197,,"Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 16(557), 1991",Trifluralin
+5569,1582-09-8,mouse,LD50,intraperitoneal,4600,,"Bulletin of Environmental Contamination and Toxicology., 20(554), 1978 [PMID:719203]",Trifluralin
+5569,1582-09-8,mammal (species unspecified),LD50,oral,3700,,"Pesticide Chemicals Official Compendium, Association of the American Pesticide Control Officials, Inc., 1966., -(1188), 1966",Trifluralin
+5794,1951-03-06,rat,LD50,oral,6150,,"Toxicology and Applied Pharmacology., 14(515), 1969 [PMID:5787520]",Piperonyl butoxide
+5794,1951-03-06,rat,LD50,skin,7950,,"Toxicology and Applied Pharmacology., 14(515), 1969 [PMID:5787520]",Piperonyl butoxide
+5794,1951-03-06,mouse,LD50,oral,2600,BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: TREMOR; SKIN AND APPENDAGES (SKIN): HAIR: OTHER,"Shokuhin Eiseigaku Zasshi.  Food Hygiene Journal., 24(268), 1983",Piperonyl butoxide
+5794,1951-03-06,rabbit,LD50,oral,2650,,"Yakkyoku.  Pharmacy., 32(605), 1981",Piperonyl butoxide
+5794,1951-03-06,rabbit,LD50,skin,200,,"Pesticide Chemicals Official Compendium, Association of the American Pesticide Control Officials, Inc., 1966., -(907), 1966",Piperonyl butoxide
+5971,1957-06-07,rat,LD50,oral,112,"LUNGS, THORAX, OR RESPIRATION: OTHER CHANGES; GASTROINTESTINAL: OTHER CHANGES","Naunyn-Schmiedeberg's Archiv fuer Experimentelle Pathologie und Pharmakologie., 219(119), 1953 [PMID:13099346]",Allyl isothiocyanate
+5971,1957-06-07,rat,LDLo,intraperitoneal,80,,"Arzneimittel-Forschung. Drug Research., 16(870), 1966 [PMID:4967663]",Allyl isothiocyanate
+5971,1957-06-07,rat,LD50,subcutaneous,92,"BEHAVIORAL: COMA; SKIN AND APPENDAGES (SKIN): DERMATITIS, OTHER: AFTER SYSTEMIC EXPOSURE","Food and Cosmetics Toxicology., 18(159), 1980 [PMID:7390339]",Allyl isothiocyanate
+5971,1957-06-07,mouse,LD50,oral,308,,"Aerospace Medical Research Laboratory Report., TR-73-83(1973)",Allyl isothiocyanate
+5971,1957-06-07,mouse,LDLo,intraperitoneal,4,,"Toxicology and Applied Pharmacology., 23(288), 1972 [PMID:5074577]",Allyl isothiocyanate
+5971,1957-06-07,mouse,LD50,subcutaneous,80,BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD,"Arzneimittel-Forschung. Drug Research., 5(505), 1955 [PMID:13276267]",Allyl isothiocyanate
+5971,1957-06-07,rabbit,LD50,skin,88,,"Toxicology and Applied Pharmacology., 42(417), 1977 [PMID:595018]",Allyl isothiocyanate
+5971,1957-06-07,rabbit,LDLo,intravenous,12,"BEHAVIORAL: MUSCLE CONTRACTION OR SPASTICITY); LUNGS, THORAX, OR RESPIRATION: OTHER CHANGES","Biochemical Journal., 4(107), 1909",Allyl isothiocyanate
+61021,9002-91-9; 37273-91-9,human,LDLo,oral,343,"BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; LUNGS, THORAX, OR RESPIRATION: DYSPNEA","Gekkan Yakuji.  Pharmaceuticals Monthly., 34(1464), 1992",Metaldehyde
+61021,9002-91-9; 37273-91-9,child,LDLo,oral,100,BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD,"Pflanzenschutz-und Schaedlingsbekaempfungsmittel: Abriss einer Toxikologie und Therapie von Vergiftungen, 2nd ed., Klimmer, O.R., Hattingen, Fed. Rep. Ger., Hundt-Verlag, 1971, -(158), 1971",Metaldehyde
+61021,9002-91-9; 37273-91-9,rat,LD50,oral,227,,"Toxicometric Parameters of Industrial Toxic Chemicals Under Single Exposure, Izmerov, N.F., et al., Moscow, Centre of International Projects, GKNT, 1982, -(15), 1982",Metaldehyde
+61021,9002-91-9; 37273-91-9,rat,LD50,skin,2275,,"Toxicometric Parameters of Industrial Toxic Chemicals Under Single Exposure, Izmerov, N.F., et al., Moscow, Centre of International Projects, GKNT, 1982, -(15), 1982",Metaldehyde
+61021,9002-91-9; 37273-91-9,mouse,LD50,oral,200,,"Toxicometric Parameters of Industrial Toxic Chemicals Under Single Exposure, Izmerov, N.F., et al., Moscow, Centre of International Projects, GKNT, 1982, -(15), 1982",Metaldehyde
+61021,9002-91-9; 37273-91-9,dog,LD50,oral,600,,"Guide to the Chemicals Used in Crop Protection., 6(331), 1973",Metaldehyde
+61021,9002-91-9; 37273-91-9,cat,LD50,oral,207,,"Toxicometric Parameters of Industrial Toxic Chemicals Under Single Exposure, Izmerov, N.F., et al., Moscow, Centre of International Projects, GKNT, 1982, -(15), 1982",Metaldehyde
+61021,9002-91-9; 37273-91-9,rabbit,LD50,oral,290,,"Toxicometric Parameters of Industrial Toxic Chemicals Under Single Exposure, Izmerov, N.F., et al., Moscow, Centre of International Projects, GKNT, 1982, -(15), 1982",Metaldehyde
+61021,9002-91-9; 37273-91-9,guinea pig,LD50,oral,175,,"Toxicometric Parameters of Industrial Toxic Chemicals Under Single Exposure, Izmerov, N.F., et al., Moscow, Centre of International Projects, GKNT, 1982, -(15), 1982",Metaldehyde
+61021,9002-91-9; 37273-91-9,mammal (species unspecified),LD50,unreported,600,,"Chemistry of Pesticides, Melnikov, N.N., New York, Springer-Verlag New York, Inc., 1971, -(111), 1971",Metaldehyde
+6129,63-25-2,man,TDLo,oral,500,PERIPHERAL NERVE AND SENSATION: SENSORY CHANGE INVOLVING PERIPHERAL NERVE; BEHAVIORAL: MUSCLE WEAKNESS,"Neurology., 37(1229), 1987 [PMID:3037439]",Carbaryl
+6129,63-25-2,rat,LD50,oral,230,,"Toxicology and Applied Pharmacology., 11(546), 1967 [PMID:5586363]",Carbaryl
+6129,63-25-2,rat,LD50,intraperitoneal,64,,"Proceedings of the Society for Experimental Biology and Medicine., 114(509), 1963 [PMID:14101225]",Carbaryl
+6129,63-25-2,rat,LD50,subcutaneous,1400,,"Toxicology of Drugs and Chemicals, Deichmann, W.B., New York, Academic Press, Inc., 1969, -(528), 1969",Carbaryl
+6129,63-25-2,rat,LD50,intravenous,18,,"Journal of Agricultural and Food Chemistry., 9(30), 1961",Carbaryl
+6129,63-25-2,rat,LD50,unreported,500,,"Chemistry of Pesticides, Melnikov, N.N., New York, Springer-Verlag New York, Inc., 1971, -(188), 1971",Carbaryl
+6129,63-25-2,mouse,LD50,intraperitoneal,25,,"Toxicology and Applied Pharmacology., 6(402), 1964",Carbaryl
+6129,63-25-2,mouse,LD50,subcutaneous,860,,"Arhiv za Higijenu Rada i Toksikologiju.  Archives of Industrial Hygiene and Toxicology., 29(251), 1978 [PMID:106806]",Carbaryl
+6129,63-25-2,mouse,LD50,unreported,370,,"Gigiena i Sanitariya.  For English translation, see HYSAAV., 49(10)(23), 1984",Carbaryl
+6129,63-25-2,dog,LD50,oral,759,,"VM/SAC, Veterinary Medicine and Small Animal Clinician., 74(1119), 1979 [PMID:260541]",Carbaryl
+6129,63-25-2,cat,LD50,oral,150,BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; BEHAVIORAL: MUSCLE WEAKNESS; GASTROINTESTINAL: CHANGES IN STRUCTURE OR FUNCTION OF SALIVARY GLANDS,"Gigiena i Sanitariya.  For English translation, see HYSAAV., 32(4)(29), 1967",Carbaryl
+6129,63-25-2,rabbit,LD50,oral,710,,"Pesticide Chemicals Official Compendium, Association of the American Pesticide Control Officials, Inc., 1966., -(192), 1966",Carbaryl
+6129,63-25-2,rabbit,LD50,intraperitoneal,223,,"Journal of Agricultural and Food Chemistry., 9(30), 1961",Carbaryl
+6129,63-25-2,guinea pig,LD50,oral,250,,"Pesticide Biochemistry and Physiology., 21(199), 1984",Carbaryl
+6129,63-25-2,hamster,LD50,intraperitoneal,640,,"Archives of Toxicology., 58(152), 1986 [PMID:3964078]",Carbaryl
+6129,63-25-2,quail,LD50,oral,829,BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; BEHAVIORAL: ATAXIA; GASTROINTESTINAL: CHANGES IN STRUCTURE OR FUNCTION OF SALIVARY GLANDS,"Oyo Yakuri.  Pharmacometrics., 51(137), 1996",Carbaryl
+6129,63-25-2,gerbil,LD50,oral,491,,"Pesticide Biochemistry and Physiology., 21(199), 1984",Carbaryl
+6129,63-25-2,mammal (species unspecified),LD50,oral,510,,"Herba Polonica., 21(53), 1975",Carbaryl
+6129,63-25-2,mammal (species unspecified),LD50,unreported,310,,"Gigiena i Sanitariya.  For English translation, see HYSAAV., 53(7)(72), 1988",Carbaryl
+6129,63-25-2,hamster,LDLo,oral,250,,"Toxicology and Applied Pharmacology., 15(152), 1969 [PMID:5798722]",Carbaryl
+6129,63-25-2,bird - wild,LD50,oral,56,,"Toxicology and Applied Pharmacology., 21(315), 1972 [PMID:5027965]",Carbaryl
+6129,63-25-2,mouse,LD50,oral,128,,"Journal of Pharmacology and Experimental Therapeutics., 181(576), 1972 [PMID:4624402]",Carbaryl
+62210,62924-70-3,rat,LD50,oral,3100,,"Farm Chemicals Handbook., -(C248), 1991",Flumetralin
+62389,1214-39-7,rat,LD50,oral,2125,SENSE ORGANS AND SPECIAL SENSES: LACRIMATION: EYE; BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY),"Toho Igakkai Zasshi.  Journal of Medical Society of Toho University., 19(336), 1972",6-Benzylaminopurine
+62389,1214-39-7,mouse,LD50,oral,1300,SENSE ORGANS AND SPECIAL SENSES: LACRIMATION: EYE; BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY),"Toho Igakkai Zasshi.  Journal of Medical Society of Toho University., 19(336), 1972",6-Benzylaminopurine
+62389,1214-39-7,mouse,LD50,subcutaneous,2300,,"Toho Igakkai Zasshi.  Journal of Medical Society of Toho University., 19(336), 1972",6-Benzylaminopurine
+6323,74-83-9,dog,LDLo,oral,500,CARDIAC: PULSE RATE INCREASE WITHOUT FALL IN BP; GASTROINTESTINAL: NAUSEA OR VOMITING,"National Technical Information Service., OTS0528834",Bromomethane
+6323,74-83-9,rat,LD50,oral,214,,"Toxicology and Applied Pharmacology., 72(262), 1984 [PMID:6695375]",Bromomethane
+6323,74-83-9,rat,LD50,subcutaneous,135,,"Industrial Health., 26(101), 1988 [PMID:3403303]",Bromomethane
+6327657,76-87-9,rat,LD50,oral,46,,"Progress Report for Contract No. NIH-NCI-E-C-72-3252, Submitted to the National Cancer Institute by Litton Bionetics, Inc., NCI-E-C-72-3252(1973)",Triphenyltin hydroxide
+6327657,76-87-9,rat,LDLo,intraperitoneal,100,,"National Academy of Sciences, National Research Council, Chemical-Biological Coordination Center, Review., 5(46), 1953",Triphenyltin hydroxide
+6327657,76-87-9,mouse,LD50,oral,209,,"Yakkyoku.  Pharmacy., 30(505), 1979",Triphenyltin hydroxide
+6327657,76-87-9,rabbit,LD50,skin,1600,,"Farm Chemicals Handbook., -(C315), 1991",Triphenyltin hydroxide
+6327657,76-87-9,rabbit,LDLo,intravenous,25,SENSE ORGANS AND SPECIAL SENSES: MYDRIASIS (PUPILLARY DILATION): EYE; BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; GASTROINTESTINAL: CHANGES IN STRUCTURE OR FUNCTION OF SALIVARY GLANDS,"Clinical Toxicology., 13(281), 1978 [PMID:310751]",Triphenyltin hydroxide
+6327657,76-87-9,mammal (species unspecified),LD50,unreported,500,,"Chemistry of Pesticides, Melnikov, N.N., New York, Springer-Verlag New York, Inc., 1971, -(302), 1971",Triphenyltin hydroxide
+6336,88671-89-0,rat,LD50,oral,1600,,"Pesticide Manual., 9(601), 1991",Myclobutanil
+6336,88671-89-0,rat,LDLo,skin,2229,,"Defense des Vegetaux., 40(242)(9), 1986",Myclobutanil
+6336,88671-89-0,mouse,LDLo,oral,1300,"BEHAVIORAL: ATAXIA; LUNGS, THORAX, OR RESPIRATION: DYSPNEA; SKIN AND APPENDAGES (SKIN): OTHER GLANDS: OTHER","National Technical Information Service., OTS0570641",Myclobutanil
+6336,88671-89-0,rabbit,LD50,skin,7500,,"Proceedings-British Crop Protection Conference-Pests and Diseases., -(55), 1986",Myclobutanil
+637511,14371-10-9,rat,LD50,oral,2220,"BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); GASTROINTESTINAL: HYPERMOTILITY, DIARRHEA","Food and Cosmetics Toxicology., 2(327), 1964",Cinnamaldehyde
+637511,14371-10-9,mouse,LD50,oral,2225,"BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; BEHAVIORAL: ATAXIA; LUNGS, THORAX, OR RESPIRATION: RESPIRATORY STIMULATION","Yakugaku Zasshi.  Journal of Pharmacy., 92(135), 1972 [PMID:5063928]",Cinnamaldehyde
+637511,14371-10-9,mouse,LD50,intraperitoneal,200,,"FAO Nutrition Meetings Report Series., 44A(16), 1967",Cinnamaldehyde
+637511,14371-10-9,mouse,LD50,intravenous,75,,"U.S. Army Armament Research & Development Command, Chemical Systems Laboratory, NIOSH Exchange Chemicals., NX#07571",Cinnamaldehyde
+637511,14371-10-9,mouse,LDLo,parenteral,200,,"Summary Tables of Biological Tests, National Research Council Chemical-Biological Coordination Center., 7(687), 1955",Cinnamaldehyde
+637511,14371-10-9,guinea pig,LD50,oral,1160,BEHAVIORAL: COMA,"Food and Cosmetics Toxicology., 2(327), 1964",Cinnamaldehyde
+6423,1976-06-02,rat,LD50,oral,250,,"Dow Chemical Company Reports., -(-), 1972",Chloropicrin
+6423,1976-06-02,mouse,LD50,intraperitoneal,25,,"Khimiko-Farmatsevticheskii Zhurnal.  Chemical Pharmaceutical Journal.  For English translation, see PCJOAU., 10(6)(53), 1976",Chloropicrin
+6434236,42588-37-4,rat,LD50,oral,4900,,"Farm Chemicals Handbook., -(C178), 1991",Kinoprene
+6434236,42588-37-4,dog,LD50,oral,3160,,"Farm Chemicals Handbook., -(C178), 1991",Kinoprene
+6435890,71751-41-2,rat,LD50,oral,10,,"Merck Index; an Encyclopedia of Chemicals, Drugs, and Biologicals, 11th ed., Rahway, NJ 07065, Merck & Co., Inc. 1989, 11(3), 1989",avermectin B1
+6435890,71751-41-2,monkey,LD50,oral,17,,"Defense des Vegetaux., 42(249-250)(41), 1988",avermectin B1
+6436604,83657-22-1,rat,LD50,oral,1790,,"Farm Chemicals Handbook., -(C317), 1991",Uniconazole
+6442842,82657-04-3,quail,LD50,oral,1800,,"Pesticide Manual., 9(73), 1991",Bifenthrin
+6442842,82657-04-3,duck,LD50,oral,4450,,"Pesticide Manual., 9(73), 1991",Bifenthrin
+6466,1977-06-05,rat,LD50,oral,6300,,"Agricultural Chemicals, Thomson, W.T., 4 vols., Fresno, CA, Thomson Publications, 1976/77 revision, 3(43), 1976/1977",Gibberellic acid
+6466,1977-06-05,mouse,LD50,oral,8500,,"Yakkyoku.  Pharmacy., 30(623), 1979",Gibberellic acid
+65174,6980-18-3,rat,LD50,oral,11400,,"Science Reports of the Research Institutes, Tohoku University, Series C: Medicine., 36(1-4)(10), 1989",Kasugamycin
+6720,82-68-8,rat,LD50,oral,1100,,"Fundamental and Applied Toxicology., 7(299), 1986",Pentachloronitrobenzene
+6720,82-68-8,mouse,LD50,oral,1400,,"Toxicometric Parameters of Industrial Toxic Chemicals Under Single Exposure, Izmerov, N.F., et al., Moscow, Centre of International Projects, GKNT, 1982, -(96), 1982",Pentachloronitrobenzene
+6720,82-68-8,dog,LD,oral,2500,GASTROINTESTINAL: NAUSEA OR VOMITING,"Archives Internationales de Pharmacodynamie et de Therapie., 114(38), 1958 [PMID:13522290]",Pentachloronitrobenzene
+6720,82-68-8,rabbit,LD50,oral,800,,"Archives Internationales de Pharmacodynamie et de Therapie., 114(38), 1958 [PMID:13522290]",Pentachloronitrobenzene
+6720,82-68-8,mouse,LD50,intraperitoneal,4500,,"Archives of Toxicology., 51(329), 1982",Pentachloronitrobenzene
+6758,83-79-4,human,LDLo,oral,143,GASTROINTESTINAL: OTHER CHANGES,"Toxicology of Drugs and Chemicals, Deichmann, W.B., New York, Academic Press, Inc., 1969, -(521), 1969",Rotenone
+6758,83-79-4,man,LDLo,unreported,294,,"Poisoning; Toxicology, Symptoms, Treatments, 2nd ed., Arena, J.M., Springfield, IL, C.C. Thomas, 1970, 2(73), 1970",Rotenone
+6758,83-79-4,rat,LD50,oral,60,,"Down to Earth., 35(25), 1979",Rotenone
+6758,83-79-4,rat,LD50,skin,940,,"World Review of Pest Control., 9(119), 1970",Rotenone
+6758,83-79-4,rat,LD50,unreported,132,,"Journal of Environmental Science and Health, Part B: Pesticides, Food Contaminants, and Agricultural Wastes., 15(929), 1980 [PMID:7002993]",Rotenone
+6758,83-79-4,dog,LDLo,oral,300,GASTROINTESTINAL: ULCERATION OR BLEEDING FROM STOMACH; GASTROINTESTINAL: NAUSEA OR VOMITING,"Journal of Pharmacology and Experimental Therapeutics., 43(193), 1931",Rotenone
+6758,83-79-4,rabbit,LDLo,oral,1600,"GASTROINTESTINAL: ULCERATION OR BLEEDING FROM STOMACH; GASTROINTESTINAL: HYPERMOTILITY, DIARRHEA","Journal of Pharmacology and Experimental Therapeutics., 43(193), 1931",Rotenone
+6758,83-79-4,rabbit,LDLo,subcutaneous,20,,"Journal of Pharmacology and Experimental Therapeutics., 43(193), 1931",Rotenone
+6758,83-79-4,rabbit,LDLo,intramuscular,5,,"Journal of Pharmacology and Experimental Therapeutics., 43(193), 1931",Rotenone
+6758,83-79-4,guinea pig,LDLo,oral,100,"LUNGS, THORAX, OR RESPIRATION: CHRONIC PULMONARY EDEMA; GASTROINTESTINAL: ULCERATION OR BLEEDING FROM STOMACH","Proceedings of the Society for Experimental Biology and Medicine., 34(135), 1936",Rotenone
+6758,83-79-4,guinea pig,LDLo,intraperitoneal,10,"BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; BEHAVIORAL: ATAXIA; LUNGS, THORAX, OR RESPIRATION: RESPIRATORY DEPRESSION","Proceedings of the Society for Experimental Biology and Medicine., 34(135), 1936",Rotenone
+6758,83-79-4,pigeon,LDLo,intravenous,1,"BEHAVIORAL: ATAXIA; LUNGS, THORAX, OR RESPIRATION: RESPIRATORY STIMULATION; GASTROINTESTINAL: NAUSEA OR VOMITING","Journal of Pharmacology and Experimental Therapeutics., 43(193), 1931",Rotenone
+6758,83-79-4,frog,LDLo,oral,4,"LUNGS, THORAX, OR RESPIRATION: DYSPNEA","Journal of Pharmacology and Experimental Therapeutics., 43(193), 1931",Rotenone
+6795,85-00-7; 2764-72-9,man,TDLo,oral,857,"BEHAVIORAL: TREMOR; CARDIAC: OTHER CHANGES; KIDNEY, URETER, AND BLADDER: URINE VOLUME DECREASED","Journal of Toxicology, Clinical Toxicology., 37(360), 1999",Diquat
+6795,85-00-7; 2764-72-9,rat,LD50,oral,231,,"Pesticide Manual., 9(316), 1991",Diquat
+6795,85-00-7; 2764-72-9,mouse,LD50,oral,125,,"Pesticide Manual., 9(316), 1991",Diquat
+6795,85-00-7; 2764-72-9,dog,LD50,oral,100,,"Pesticide Manual., 9(316), 1991",Diquat
+6795,85-00-7; 2764-72-9,rabbit,LD50,oral,101,"BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); LUNGS, THORAX, OR RESPIRATION: DYSPNEA","British Journal of Industrial Medicine., 27(51), 1970 [PMID:5418919]",Diquat
+6795,85-00-7; 2764-72-9,rabbit,LD50,skin,400,,"British Journal of Industrial Medicine., 27(51), 1970 [PMID:5418919]",Diquat
+6795,85-00-7; 2764-72-9,guinea pig,LD50,oral,100,"BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); LUNGS, THORAX, OR RESPIRATION: DYSPNEA","British Journal of Industrial Medicine., 27(51), 1970 [PMID:5418919]",Diquat
+6795,85-00-7; 2764-72-9,chicken,LD50,oral,200,,"Pesticide Manual., 9(316), 1991",Diquat
+6795,85-00-7; 2764-72-9,bird - domestic,LD50,oral,295,,"Pesticide Manual., 9(316), 1991",Diquat
+6795,85-00-7; 2764-72-9,domestic animals - goat/sheep,LD50,oral,30,"BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); LUNGS, THORAX, OR RESPIRATION: DYSPNEA","British Journal of Industrial Medicine., 27(51), 1970 [PMID:5418919]",Diquat
+6862,86-87-3,rat,LD50,intraperitoneal,100,,"Pesticide & Toxic Chemical News., 9(10), 1980",1-Naphthylacetic acid
+6862,86-87-3,mouse,LD50,oral,743,,"Toho Igakkai Zasshi.  Journal of Medical Society of Toho University., 14(132), 1967",1-Naphthylacetic acid
+6862,86-87-3,mouse,LD50,intraperitoneal,609,,"Toho Igakkai Zasshi.  Journal of Medical Society of Toho University., 15(443), 1968",1-Naphthylacetic acid
+6862,86-87-3,mouse,LD50,subcutaneous,733,,"Toho Igakkai Zasshi.  Journal of Medical Society of Toho University., 15(443), 1968",1-Naphthylacetic acid
+6950,88-85-7,rat,LD50,oral,25,"BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; LUNGS, THORAX, OR RESPIRATION: RESPIRATORY STIMULATION","Toxicology and Applied Pharmacology., 7(353), 1965",Dinoseb
+6950,88-85-7,rat,LD50,skin,80,,"World Review of Pest Control., 9(119), 1970",Dinoseb
+6950,88-85-7,mouse,LD50,oral,16,,"Toxicometric Parameters of Industrial Toxic Chemicals Under Single Exposure, Izmerov, N.F., et al., Moscow, Centre of International Projects, GKNT, 1982, -(61), 1982",Dinoseb
+6950,88-85-7,mouse,LDLo,skin,40,,"Toxicology and Applied Pharmacology., 7(353), 1965",Dinoseb
+6950,88-85-7,mouse,LD50,intraperitoneal,10,,"Biochemical Pharmacology., 18(1389), 1969 [PMID:5799112]",Dinoseb
+6950,88-85-7,rabbit,LD50,skin,80,,"Pesticide Manual., 9(306), 1991",Dinoseb
+6950,88-85-7,guinea pig,LD50,oral,20,"BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; LUNGS, THORAX, OR RESPIRATION: RESPIRATORY STIMULATION","Toxicology and Applied Pharmacology., 7(353), 1965",Dinoseb
+6950,88-85-7,guinea pig,LDLo,skin,500,,"Journal of Industrial Hygiene and Toxicology., 30(10), 1948",Dinoseb
+6950,88-85-7,chicken,LD50,oral,26,,"Agrochemicals Handbook, with updates, Hartley, D., and H. Kidd, eds., Nottingham, Royal Soc of Chemistry, 1983-86, A159(1984)",Dinoseb
+6950,88-85-7,duck,LD50,oral,9,,"Down to Earth., 35(25), 1979",Dinoseb
+6950,88-85-7,mammal (species unspecified),LD50,unreported,60,,"Chemistry of Pesticides, Melnikov, N.N., New York, Springer-Verlag New York, Inc., 1971, -(98), 1971",Dinoseb
+7153,93-65-2,rat,LD50,oral,650,,"World Review of Pest Control., 9(119), 1970",Mecoprop
+7153,93-65-2,mouse,LD50,oral,369,,"Roczniki Panstwowego Zakladu Higieny., 31(373), 1980 [PMID:7433826]",Mecoprop
+7153,93-65-2,mouse,LD50,unreported,650,,"Chemistry of Pesticides, Melnikov, N.N., New York, Springer-Verlag New York, Inc., 1971, -(173), 1971",Mecoprop
+7153,93-65-2,rabbit,LD50,skin,900,,"Pesticide Chemicals Official Compendium, Association of the American Pesticide Control Officials, Inc., 1966., -(683), 1966",Mecoprop
+7153,93-65-2,quail,LD50,unreported,500,,"Farm Chemicals Handbook., -(C193), 1991",Mecoprop
+7153,93-65-2,rat,LD50,intraperitoneal,402,,"Toxicology., 3(349), 1975 [PMID:123666]",Mecoprop
+7204,94-74-6,man,LDLo,oral,814,BEHAVIORAL: COMA; VASCULAR: BP LOWERING NOT CHARACTERIZED IN AUTONOMIC SECTION,"British Medical Journal., 2(629), 1965",(4-Chloro-2-methylphenoxy)acetic acid
+7204,94-74-6,rat,LD50,oral,700,GASTROINTESTINAL: GASTRITIS; BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); LIVER: FATTY LIVER DEGERATION,"American Journal of Veterinary Research., 15(622), 1954 [PMID:13207589]",(4-Chloro-2-methylphenoxy)acetic acid
+7204,94-74-6,mouse,LD50,oral,439,,"Roczniki Panstwowego Zakladu Higieny., 31(373), 1980 [PMID:7433826]",(4-Chloro-2-methylphenoxy)acetic acid
+7204,94-74-6,mouse,LDLo,subcutaneous,28,,"Pesticide Chemicals Official Compendium, Association of the American Pesticide Control Officials, Inc., 1966., -(711), 1966",(4-Chloro-2-methylphenoxy)acetic acid
+7204,94-74-6,mouse,LD50,intravenous,28,,"Pesticide Chemicals Official Compendium, Association of the American Pesticide Control Officials, Inc., 1966., -(711), 1966",(4-Chloro-2-methylphenoxy)acetic acid
+7204,94-74-6,quail,LD50,unreported,377,,"Farm Chemicals Handbook., -(C191), 1991",(4-Chloro-2-methylphenoxy)acetic acid
+7204,94-74-6,guinea pig,LD50,oral,700,,"Gigiena Truda i Professional'nye Zabolevaniya.  Labor Hygiene and Occupational Diseases., 31(2)(31), 1987",(4-Chloro-2-methylphenoxy)acetic acid
+7207,94-81-5,rat,LD50,oral,680,,"World Review of Pest Control., 9(119), 1970",4-(4-Chloro-2-methylphenoxy)butanoic acid
+7207,94-81-5,mouse,LD50,oral,800,,"Farm Chemicals Handbook., -(C303), 1991",4-(4-Chloro-2-methylphenoxy)butanoic acid
+72476,22976-86-9,mouse,LD50,oral,9600,,"Farm Chemicals Handbook., -(C245), 1991",Polyoxin d
+72476,22976-86-9,mouse,LD50,intravenous,100,,"CRC Handbook of Antibiotic Compounds, Vols.1- ,  Berdy, J., Boca Raton, FL, CRC Press, 1980, 5(247), 1981",Polyoxin d
+73281,111991-09-4,quail,LD50,oral,2250,,"Farm Chemicals Handbook., -(C219), 1991",Nicosulfuron
+73282,82097-50-5,rat,LD50,oral,5050,,"Farm Chemicals Handbook., -(C18), 1991",Triasulfuron
+73282,82097-50-5,quail,LD50,oral,2150,,"Pesticide Manual., 9(837), 1991",Triasulfuron
+73670,74115-24-5,rat,LD50,oral,3200,,"Proceedings-British Crop Protection Conference-Pests and Diseases., -(67), 1981",Clofentezine
+73670,74115-24-5,rat,LD50,skin,1332,,"Agrochemicals Handbook, with updates, Hartley, D., and H. Kidd, eds., Nottingham, Royal Soc of Chemistry, 1983-86, A543(1984)",Clofentezine
+73670,74115-24-5,mouse,LD50,oral,3200,,"Proceedings-British Crop Protection Conference-Pests and Diseases., -(67), 1981",Clofentezine
+73670,74115-24-5,quail,LD50,oral,750,,"Proceedings-British Crop Protection Conference-Pests and Diseases., -(67), 1981",Clofentezine
+73671,76738-62-0,rat,LD50,oral,1300,,"Pesticide Manual., 9(664), 1991",Paclobutrazol
+73671,76738-62-0,mouse,LD50,oral,490,,"Pesticide Manual., 9(644), 1991",Paclobutrazol
+73671,76738-62-0,rabbit,LD50,oral,840,,"Pesticide Manual., 9(644), 1991",Paclobutrazol
+73671,76738-62-0,guinea pig,LD50,oral,400,,"Pesticide Manual., 9(644), 1991",Paclobutrazol
+73671,76738-62-0,duck,LD50,oral,7900,,"Pesticide Manual., 9(644), 1991",Paclobutrazol
+73672,82558-50-7,rabbit,LD50,skin,200,,"Proceedings of the British Crop Protection Conference - Weeds., -(47), 1982",Isoxaben
+7430,99-30-9,rat,LD50,oral,2400,BEHAVIORAL: TREMOR; BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; BEHAVIORAL: ATAXIA,"Office of Toxic Substances Report., OTS","2,6-Dichloro-4-nitroaniline"
+7430,99-30-9,mouse,LD50,oral,1500,,"Pesticide Chemicals Official Compendium, Association of the American Pesticide Control Officials, Inc., 1966., -(343), 1966","2,6-Dichloro-4-nitroaniline"
+7430,99-30-9,mouse,LD50,intravenous,56,,"U.S. Army Armament Research & Development Command, Chemical Systems Laboratory, NIOSH Exchange Chemicals., NX#03022","2,6-Dichloro-4-nitroaniline"
+7430,99-30-9,mouse,LD50,unreported,4490,BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; BEHAVIORAL: EXCITEMENT; BEHAVIORAL: ATAXIA,"Gigiena i Sanitariya.  For English translation, see HYSAAV., 54(11)(4), 1989","2,6-Dichloro-4-nitroaniline"
+7430,99-30-9,guinea pig,LD50,oral,1450,,"Pesticide Chemicals Official Compendium, Association of the American Pesticide Control Officials, Inc., 1966., -(343), 1966","2,6-Dichloro-4-nitroaniline"
+7430,99-30-9,mammal (species unspecified),LD50,unreported,1500,,"Chemistry of Pesticides, Melnikov, N.N., New York, Springer-Verlag New York, Inc., 1971, -(87), 1971","2,6-Dichloro-4-nitroaniline"
+784,7722-84-1,rat,LD50,oral,1518,BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY),"Toho Igakkai Zasshi.  Journal of Medical Society of Toho University., 23(531), 1976",Hydrogen Peroxide
+784,7722-84-1,man,LDLo,oral,1429,BEHAVIORAL: COMA; GASTROINTESTINAL: CHANGE IN STRUCTURE OR FUNCTION OF ESOPHAGUS; GASTROINTESTINAL: NAUSEA OR VOMITING,"Sudebno-Meditsinskaya Ekspertiza.  Forensic Medical Examination., 17(1)(53), 1974",Hydrogen Peroxide
+784,7722-84-1,women,TDLo,oral,1200,GASTROINTESTINAL: GASTRITIS; GASTROINTESTINAL: NAUSEA OR VOMITING,"Annals of Emergency Medicine., 21(1391), 1992 [PMID:1416338]",Hydrogen Peroxide
+784,7722-84-1,rabbit,LD50,oral,820,GASTROINTESTINAL: PERITONITIS; BLOOD: PIGMENTED OR NUCLEATED RED BLLOD CELLS; BLOOD: CHANGES IN LEUCOCYTE (WBC) COUNT,"Spravochnik po Toksikologii i Gigienicheskim Normativam, -(39), 1999",Hydrogen Peroxide
+784,7722-84-1,women,TDLo,oral,9460,"BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; LUNGS, THORAX, OR RESPIRATION: CYANOSIS; LUNGS, THORAX, OR RESPIRATION: RESPIRATORY STIMULATION","Annals of Emergency Medicine., 18(778), 1989 [PMID:2735599]",Hydrogen Peroxide
+784,7722-84-1,child,LDLo,oral,8500,BRAIN AND COVERINGS: OTHER DEGENERATIVE CHANGES; PERIPHERAL NERVE AND SENSATION: SPASTIC PARALYSIS WITH OR WITHOUT SENSORY CHANGE; BLOOD: HEMORRHAGE,"Critical Care Medicine., 20(543), 1992 [PMID:1559371]",Hydrogen Peroxide
+784,7722-84-1,rat,LD50,oral,910,GASTROINTESTINAL: PERITONITIS; BLOOD: PIGMENTED OR NUCLEATED RED BLLOD CELLS; BLOOD: CHANGES IN LEUCOCYTE (WBC) COUNT,"Spravochnik po Toksikologii i Gigienicheskim Normativam, -(39), 1999",Hydrogen Peroxide
+784,7722-84-1,rat,LD50,oral,376,GASTROINTESTINAL: PERITONITIS; BLOOD: PIGMENTED OR NUCLEATED RED BLLOD CELLS; BLOOD: CHANGES IN LEUCOCYTE (WBC) COUNT,"Spravochnik po Toksikologii i Gigienicheskim Normativam, -(39), 1999",Hydrogen Peroxide
+784,7722-84-1,rat,LD50,skin,4060,"LUNGS, THORAX, OR RESPIRATION: PULMONARY EMBOLI","Gigiena Truda i Professional'nye Zabolevaniya.  Labor Hygiene and Occupational Diseases., 21(10)(22), 1977",Hydrogen Peroxide
+784,7722-84-1,rat,LD50,subcutaneous,620,,"Gigiena i Sanitariya.  For English translation, see HYSAAV., 48(6)(28), 1983",Hydrogen Peroxide
+784,7722-84-1,mouse,LD50,intraperitoneal,880,,"Gigiena i Sanitariya.  For English translation, see HYSAAV., 48(6)(28), 1983",Hydrogen Peroxide
+784,7722-84-1,mouse,LD50,subcutaneous,1072,,"Gigiena i Sanitariya.  For English translation, see HYSAAV., 48(6)(28), 1983",Hydrogen Peroxide
+784,7722-84-1,rabbit,LDLo,skin,500,BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD,"U.S. Army, Chemical Corps Medical Laboratories Research Reports., #75(1951)",Hydrogen Peroxide
+8158,112-05-0,mouse,LD50,intravenous,224,BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD,"Acta Pharmacologica et Toxicologica., 18(141), 1961 [PMID:14482340]",Nonanoic acid
+8268,115-32-2,rat,LD50,oral,575,,"World Review of Pest Control., 9(119), 1970",Dicofol
+8268,115-32-2,rat,LD50,skin,100,,"World Review of Pest Control., 9(119), 1970",Dicofol
+8268,115-32-2,rat,LD50,intraperitoneal,1150,,"Toxicology and Applied Pharmacology., 15(30), 1969 [PMID:5798730]",Dicofol
+8268,115-32-2,mouse,LD50,oral,420,,"Gigiena Truda i Professional'nye Zabolevaniya.  Labor Hygiene and Occupational Diseases., 19(9)(55), 1975",Dicofol
+8268,115-32-2,rabbit,LD50,oral,1810,BEHAVIORAL: MUSCLE CONTRACTION OR SPASTICITY),"Toxicology and Applied Pharmacology., 1(119), 1959",Dicofol
+8268,115-32-2,rabbit,LD50,skin,1870,,"Guide to the Chemicals Used in Crop Protection., 6(195), 1973",Dicofol
+8268,115-32-2,guinea pig,LD50,oral,1810,,"Wirksubstanzen der Pflanzenschutz und Schadlingsbekampfungsmittel, Perkow, W., Berlin, Verlag Paul Parey, 1971-1976, -(-), 1971/1976",Dicofol
+8268,115-32-2,chicken,LD50,oral,4365,,"Veterinariya.  Veterinary Science., 60(10)(64), 1984",Dicofol
+8268,115-32-2,mammal (species unspecified),LD50,unreported,433,,"Gigiena i Sanitariya.  For English translation, see HYSAAV., 38(8)(101), 1973",Dicofol
+8427,120-36-5,rat,LD50,oral,344,,"Acute Toxicity Data. Journal of the American College of Toxicology, Part B., 1(177), 1992",Dichlorprop
+8427,120-36-5,rat,LD50,skin,1880,BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY),"Gigiena i Sanitariya.  For English translation, see HYSAAV., 50(9)(22), 1985",Dichlorprop
+8427,120-36-5,mouse,LD50,oral,309,,"Roczniki Panstwowego Zakladu Higieny., 31(373), 1980 [PMID:7433826]",Dichlorprop
+8427,120-36-5,mouse,LD50,skin,1400,,"Pesticide Index, Frear, E.H., ed., State College, PA, College Science Pub., 1969, 5(76), 1976",Dichlorprop
+8427,120-36-5,mouse,LD50,subcutaneous,1400,,"Prehled Prumyslove Toxikologie; Organicke Latky, Marhold, J., Prague, Czechoslovakia, Avicenum, 1986, -(547), 1986",Dichlorprop
+8427,120-36-5,guinea pig,LD50,oral,620,BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: MUSCLE CONTRACTION OR SPASTICITY); BEHAVIORAL: COMA,"Gigiena i Sanitariya.  For English translation, see HYSAAV., 50(9)(22), 1985",Dichlorprop
+86102,107534-96-3,rat,LD50,oral,3352,"BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: ATAXIA; KIDNEY, URETER, AND BLADDER: URINE VOLUME INCREASED","National Technical Information Service., OTS0545183",Tebuconazole
+86102,107534-96-3,rat,LD50,intraperitoneal,395,BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: CHANGES IN MOTOR ACTIVITY (SPECIFIC ASSAY); BEHAVIORAL: ATAXIA,"National Technical Information Service., OTS0545183",Tebuconazole
+86102,107534-96-3,mouse,LD50,oral,1615,BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: CHANGES IN MOTOR ACTIVITY (SPECIFIC ASSAY); BEHAVIORAL: ATAXIA,"National Technical Information Service., OTS0545183",Tebuconazole
+86102,107534-96-3,chicken,LD50,oral,4488,,"Pesticide Manual., 9(785), 1991",Tebuconazole
+86102,107534-96-3,quail,LD50,oral,2912,"BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; LUNGS, THORAX, OR RESPIRATION: RESPIRATORY STIMULATION","National Technical Information Service., OTS0545273",Tebuconazole
+86132,94361-06-5,rat,LD50,oral,1020,,"Pesticide Manual., 9(215), 1991",Cyproconazole
+86132,94361-06-5,mouse,LD50,oral,352,"BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; LUNGS, THORAX, OR RESPIRATION: DYSPNEA","Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 22(263), 1997",Cyproconazole
+86132,94361-06-5,quail,LD50,oral,150,,"Pesticide Manual., 9(215), 1991",Cyproconazole
+86134,95617-09-7,rat,LD50,oral,2357,,"Pesticide Manual., 9(373), 1991",Fenoxaprop
+86134,95617-09-7,mouse,LD50,oral,4670,,"Pesticide Manual., 9(373), 1991",Fenoxaprop
+86134,95617-09-7,quail,LD50,oral,2510,,"Pesticide Manual., 9(373), 1991",Fenoxaprop
+86173,119446-68-3,rat,LD50,oral,1453,,"Pesticide Manual., 9(277), 1991",Difenoconazole
+86173,119446-68-3,rabbit,LD50,skin,2010,,"Pesticide Manual., 9(277), 1991",Difenoconazole
+86173,119446-68-3,duck,LD50,oral,2150,,"Pesticide Manual., 9(277), 1991",Difenoconazole
+8617,133-32-4,rat,LD,oral,500,,"National Academy of Sciences, National Research Council, Chemical-Biological Coordination Center, Review., 5(7), 1953",Indole-3-butyric acid
+8617,133-32-4,mouse,LD50,oral,100,,"Agricultural Chemicals, Thomson, W.T., 4 vols., Fresno, CA, Thomson Publications, 1976/77 revision, 3(76), 1976/1977",Indole-3-butyric acid
+8617,133-32-4,mouse,LD50,intraperitoneal,100,,"Agrochemicals Handbook, with updates, Hartley, D., and H. Kidd, eds., Nottingham, Royal Soc of Chemistry, 1983-86, A231(1983)",Indole-3-butyric acid
+86287518,138261-41-3,rat,LD50,oral,410,,"Agrochemcicals Japan., (63)(15), 1993",Imidacloprid
+86287518,138261-41-3,mouse,LD50,oral,98,,"Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 19(S209), 1994",Imidacloprid
+86287518,138261-41-3,mouse,LD50,intraperitoneal,35,,"Pesticide Biochemistry and Physiology., 58(77), 1997",Imidacloprid
+86356,120928-09-8,rat,LD50,oral,136,"BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: COMA; GASTROINTESTINAL: HYPERMOTILITY, DIARRHEA","National Technical Information Service., OTS0543600",Fenazaquin
+86356,120928-09-8,mouse,LD50,oral,1789,"BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); LUNGS, THORAX, OR RESPIRATION: DYSPNEA; SKIN AND APPENDAGES (SKIN): HAIR: OTHER","National Technical Information Service., OTS0543587",Fenazaquin
+86369,122836-35-5,rat,LD50,oral,2600,,"United States Patent Document., #5298502",Sulfentrazone
+86369,122836-35-5,mouse,LD50,oral,700,,"United States Patent Document., #5298502",Sulfentrazone
+86369,122836-35-5,mouse,LD,intraperitoneal,100,,"United States Patent Document., #5298502",Sulfentrazone
+91655,54593-83-8,rat,LD50,oral,2,BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: FOOD INTAKE (ANIMAL); GASTROINTESTINAL: CHANGES IN STRUCTURE OR FUNCTION OF SALIVARY GLANDS,"National Technical Information Service., OTS0536238",Chlorethoxyfos
+91655,54593-83-8,chicken,LD50,oral,14,BEHAVIORAL: TREMOR; BEHAVIORAL: ATAXIA; GASTROINTESTINAL: CHANGES IN STRUCTURE OR FUNCTION OF SALIVARY GLANDS,"National Technical Information Service., OTS0530328",Chlorethoxyfos
+91699,68694-11-1,rat,LD50,oral,715,,"Pesticide Manual., 9(849), 1991",Triflumizole
+91699,68694-11-1,rat,LD50,intraperitoneal,710,,"Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 16(301), 1991",Triflumizole
+91699,68694-11-1,mouse,LD50,oral,510,,"Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 16(301), 1991",Triflumizole
+91699,68694-11-1,mouse,LD50,intraperitoneal,530,,"Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 16(301), 1991",Triflumizole
+91699,68694-11-1,quail,LD50,oral,2467,,"Pesticide Manual., 9(849), 1991",Triflumizole
+91699,68694-11-1,quail,LD50,unreported,2467,,"Japan Pesticide Information., (52)(27), 1988",Triflumizole
+91727,76674-21-0,rat,LD50,oral,1140,,"Pesticide Manual., 9(427), 1991",Flutriafol
+91727,76674-21-0,mouse,LD50,oral,179,,"Defense des Vegetaux., 38(77), 1984",Flutriafol
+91727,76674-21-0,rabbit,LD50,oral,200,,"Defense des Vegetaux., 38(77), 1984",Flutriafol
+91727,76674-21-0,guinea pig,LD50,oral,200,,"Defense des Vegetaux., 38(77), 1984",Flutriafol
+91727,76674-21-0,mammal (species unspecified),LD50,oral,5670,,"Defense des Vegetaux., 44(262)(28), 1990",Flutriafol
+91739,84087-01-4,rat,LD50,oral,2190,,"Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 15(647), 1990",Quinclorac
+91754,96489-71-3,mouse,LD50,oral,205,"BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); LUNGS, THORAX, OR RESPIRATION: RESPIRATORY DEPRESSION; SKIN AND APPENDAGES (SKIN): HAIR: OTHER","Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 19(S243), 1994",Pyridaben
+91754,96489-71-3,rat,LD50,oral,570,"BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: MUSCLE WEAKNESS; LUNGS, THORAX, OR RESPIRATION: RESPIRATORY DEPRESSION","Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 19(S243), 1994",Pyridaben
+91757,97886-45-8,quail,LD50,oral,2250,,"Pesticide Manual., 9(321), 1991",Dithiopyr
+93315,57960-19-7,rat,LD50,intraperitoneal,1719,"PERIPHERAL NERVE AND SENSATION: SPASTIC PARALYSIS WITH OR WITHOUT SENSORY CHANGE; GASTROINTESTINAL: HYPERMOTILITY, DIARRHEA","National Technical Information Service., OTS0540509",Acequinocyl
+93357,65731-84-2,rat,LD50,oral,79,,"Pesticide Manual., 9(210), 1991",alpha-Cypermethrin
+93357,65731-84-2,rat,LD50,skin,500,,"Pesticide Manual., 9(210), 1991",alpha-Cypermethrin
+93379,68157-60-8,mouse,LD50,oral,500,SENSE ORGANS AND SPECIAL SENSES: PTOSIS: EYE; BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: MUSCLE WEAKNESS,"National Technical Information Service., OTS0543084",Forchlorfenuron
+9411,314-40-9,rat,LD50,oral,641,,"Fundamental and Applied Toxicology., 7(299), 1986",Bromacil
+9411,314-40-9,rat,LD50,skin,2500,,"Fundamental and Applied Toxicology., 7(299), 1986",Bromacil
+9411,314-40-9,mouse,LD50,oral,3040,,"Journal of Environmental Science and Health, Part B: Pesticides, Food Contaminants, and Agricultural Wastes., 15(867), 1980 [PMID:7002991]",Bromacil
+9502,330-55-2,rat,LD50,oral,1146,,"Fundamental and Applied Toxicology., 7(299), 1986",Linuron
+9502,330-55-2,rat,LD50,skin,2500,,"Fundamental and Applied Toxicology., 7(299), 1986",Linuron
+9502,330-55-2,mouse,LD50,oral,1500,,"Yakkyoku.  Pharmacy., 36(387), 1985",Linuron
+9502,330-55-2,dog,LD50,oral,500,,"Guide to the Chemicals Used in Crop Protection., 6(317), 1973",Linuron
+9502,330-55-2,rabbit,LD50,oral,2250,,"Agrochemicals Handbook, with updates, Hartley, D., and H. Kidd, eds., Nottingham, Royal Soc of Chemistry, 1983-86, A248(1984)",Linuron
+9502,330-55-2,chicken,LD50,oral,3765,,"Veterinariya.  Veterinary Science., 58(7)(63), 1982",Linuron
+9576412,134098-61-6,rat,LD50,oral,245,,"Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 17(S261), 1992",Fenpyroximate
+9576412,134098-61-6,mouse,LD50,oral,440,,"Nippon Noyaku Gakkaishi.  Journal of the Pesticide Science Society of Japan., 17(S261), 1992",Fenpyroximate
+9864,420-04-2,rat,LD50,oral,125,,"Merck Index; an Encyclopedia of Chemicals, Drugs, and Biologicals, 11th ed., Rahway, NJ 07065, Merck & Co., Inc. 1989, 11(418), 1989",Cyanamide
+9864,420-04-2,rat,LD50,skin,84,,"Toxicometric Parameters of Industrial Toxic Chemicals Under Single Exposure, Izmerov, N.F., et al., Moscow, Centre of International Projects, GKNT, 1982, -(40), 1982",Cyanamide
+9864,420-04-2,rat,LDLo,intraperitoneal,200,SENSE ORGANS AND SPECIAL SENSES: MIOSIS (PUPILLARY CONSTRICTION): EYE; BEHAVIORAL: COMA; GASTROINTESTINAL: CHANGES IN STRUCTURE OR FUNCTION OF SALIVARY GLANDS,"Proceedings of the Society for Experimental Biology and Medicine., 54(254), 1943",Cyanamide
+9864,420-04-2,rat,LD50,intravenous,56,,"Toxicometric Parameters of Industrial Toxic Chemicals Under Single Exposure, Izmerov, N.F., et al., Moscow, Centre of International Projects, GKNT, 1982, -(40), 1982",Cyanamide
+9864,420-04-2,rat,LD50,unreported,280,,"Toxicology of Drugs and Chemicals, Deichmann, W.B., New York, Academic Press, Inc., 1969, -(190), 1969",Cyanamide
+9864,420-04-2,mouse,LD50,oral,388,,"Toxicometric Parameters of Industrial Toxic Chemicals Under Single Exposure, Izmerov, N.F., et al., Moscow, Centre of International Projects, GKNT, 1982, -(40), 1982",Cyanamide
+9864,420-04-2,mouse,LD50,intraperitoneal,200,,"National Technical Information Service., AD277-689",Cyanamide
+9864,420-04-2,cat,LD50,oral,100,,"Toxicometric Parameters of Industrial Toxic Chemicals Under Single Exposure, Izmerov, N.F., et al., Moscow, Centre of International Projects, GKNT, 1982, -(40), 1982",Cyanamide
+9864,420-04-2,rabbit,LD50,oral,150,,"Toxicometric Parameters of Industrial Toxic Chemicals Under Single Exposure, Izmerov, N.F., et al., Moscow, Centre of International Projects, GKNT, 1982, -(40), 1982",Cyanamide
+9864,420-04-2,rabbit,LD50,skin,590,,"Toxicology of Drugs and Chemicals, Deichmann, W.B., New York, Academic Press, Inc., 1969, -(190), 1969",Cyanamide
+991,56-38-2,man,TDLo,oral,214,PERIPHERAL NERVE AND SENSATION: SPASTIC PARALYSIS WITH OR WITHOUT SENSORY CHANGE; BEHAVIORAL: CHANGES IN MOTOR ACTIVITY (SPECIFIC ASSAY); BEHAVIORAL: COMA,"Journal of Neurology, Neurosurgery and Psychiatry., 56(1135), 1993 [PMID:8410019]",Parathion
+991,56-38-2,human,LD50,oral,3,,"Agrochemicals Handbook, with updates, Hartley, D., and H. Kidd, eds., Nottingham, Royal Soc of Chemistry, 1983-86, A311(1986)",Parathion
+991,56-38-2,rat,LD50,oral,2,,"Toxicology and Applied Pharmacology., 11(546), 1967 [PMID:5586363]",Parathion
+991,56-38-2,rat,LD50,intraperitoneal,2,,"Advances in Pest Control Research., 4(117), 1961",Parathion
+991,56-38-2,rat,LD50,subcutaneous,9,SENSE ORGANS AND SPECIAL SENSES: LACRIMATION: EYE; BEHAVIORAL: MUSCLE CONTRACTION OR SPASTICITY),"Toksikologiya Novykh Promyshlennykh Khimicheskikh Veshchestv.  Toxicology of New Industrial Chemical Substances.  For English translation, see TNICS*., 7(122), 1965",Parathion
+991,56-38-2,rat,LD50,intramuscular,6,,"Journal of Clinical Investigation., 37(350), 1958 [PMID:13513766]",Parathion
+991,56-38-2,mouse,LD50,oral,5,,"Agricultural and Biological Chemistry., 30(181), 1966",Parathion
+991,56-38-2,mouse,LD50,skin,19,,"Agricultural and Biological Chemistry., 26(257), 1962",Parathion
+991,56-38-2,mouse,LD50,intraperitoneal,3,,"Journal of Agricultural and Food Chemistry., 11(91), 1963",Parathion
+991,56-38-2,mouse,LD50,subcutaneous,10,,"Pharmazie., 37(729), 1982",Parathion
+991,56-38-2,mouse,LD50,intravenous,13,,"Toxicology and Applied Pharmacology., 22(684), 1972 [PMID:5045772]",Parathion
+991,56-38-2,dog,LD50,oral,3,,"Special Publication of the Entomological Society of America., 78-1(33), 1978",Parathion
+991,56-38-2,dog,LD50,intraperitoneal,12,"BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: TREMOR; LUNGS, THORAX, OR RESPIRATION: RESPIRATORY DEPRESSION","Journal of Pharmacology and Experimental Therapeutics., 95(79), 1949",Parathion
+991,56-38-2,dog,LD50,intravenous,12,"SENSE ORGANS AND SPECIAL SENSES: LACRIMATION: EYE; BEHAVIORAL: ATAXIA; LUNGS, THORAX, OR RESPIRATION: RESPIRATORY STIMULATION","JAMA, Journal of the American Medical Association., 144(104), 1950 [PMID:15436303]",Parathion
+991,56-38-2,cat,LD50,intraperitoneal,3,"BEHAVIORAL: SOMNOLENCE (GENERAL DEPRESSED ACTIVITY); BEHAVIORAL: TREMOR; LUNGS, THORAX, OR RESPIRATION: RESPIRATORY DEPRESSION","Journal of Pharmacology and Experimental Therapeutics., 95(79), 1949",Parathion
+991,56-38-2,cat,LD50,intravenous,3,"SENSE ORGANS AND SPECIAL SENSES: LACRIMATION: EYE; BEHAVIORAL: ATAXIA; LUNGS, THORAX, OR RESPIRATION: RESPIRATORY STIMULATION","JAMA, Journal of the American Medical Association., 144(104), 1950 [PMID:15436303]",Parathion
+991,56-38-2,rabbit,LD50,oral,10,,"Special Publication of the Entomological Society of America., 78-1(33), 1978",Parathion
+991,56-38-2,rabbit,LD50,skin,15,,"Toxicological Information on Cyanamid Insecticides., 8/1966",Parathion
+991,56-38-2,rabbit,LD50,subcutaneous,30,SENSE ORGANS AND SPECIAL SENSES: LACRIMATION: EYE; BEHAVIORAL: MUSCLE CONTRACTION OR SPASTICITY),"Toksikologiya Novykh Promyshlennykh Khimicheskikh Veshchestv.  Toxicology of New Industrial Chemical Substances.  For English translation, see TNICS*., 7(122), 1965",Parathion
+991,56-38-2,guinea pig,LD50,oral,8,,"Arzneimittel-Forschung. Drug Research., 5(626), 1955 [PMID:13293054]",Parathion
+991,56-38-2,guinea pig,LD50,skin,45,,"Toxicological Information on Cyanamid Insecticides., 8/1966",Parathion
+991,56-38-2,guinea pig,LD50,intraperitoneal,12,,"Arzneimittel-Forschung. Drug Research., 5(626), 1955 [PMID:13293054]",Parathion
+991,56-38-2,guinea pig,LD50,subcutaneous,10,SENSE ORGANS AND SPECIAL SENSES: LACRIMATION: EYE; BEHAVIORAL: MUSCLE CONTRACTION OR SPASTICITY),"Toksikologiya Novykh Promyshlennykh Khimicheskikh Veshchestv.  Toxicology of New Industrial Chemical Substances.  For English translation, see TNICS*., 7(122), 1965",Parathion
+991,56-38-2,chicken,LD50,oral,10,,"Environmental Quality and Safety., 3(173), 1974",Parathion
+991,56-38-2,duck,LD50,skin,28,,"Toxicology and Applied Pharmacology., 47(451), 1979 [PMID:442090]",Parathion
+991,56-38-2,horse/donkey,LD50,oral,5,,"Wirksubstanzen der Pflanzenschutz und Schadlingsbekampfungsmittel, Perkow, W., Berlin, Verlag Paul Parey, 1971-1976, -(-), 1971/1976",Parathion
+991,56-38-2,domestic animals - goat/sheep,LDLo,oral,100,"BEHAVIORAL: EXCITEMENT; BEHAVIORAL: REGIDITY; LUNGS, THORAX, OR RESPIRATION: DYSPNEA","U.S. Army, Chemical Corps Medical Laboratories Research Reports., #269(1954)",Parathion
+991,56-38-2,domestic animals - goat/sheep,LDLo,intramuscular,20,SENSE ORGANS AND SPECIAL SENSES: MIOSIS (PUPILLARY CONSTRICTION): EYE; BEHAVIORAL: MUSCLE WEAKNESS; BEHAVIORAL: REGIDITY,"U.S. Army, Chemical Corps Medical Laboratories Research Reports., #269(1954)",Parathion
+991,56-38-2,mammal (species unspecified),LD50,oral,49,BEHAVIORAL: TREMOR; BEHAVIORAL: CONVULSIONS OR EFFECT ON SEIZURE THRESHOLD; BEHAVIORAL: ATAXIA,"National Technical Information Service., PB288-416",Parathion
+991,56-38-2,mammal (species unspecified),LD50,unreported,6,,"Chemistry of Pesticides, Melnikov, N.N., New York, Springer-Verlag New York, Inc., 1971, -(323), 1971",Parathion
+991,56-38-2,frog,LD50,parenteral,967,"PERIPHERAL NERVE AND SENSATION: FLACCID PARALYSIS WITHOUT ANESTHESIA (USUALLY NEUROMUSCULAR BLOCKAGE); BEHAVIORAL: ALTERED SLEEP TIME (INCLUDING CHANGE IN RIGHTING REFLEX); LUNGS, THORAX, OR RESPIRATION: OTHER CHANGES","Archives Internationales de Pharmacodynamie et de Therapie., 124(212), 1960 [PMID:13819287]",Parathion
+991,56-38-2,man,TDLo,oral,2143,BEHAVIORAL: COMA; CARDIAC: PULSE RATE; VASCULAR: SHOCK,"Neurology., 31(603), 1981 [PMID:7194975]",Parathion
+151080,3100-04-07,rat,LD50,oral,5000,,USEPA/Office of Pesticide Programs; Biopesticide Registration Action Document - 1-Methylcylclopropene (224459),1-Methylcyclopropene
+151080,3100-04-07,rabbit,LD50,dermal,2000,,USEPA/Office of Pesticide Programs; Biopesticide Registration Action Document - 1-Methylcylclopropene (224459),1-Methylcyclopropene
+24462,7758-98-7,rat,LD50,oral,300,,WHO; Environ Health Criteria 200: Copper p.101 (1998),Cupric sulfate
+24462,7758-98-7,rabbit,LD50,oral,125,,WHO; Environ Health Criteria 200: Copper p.101 (1998),Cupric sulfate
+24462,7758-98-7,mouse,LD100,oral,50,,WHO; Environ Health Criteria 200: Copper p.101 (1998),Cupric sulfate
+13633097,163515-14-8,rat,LD50,skin,2000,,"Proposal for Harmonised Classification and Labelling for Dimethenamid-P (September, 2012); Available from, as of August 3, 2018:",Dimethenamid-P
+13633097,163515-14-8,rat,LD50,oral,480,,"WHO/FAO; Joint Meeting on Pesticide Residues Evaluation for Dimethenamid-P (163515-14-8) p.202 (2005). Available from, as of August 3, 2018: https://www.inchem.org/pages/jmpr.html",Dimethenamid-P
+5284389,39300-45-3,rat,LD50,oral,980,,"The Merck Index. 9th ed. Rahway, New Jersey: Merck & Co., Inc., 1976., p. 438",Meptyldinocap
+56841936,1332-58-7,rat,LD50,oral,5000,,"USEPA/Office of Pesticide Programs; Registration Eligibility Document - Kaolin (100104). April 2000 Available from, as of June 5, 2007:",Kaolin
+6861,86-86-2,rat,LD50,oral,1690,,"Farm Chemicals Handbook., -(C214), 1991",1-Naphthaleneacetamide
