@@ -1,5 +1,5 @@
-# ToxicologyProject
-Ongoing repository used for Ecotoxicology Project
+# Toxicology Project
+`* Currently ongoing project`
 
-## TODO1: convert micrograms into milligrams. Then, remove all units and just update the col name
-## TODO2: Find out how to inject a disclaimer into metadata for the csv perhaps to describe the state of the data in the dataframe
+## What is the Toxicology Project Repository?
+The Toxicology Project repository is an ongoing project where I write python scripts that automate data collection from reputable sources for toxicology data such as `https://pubchem.ncbi.nlm.nih.gov/`. I also wrangle raw data using R and convert them into a tidy format that will be used for data analysis with my supervisor at the WildLife and Conservation Economics Laboratory at UBC.
