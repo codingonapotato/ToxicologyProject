@@ -44,5 +44,5 @@ cleanData <- data %>%
     select(-"...9")
 
 # Effects: Writes the cleanData to file
-write.csv(cleanData, file = "data/cleanAggregatedToxicologyData.csv", 
+write.csv(cleanData, file = "data/cleanAggregatedToxicologyData.csv",
 row.names = FALSE)
