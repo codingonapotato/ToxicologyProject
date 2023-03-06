@@ -25,6 +25,9 @@ pivotted_data <- data %>%
                                  # like a lambda function :0 but more concise
                                  # period represents a column as a parameter
 
+dest <- "ToxicologyProject/data/testReference.csv"
+write.csv(pivotted_data, dest, row.names = FALSE)
+
 # Previewing data columns to figure out how to define reg-ex. Will target '...'
 # to get rid of duplicate columns
 pivotted_data_cols <- pivotted_data %>%
@@ -63,7 +66,9 @@ binary_data_precheck <- pivotted_data_cols_clean %>%
 
 ## Extracting a vector to use in function to make binary dataframe by checking for membership
 binary_rowname_vector <- select(binary_data_precheck, Values) %>%
-    as_vector()
+    mutate(Values = str_trim(Values)) %>% # Call to str_trim here to
+    as_vector()                           # remove whitespace flanking string
+
 binary_rowname_vector <- binary_rowname_vector[binary_rowname_vector != "NULL"]
 # print(binary_rowname_vector)
 
@@ -73,34 +78,37 @@ binary_rowname_vector <- binary_rowname_vector[binary_rowname_vector != "NULL"]
 
 # Creating binary effects data
 toBinaryData <- function(arg) {
-    arg <- as_vector(arg)
-    binary_rowname_vector <- as_vector(binary_rowname_vector)
+    resultVector <- c() # R is pass-by-value which makes this more difficult
     for (s in arg) {
+        s <- str_trim(s)
         if (s %in% binary_rowname_vector) {
-            return(1)
+            resultVector <- append(resultVector, 1)
         } else if (s == "NULL" || is.na(s) || s == "NA") {
-            return(0)
+            resultVector <- append(resultVector, 0)
         } else {
-            return(-1) # Just for some semantic error handling just in case
+            resultVector <- append(resultVector, -1) # Just for some semantic error handling just in case
         }
     }
+    return (resultVector)
 }
 # Simple test case to verify that the function works
-simpleTest <- c("NULL", NA, "NA", "simpleTest", "dummyData")
+simpleTest <- c("NULL", NA, "NA", "simpleTest", "dummyData", "BEHAVIORAL: MUSCLE WEAKNESS")
 output <- c()
 for (s in simpleTest) {
+    s <- str_trim(s)
+    cat(s, "\n")
     if (s %in% binary_rowname_vector) {
-        output <- append(output, toBinaryData(s, "simpleTest"))
+        output <- append(output, toBinaryData(s))
     }
 }
-print(output)
+# print(output) # Note that there is 1 element and it's a 1 which confirms that test passed
 
 # Making binary dataframe:
-
-binary_data <- pivotted_data_cols_clean %>%
-    mutate(across(.cols = (10:11), toBinaryData))
-print(binary_data)
-
+for (col in names(pivotted_data_cols_clean[10:ncol(pivotted_data_cols_clean)])) {
+    resultVector <- toBinaryData(pivotted_data_cols_clean[[col]])
+    pivotted_data_cols_clean[[col]] <- resultVector
+}
+print(pivotted_data_cols_clean)
 # Writing to file
 dest <- "ToxicologyProject/data/test.csv"
-write.csv(binary_data, dest, row.names = FALSE)
+write.csv(pivotted_data_cols_clean, dest, row.names = FALSE)
