@@ -108,7 +108,7 @@ for (col in names(pivotted_data_cols_clean[10:ncol(pivotted_data_cols_clean)])) 
     resultVector <- toBinaryData(pivotted_data_cols_clean[[col]])
     pivotted_data_cols_clean[[col]] <- resultVector
 }
-print(pivotted_data_cols_clean)
+print(ncol(pivotted_data_cols_clean))
 # Writing to file
-dest <- "ToxicologyProject/data/test.csv"
-write.csv(pivotted_data_cols_clean, dest, row.names = FALSE)
+# dest <- "ToxicologyProject/data/test.csv"
+# write.csv(pivotted_data_cols_clean, dest, row.names = FALSE)
