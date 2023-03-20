@@ -38,3 +38,4 @@ categorizedNoGram.csv | PubChem | Intermediate dataframe using the NoGram.csv as
 RawAggregatedToxicologyData.csv | PubChem | Unmodified raw dataframe
 aggregateAquaticIntermediate.csv | EcoTox | Modified dataframe with observations extracted from EcoTox using CAS numbers from 2017_AVG_EPEST_HIGH_PLUS.csv
 mg_per_L_aquaticDataframe.csv | EcoTox | Dataframe with observations subsetted from aggregateAquaticIntermediate.csv that only have units of AI mg/L or mg/L 
+---
