@@ -77,7 +77,7 @@ aquatic_df_sd <- aquatic_df %>% #nolint
 
 aquatic_df_AI <- aquatic_df %>% #nolint
     filter(Conc.1.Units..Standardized. == "AI mg/L")
-aquatic_df_mg <- aquatic_df %>% 
+aquatic_df_mg <- aquatic_df %>%
     filter(Conc.1.Units..Standardized. == "mg/L")
 
 aquatic_df_AI_quantile <- quantile(aquatic_df_AI$Conc.1.Mean..Standardized., prob = c(.25, .5, .75)) #nolint
@@ -97,10 +97,68 @@ who_histogram <- ggplot(who_df, aes(x = dose_mg_per_kg)) +
     geom_histogram(aes(y=..density..)) +
     geom_density(alpha = .3, fill = "#FF6666") +
     labs(x = "Dose (mg/kg)", y = "Enumeration")
-print(who_histogram)
+# print(who_histogram)
 
 aquatic_histogram <- ggplot(aquatic_df, aes(x = Conc.1.Mean..Standardized.)) +
     geom_histogram(aes(y = ..density..)) +
     geom_density(alpha = .3, fill = "#3c9cbc") +
     labs(x = "Dose (mg/kg)", y = "Enumeration")
 # print(aquatic_histogram)
+
+who_boxplot <- ggplot(who_df, aes(x = factor(0), y = dose_mg_per_kg)) +
+    geom_boxplot() +
+    labs(y = "Dose (mg/kg)", x = "") +
+    ggtitle("WHO Dataframe Dose (mg/kg) Boxplot (Outliers Included)") +
+    theme(plot.title = element_text(hjust = 0.5)) +
+    theme(text = element_text(size = 15))
+# print(who_boxplot)
+
+who_lower_bound <- as.numeric(who_df_quantile[1] - 1.5 * who_df_IQR)
+who_upper_bound <- as.numeric(who_df_quantile[3] + 1.5 * who_df_IQR)
+
+who_df_outlier_free <- subset(who_df, who_df$dose_mg_per_kg > who_lower_bound & who_df$dose_mg_per_kg < who_upper_bound) #nolint
+
+who_boxplot_outlier_free <- ggplot(who_df_outlier_free, aes(x = factor(0), y = dose_mg_per_kg)) + #nolint
+    geom_boxplot() +
+    labs(y = "Dose (mg/kg)", x = "") +
+    ggtitle("WHO Dataframe Dose (mg/kg) Boxplot (Outliers Removed)") +
+    theme(plot.title = element_text(hjust = 0.5)) +
+    theme(text = element_text(size = 15))
+# print(who_boxplot_outlier_free)
+
+aquatic_boxplot <- ggplot(aquatic_df, aes(x = Conc.1.Units..Standardized., y=Conc.1.Mean..Standardized.)) + #nolint
+    geom_boxplot() +
+    labs(y = "Dose Mean", x = "Dose Type") +
+    ggtitle("Aquatic dataframe dose concentration mean boxplot (Outliers Included)") + #nolint
+    theme(plot.title = element_text(hjust = 0.5)) +
+    theme(text = element_text(size = 15))
+# print(aquatic_boxplot)
+
+aquatic_AI_lower_bound <- as.numeric(aquatic_df_AI_quantile[1] - 1.5 * who_df_IQR) #nolint
+aquatic_AI_upper_bound <- as.numeric(aquatic_df_AI_quantile[1] + 1.5 * who_df_IQR) #nolint
+aquatic_mg_lower_bound <- as.numeric(aquatic_df_mg_quantile[1] - 1.5 * who_df_IQR) #nolint
+aquatic_mg_upper_bound <- as.numeric(aquatic_df_mg_quantile[1] + 1.5 * who_df_IQR) #nolint
+
+aquatic_AI_outlier_free <- filter(aquatic_df, Conc.1.Units..Standardized. == "AI mg/L" #nolint
+    & Conc.1.Mean..Standardized. > aquatic_AI_lower_bound #nolint
+    & Conc.1.Mean..Standardized. < aquatic_AI_upper_bound) #nolint
+
+aquatic_mg_outlier_free <- filter(aquatic_df, Conc.1.Units..Standardized. == "mg/L" #nolint
+    & Conc.1.Mean..Standardized. > aquatic_mg_lower_bound #nolint
+    & Conc.1.Mean..Standardized. < aquatic_mg_upper_bound) #nolint
+
+aquatic_AI_boxplot_outlier_free <- ggplot(aquatic_AI_outlier_free, aes(x = Conc.1.Units..Standardized., y=Conc.1.Mean..Standardized.)) + #nolint
+    geom_boxplot() +
+    labs(y = "Dose Mean", x = "Dose Type") +
+    ggtitle("Aquatic dataframe dose concentration mean boxplot (Outliers Excluded)") + #nolint
+    theme(plot.title = element_text(hjust = 0.5)) +
+    theme(text = element_text(size = 15))
+# print(aquatic_AI_boxplot_outlier_free)
+
+aquatic_mg_boxplot_outlier_free <- ggplot(aquatic_mg_outlier_free, aes(x = Conc.1.Units..Standardized., y=Conc.1.Mean..Standardized.)) + #nolint
+    geom_boxplot() +
+    labs(y = "Dose Mean", x = "Dose Type") +
+    ggtitle("Aquatic dataframe dose concentration mean boxplot (Outliers Excluded)") + #nolint
+    theme(plot.title = element_text(hjust = 0.5)) +
+    theme(text = element_text(size = 15))
+print(aquatic_mg_boxplot_outlier_free)
