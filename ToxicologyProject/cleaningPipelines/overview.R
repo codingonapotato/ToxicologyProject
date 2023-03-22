@@ -2,8 +2,8 @@ library(tidyverse)
 library(ggplot2)
 
 ## Loading source files:
-who_path <- "./ToxicologyProject/data/completed/whoClassifiedData.csv"
-aquatic_path <- "./ToxicologyProject/data/completed/mg_per_L_aquaticDataframe.csv" # nolint
+who_path <- "./data/completed/whoClassifiedData.csv"
+aquatic_path <- "./data/completed/mg_per_L_aquaticDataframe.csv" # nolint
 who_df <- read.csv(who_path) %>%
     as.tibble()
 # print(who_df) # nolint
@@ -92,18 +92,21 @@ aquatic_stats <- bind_cols(aquatic_df_mean,
     aquatic_quantile)
 print(aquatic_stats)
 
+dest_path <- "./visualizations/2023_03_22"
 ## Now time for some scatter plot visualization
 who_histogram <- ggplot(who_df, aes(x = dose_mg_per_kg)) +
     geom_histogram(aes(y=..density..)) +
     geom_density(alpha = .3, fill = "#FF6666") +
-    labs(x = "Dose (mg/kg)", y = "Enumeration")
-# print(who_histogram)
+    labs(x = "Dose (mg/kg)", y = "Enumeration") +
+    ggtitle("Distribution of Data Points in WHO Classified Dataframe") + 
+    theme(text = element_text(size = 15))
 
 aquatic_histogram <- ggplot(aquatic_df, aes(x = Conc.1.Mean..Standardized.)) +
     geom_histogram(aes(y = ..density..)) +
     geom_density(alpha = .3, fill = "#3c9cbc") +
-    labs(x = "Dose (mg/kg)", y = "Enumeration")
-# print(aquatic_histogram)
+    labs(x = "Dose (mg/kg)", y = "Enumeration") + 
+    ggtitle("Distribution of Data Points in Aquatic Dataframe") + 
+    theme(text = element_text(size = 15))
 
 who_boxplot <- ggplot(who_df, aes(x = factor(0), y = dose_mg_per_kg)) +
     geom_boxplot() +
@@ -111,7 +114,6 @@ who_boxplot <- ggplot(who_df, aes(x = factor(0), y = dose_mg_per_kg)) +
     ggtitle("WHO Dataframe Dose (mg/kg) Boxplot (Outliers Included)") +
     theme(plot.title = element_text(hjust = 0.5)) +
     theme(text = element_text(size = 15))
-# print(who_boxplot)
 
 who_lower_bound <- as.numeric(who_df_quantile[1] - 1.5 * who_df_IQR)
 who_upper_bound <- as.numeric(who_df_quantile[3] + 1.5 * who_df_IQR)
@@ -124,15 +126,13 @@ who_boxplot_outlier_free <- ggplot(who_df_outlier_free, aes(x = factor(0), y = d
     ggtitle("WHO Dataframe Dose (mg/kg) Boxplot (Outliers Removed)") +
     theme(plot.title = element_text(hjust = 0.5)) +
     theme(text = element_text(size = 15))
-# print(who_boxplot_outlier_free)
 
 aquatic_boxplot <- ggplot(aquatic_df, aes(x = Conc.1.Units..Standardized., y=Conc.1.Mean..Standardized.)) + #nolint
     geom_boxplot() +
     labs(y = "Dose Mean", x = "Dose Type") +
-    ggtitle("Aquatic dataframe dose concentration mean boxplot (Outliers Included)") + #nolint
+    ggtitle("Aquatic Dataframe Dose Concentration Mean Boxplot (Outliers Included)") + #nolint
     theme(plot.title = element_text(hjust = 0.5)) +
     theme(text = element_text(size = 15))
-# print(aquatic_boxplot)
 
 aquatic_AI_lower_bound <- as.numeric(aquatic_df_AI_quantile[1] - 1.5 * who_df_IQR) #nolint
 aquatic_AI_upper_bound <- as.numeric(aquatic_df_AI_quantile[1] + 1.5 * who_df_IQR) #nolint
@@ -150,15 +150,21 @@ aquatic_mg_outlier_free <- filter(aquatic_df, Conc.1.Units..Standardized. == "mg
 aquatic_AI_boxplot_outlier_free <- ggplot(aquatic_AI_outlier_free, aes(x = Conc.1.Units..Standardized., y=Conc.1.Mean..Standardized.)) + #nolint
     geom_boxplot() +
     labs(y = "Dose Mean", x = "Dose Type") +
-    ggtitle("Aquatic dataframe dose concentration mean boxplot (Outliers Excluded)") + #nolint
+    ggtitle("Aquatic Dataframe Dose Concentration Mean Boxplot(Outliers Excluded)") + #nolint
     theme(plot.title = element_text(hjust = 0.5)) +
     theme(text = element_text(size = 15))
-# print(aquatic_AI_boxplot_outlier_free)
 
 aquatic_mg_boxplot_outlier_free <- ggplot(aquatic_mg_outlier_free, aes(x = Conc.1.Units..Standardized., y=Conc.1.Mean..Standardized.)) + #nolint
     geom_boxplot() +
     labs(y = "Dose Mean", x = "Dose Type") +
-    ggtitle("Aquatic dataframe dose concentration mean boxplot (Outliers Excluded)") + #nolint
+    ggtitle("Aquatic Dataframe Dose Concentration Mean Boxplot (Outliers Excluded)") + #nolint
     theme(plot.title = element_text(hjust = 0.5)) +
     theme(text = element_text(size = 15))
-print(aquatic_mg_boxplot_outlier_free)
+
+# ggsave("WHO histogram.png", who_histogram, path = dest_path)
+# ggsave("Aquatic histogram.png", aquatic_histogram, path = dest_path)
+# ggsave("WHO boxplot (outliers).png", who_boxplot, path = dest_path)
+# ggsave("WHO boxplot (outliers removed).png", who_boxplot_outlier_free, path = dest_path) #nolint
+# ggsave("Aquatic boxplot (outliers).png", aquatic_boxplot, path = dest_path)
+# ggsave("Aquatic AI boxplot (outliers removed).png", aquatic_AI_boxplot_outlier_free, path = dest_path) #nolint
+# ggsave("Aquatic mg boxplot (outliers removed).png", aquatic_mg_boxplot_outlier_free, path = dest_path) #nolint
