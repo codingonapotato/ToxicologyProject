@@ -2,8 +2,8 @@ library(tidyverse)
 library(ggplot2)
 
 ## Loading source files:
-who_path <- "./data/completed/whoClassifiedData.csv"
-aquatic_path <- "./data/completed/mg_per_L_aquaticDataframe.csv" # nolint
+who_path <- "./ToxicologyProject/data/completed/whoClassifiedData.csv"
+aquatic_path <- "./ToxicologyProject/data/completed/mg_per_L_aquaticDataframe.csv" # nolint
 who_df <- read.csv(who_path) %>%
     as.tibble()
 # print(who_df) # nolint
@@ -40,6 +40,7 @@ who_stats <- data.frame(Mean = who_df_mean,
     IQR = who_df_IQR) %>%
     bind_cols(who_df_quantile) %>%
     as_tibble()
+print("WHO dataframe basic statistics: ")
 print(who_stats)
 
 ## Calculating aquatic dataframe mean:
@@ -90,6 +91,7 @@ aquatic_stats <- bind_cols(aquatic_df_mean,
     aquatic_df_sd,
     aquatic_df_IQR,
     aquatic_quantile)
+print("Aquatic dataframe basic statistics: ")
 print(aquatic_stats)
 
 dest_path <- "./visualizations/2023_03_22"
